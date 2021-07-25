@@ -1,0 +1,2965 @@
+{
+    "data": [
+        {
+            "name": "Musa Unal",
+            "url": "https://musaunal.com",
+            "tags": [
+                "software",
+                "computers",
+                "virtualization"
+            ],
+            "furl": "https://musaunal.com/rss.xml",
+            "hnp": 0
+        },
+        {
+            "name": "Christine Dodrill",
+            "url": "https://christine.website",
+            "tags": [
+                "software"
+            ],
+            "hnp": 3522
+        },
+        {
+            "name": "joshua stein",
+            "url": "https://jcs.org/",
+            "tags": [
+                "software",
+                "os",
+                "systems",
+                "thinkpad",
+                "openbsd"
+            ],
+            "hnp": 1842
+        },
+        {
+            "name": "zserge",
+            "url": "https://zserge.com",
+            "tags": [
+                "software",
+                "complex-problems",
+                "virtualization",
+                "research"
+            ],
+            "furl": "https://zserge.com/rss",
+            "hnp": 3050
+        },
+        {
+            "name": "matklad",
+            "url": "https://matklad.github.io/",
+            "tags": [
+                "software",
+                "rust",
+                "theory",
+                "os",
+                "concurrency"
+            ],
+            "furl": "https://matklad.github.io/feed.xml",
+            "hnp": 2714
+        },
+        {
+            "name": "flak",
+            "url": "https://flak.tedunangst.com/",
+            "tags": [
+                "software",
+                "c",
+                "security",
+                "exploits"
+            ],
+            "furl": "https://flak.tedunangst.com/rss",
+            "hnp": 1380
+        },
+        {
+            "name": "A Collection of Unmitigated Pedantry",
+            "url": "https://acoup.blog",
+            "tags": [
+                "history",
+                "europe",
+                "ancient",
+                "medieval",
+                "social history"
+            ],
+            "furl": "https://acoup.blog/rss",
+            "hnp": 4014
+        },
+        {
+            "name": "Fatih Arslan",
+            "url": "https://arslan.io",
+            "tags": [
+                "software",
+                "photography"
+            ],
+            "hnp": 1531
+        },
+        {
+            "name": "Hund",
+            "url": "https://hund.tty1.se/",
+            "tags": [
+                "software",
+                "plaintext",
+                "markdown",
+                "linux",
+                "vim",
+                "gentoo"
+            ],
+            "furl": "https://hund.tty1.se/feed.xml",
+            "hnp": 0
+        },
+        {
+            "name": "RGZ.EE",
+            "url": "https://rgz.ee/",
+            "tags": [
+                "software",
+                "open-bsd",
+                "shell-scripts"
+            ],
+            "furl": "https://rgz.ee/rss.xml",
+            "hnp": 3
+        },
+        {
+            "name": "Jacob Williams",
+            "url": "https://brokensandals.net",
+            "tags": [
+                "software",
+                "philosophy",
+                "reading",
+                "backup-tools"
+            ],
+            "furl": "https://brokensandals.net/rss.xml",
+            "hnp": 42
+        },
+        {
+            "name": "the singularity is nearer",
+            "url": "https://geohot.github.io/blog/",
+            "tags": [
+                "software",
+                "geohot",
+                "ai",
+                "hacker",
+                ""
+            ],
+            "furl": "https://geohot.github.io/blog/feed",
+            "hnp": 144
+        },
+        {
+            "name": "Luke Smith",
+            "url": "https://lukesmith.xyz",
+            "tags": [
+                "software",
+                "free-software",
+                "latex",
+                "linux",
+                "vim",
+                "social sciences"
+            ],
+            "furl": "https://lukesmith.xyz/rss.xml",
+            "hnp": 226
+        },
+        {
+            "name": "Drew DeVault's blog",
+            "url": "https://drewdevault.com",
+            "tags": [
+                "software",
+                "programming languages",
+                "free-software"
+            ],
+            "furl": "https://drewdevault.com/blog/index.xml",
+            "hnp": 12063
+        },
+        {
+            "name": "benkuhn.net",
+            "url": "https://www.benkuhn.net",
+            "tags": [
+                "software"
+            ],
+            "furl": "https://www.benkuhn.net/index.xml",
+            "hnp": 4886
+        },
+        {
+            "name": "Signs of Triviality",
+            "url": "https://www.netmeister.org/blog/",
+            "tags": [
+                "software",
+                "dns",
+                "security"
+            ],
+            "furl": "https://www.netmeister.org/blog/rss.xml",
+            "hnp": 1296
+        },
+        {
+            "name": "Ned Batchelder",
+            "url": "https://nedbatchelder.com/blog",
+            "tags": [
+                "software",
+                "python",
+                "math",
+                "testing",
+                "git"
+            ],
+            "furl": "https://nedbatchelder.com/blog/rss.xml",
+            "hnp": 3368
+        },
+        {
+            "name": "fasterthanli.me",
+            "url": "https://fasterthanli.me/articles",
+            "tags": [
+                "software",
+                "rust"
+            ],
+            "furl": "https://fasterthanli.me/index.xml",
+            "hnp": 2023
+        },
+        {
+            "name": "justinobeirne.com",
+            "url": "https://www.justinobeirne.com/",
+            "tags": [
+                "software",
+                "maps",
+                "cryptography"
+            ],
+            "furl": "https://www.justinobeirne.com/everything?format=rss",
+            "hnp": 4908
+        },
+        {
+            "name": "the evolving ultrasaurus",
+            "url": "https://ultrasaurus.com",
+            "tags": [
+                "software",
+                "security",
+                "rust",
+                "computer-science"
+            ],
+            "furl": "https://ultrasaurus.com/feed/",
+            "hnp": 277
+        },
+        {
+            "name": "Kalzumeus Software",
+            "url": "https://www.kalzumeus.com",
+            "tags": [
+                "software",
+                "engineering",
+                "marketing",
+                "computer-science"
+            ],
+            "furl": "https://www.kalzumeus.com/feed/",
+            "hnp": 13261
+        },
+        {
+            "name": "Bert Hubert's writings",
+            "url": "https://berthub.eu/articles/",
+            "tags": [
+                "software",
+                "innovation",
+                "dna",
+                "linux",
+                "system"
+            ],
+            "furl": "https://berthub.eu/articles/index.xml",
+            "hnp": 3906
+        },
+        {
+            "name": "Alexey Guzey",
+            "url": "https://guzey.com",
+            "tags": [
+                "software"
+            ],
+            "furl": "https://berthub.eu/articles/index.xml",
+            "hnp": 1893
+        },
+        {
+            "name": "Juho Snellman's Weblog",
+            "url": "https://www.snellman.net",
+            "tags": [
+                "software",
+                "perl",
+                "security",
+                "lisp",
+                "networking"
+            ],
+            "furl": "https://www.snellman.net/blog/rss-index.xml",
+            "hnp": 3181
+        },
+        {
+            "name": "Stefan Hajnoczi",
+            "url": "https://vmsplice.net",
+            "tags": [
+                "software",
+                "virtualization",
+                "qemu",
+                "kvm",
+                "open source"
+            ],
+            "furl": "http://blog.vmsplice.net/feeds/posts/default",
+            "hnp": 315
+        },
+        {
+            "name": "Fun with virtualization",
+            "url": "https://virtuallyfun.com",
+            "tags": [
+                "software",
+                "virtualization",
+                "os",
+                "emulators"
+            ],
+            "furl": "https://virtuallyfun.com/wordpress/?call_custom_simple_rss=1",
+            "hnp": 886
+        },
+        {
+            "name": "Can B\u00f6l\u00fck",
+            "url": "https://can.ac",
+            "tags": [
+                "software",
+                "x86",
+                "windows",
+                "exploits",
+                "security"
+            ],
+            "furl": "https://blog.can.ac/feed",
+            "hnp": 227
+        },
+        {
+            "name": "Aviator Ahmet ",
+            "url": "https://aviatorahmet.blogspot.com/",
+            "tags": [
+                "software",
+                "electronics",
+                "robotics",
+                "microprocessors",
+                "rc"
+            ],
+            "furl": "https://aviatorahmet.blogspot.com/feeds/posts/default",
+            "hnp": 0
+        },
+        {
+            "name": "Alexander Soto ",
+            "url": "https://alexsoto.dev",
+            "tags": [
+                "software",
+                "eink tablet",
+                "displays",
+                "electronics"
+            ],
+            "furl": "https://alexsoto.dev/blog.xml",
+            "hnp": 620
+        },
+        {
+            "name": "No Shortage of Dreams",
+            "url": "https://spaceflighthistory.blogspot.com",
+            "tags": [
+                "history",
+                "space"
+            ],
+            "furl": "https://spaceflighthistory.blogspot.com/feeds/posts/default",
+            "hnp": 54
+        },
+        {
+            "name": "gir.st",
+            "url": "https://gir.st",
+            "tags": [
+                "hardware",
+                "software",
+                "electronics",
+                "rpi",
+                "linux"
+            ],
+            "furl": "",
+            "hnp": 1034
+        },
+        {
+            "name": "Eric Radman : a Journal ",
+            "url": "http://eradman.com",
+            "tags": [
+                "software",
+                "bsd",
+                "sql"
+            ],
+            "furl": "http://eradman.com/atom.xml",
+            "hnp": 187
+        },
+        {
+            "name": "the morning paper",
+            "url": "https://blog.acolyer.org",
+            "tags": [
+                "hardware",
+                "software",
+                "electronics",
+                "rpi",
+                "linux"
+            ],
+            "furl": "http://blog.acolyer.org/feed/",
+            "hnp": 5625
+        },
+        {
+            "name": "Irrational Exuberance",
+            "url": "https://lethain.com/",
+            "tags": [
+                "software",
+                "architecture"
+            ],
+            "furl": "https://lethain.com/feeds/",
+            "hnp": 1734
+        },
+        {
+            "name": "mathbabe",
+            "url": "https://mathbabe.org",
+            "tags": [
+                "science",
+                "math"
+            ],
+            "furl": "https://mathbabe.org/feed",
+            "hnp": 823
+        },
+        {
+            "name": "dcgross.com",
+            "url": "https://dcgross.com",
+            "tags": [
+                "software"
+            ],
+            "furl": "https://dcgross.com/feed",
+            "hnp": 1573
+        },
+        {
+            "name": "American Creation",
+            "url": "https://americancreation.blogspot.com",
+            "tags": [
+                "history",
+                "american"
+            ],
+            "furl": "https://americancreation.blogspot.com/feeds/posts/default",
+            "hnp": 0
+        },
+        {
+            "name": "Obsorptions",
+            "url": "https://www.windytan.com/",
+            "tags": [
+                "electronics",
+                "signal",
+                "reversing",
+                "security"
+            ],
+            "furl": "https://www.windytan.com/feeds/posts/default",
+            "hnp": 3480
+        },
+        {
+            "name": "Ken Shirriff's blog",
+            "url": "https://www.righto.com",
+            "tags": [
+                "electronics",
+                "computer history",
+                "vintage",
+                "ic",
+                "reversing"
+            ],
+            "furl": "https://www.righto.com/feeds/posts/default",
+            "hnp": 7481
+        },
+        {
+            "name": "Josh WComeau",
+            "url": "https://www.joshwcomeau.com",
+            "tags": [
+                "software",
+                "animation",
+                "css",
+                "career",
+                "next.js",
+                "performance"
+            ],
+            "furl": "https://www.joshwcomeau.com/rss.xml",
+            "hnp": 2462
+        },
+        {
+            "name": "Cheapskate's Guide",
+            "url": "https://cheapskatesguide.org",
+            "tags": [
+                "software",
+                "computer",
+                "internet"
+            ],
+            "furl": "https://cheapskatesguide.org/feed",
+            "hnp": 2218
+        },
+        {
+            "name": "The Tao of Mac",
+            "url": "https://taoofmac.com",
+            "tags": [
+                "software",
+                "hardware",
+                "electronics",
+                "linux"
+            ],
+            "furl": "https://taoofmac.com/feed",
+            "hnp": 1317
+        },
+        {
+            "name": "Seth's Blog",
+            "url": "https://seths.blog",
+            "tags": [
+                "social sciences",
+                "marketing",
+                "economy"
+            ],
+            "furl": "https://seths.blog/feed",
+            "hnp": 1609
+        },
+        {
+            "name": "0xADADA",
+            "url": "https://0xadada.pub/",
+            "tags": [
+                "software",
+                "essay",
+                "thoughts",
+                "css",
+                "travel",
+                "philosophy"
+            ],
+            "furl": "https://0xadada.pub/feed.xml",
+            "hnp": 201
+        },
+        {
+            "name": "Aaron Patterson",
+            "url": "http://tenderlovemaking.com/",
+            "tags": [
+                "software",
+                "ruby",
+                "debugging",
+                "lldb"
+            ],
+            "furl": "http://tenderlovemaking.com/atom.xml",
+            "hnp": 1193
+        },
+        {
+            "name": "Abu Ashraf Masnun",
+            "url": "http://masnun.com/",
+            "tags": [
+                "software",
+                "python",
+                "blog",
+                "site",
+                "django",
+                "inheritance"
+            ],
+            "furl": "http://masnun.com/feed",
+            "hnp": 150
+        },
+        {
+            "name": "Adam Bard",
+            "url": "https://adambard.com/blog/",
+            "tags": [
+                "software",
+                "clojure",
+                "python",
+                "programming"
+            ],
+            "furl": "https://adambard.com/blog/feed.xml",
+            "hnp": 915
+        },
+        {
+            "name": "Adam Leventhal",
+            "url": "http://dtrace.org/blogs/ahl/",
+            "tags": [
+                "software",
+                "apfs",
+                "wwdc",
+                "filesystem",
+                "detail",
+                "noms"
+            ],
+            "furl": "http://dtrace.org/blogs/ahl/feed/",
+            "hnp": 1333
+        },
+        {
+            "name": "Addy Osmani",
+            "url": "https://addyosmani.com/blog/",
+            "tags": [
+                "software",
+                "web",
+                "hud",
+                "display",
+                "performance",
+                "components"
+            ],
+            "furl": "http://addyosmani.com/rss.xml",
+            "hnp": 1435
+        },
+        {
+            "name": "Adrian Colyer",
+            "url": "https://blog.acolyer.org/",
+            "tags": [
+                "software",
+                "helios",
+                "part",
+                "pheromones",
+                "cloud",
+                "hellerstein"
+            ],
+            "furl": "https://blog.acolyer.org/feed/",
+            "hnp": 5625
+        },
+        {
+            "name": "Alex Rogozhnikov",
+            "url": "https://arogozhnikov.github.io/",
+            "tags": [
+                "software",
+                "microscopy",
+                "python",
+                "machine learning",
+                "ml",
+                "neural networks",
+                "numpy"
+            ],
+            "furl": "http://arogozhnikov.github.io/feed.xml",
+            "hnp": 490
+        },
+        {
+            "name": "Alex Russell",
+            "url": "https://infrequently.org/",
+            "tags": [
+                "software",
+                "apple",
+                "css"
+            ],
+            "furl": "https://infrequently.org/feed/",
+            "hnp": 1094
+        },
+        {
+            "name": "Allison Kaptur",
+            "url": "http://akaptur.com/",
+            "tags": [
+                "software",
+                "line-number",
+                "pycon",
+                "shell-scripting",
+                "git",
+                "debugging"
+            ],
+            "furl": "http://akaptur.com/atom.xml",
+            "hnp": 503
+        },
+        {
+            "name": "Amit Merchant",
+            "url": "https://www.amitmerchant.com/",
+            "tags": [
+                "software",
+                "laravel"
+            ],
+            "furl": "https://www.amitmerchant.com/feed.xml",
+            "hnp": 55
+        },
+        {
+            "name": "Anders Aarvik",
+            "url": "http://aarvik.dk/",
+            "tags": [
+                "software",
+                "unix",
+                "open source",
+                "systems"
+            ],
+            "furl": "http://aarvik.dk/rss/",
+            "hnp": 355
+        },
+        {
+            "name": "Andrew Bancroft",
+            "url": "http://www.andrewcbancroft.com/",
+            "tags": [
+                "software",
+                "swift",
+                "xcode",
+                "ios development"
+            ],
+            "furl": "https://www.andrewcbancroft.com/feed/",
+            "hnp": 1
+        },
+        {
+            "name": "Andrew Brampton",
+            "url": "https://blog.bramp.net/",
+            "tags": [
+                "software",
+                "publications",
+                "andrew",
+                "mathy"
+            ],
+            "furl": "https://blog.bramp.net/index.xml",
+            "hnp": 51
+        },
+        {
+            "name": "Andrew Ray",
+            "url": "https://blog.andrewray.me/",
+            "tags": [
+                "software",
+                "aws",
+                "webpack",
+                "docker",
+                "visual"
+            ],
+            "furl": "http://blog.andrewray.me/rss/",
+            "hnp": 172
+        },
+        {
+            "name": "Andrey Akinshin",
+            "url": "http://aakinshin.net/blog/",
+            "tags": [
+                "software",
+                "quantile"
+            ],
+            "furl": "http://aakinshin.net/en/rss.xml",
+            "hnp": 145
+        },
+        {
+            "name": "Ariejan de Vroom",
+            "url": "https://ariejan.net/",
+            "tags": [
+                "software",
+                "rails",
+                "ruby",
+                "git",
+                "mac"
+            ],
+            "furl": "https://www.devroom.io/index.xml",
+            "hnp": 103
+        },
+        {
+            "name": "Armin Ronacher",
+            "url": "http://lucumr.pocoo.org/",
+            "tags": [
+                "software",
+                "source",
+                "python",
+                "thoughts",
+                "open source",
+                "licesing"
+            ],
+            "furl": "http://lucumr.pocoo.org/feed.atom",
+            "hnp": 6020
+        },
+        {
+            "name": "Axel Rauschmayer",
+            "url": "http://www.2ality.com/",
+            "tags": [
+                "software",
+                "ecmascript",
+                "typescript"
+            ],
+            "furl": "http://feeds.feedburner.com/2ality",
+            "hnp": 1275
+        },
+        {
+            "name": "Bad Concurrency",
+            "url": "http://bad-concurrency.blogspot.com/",
+            "tags": [
+                "software",
+                "disruptor",
+                "london",
+                "blog",
+                "java"
+            ],
+            "furl": "http://bad-concurrency.blogspot.com/feeds/posts/default",
+            "hnp": 113
+        },
+        {
+            "name": "Barry Warsaw",
+            "url": "https://www.wefearchange.org/",
+            "tags": [
+                "software",
+                ""
+            ],
+            "furl": "http://www.wefearchange.org/feeds/all.atom.xml",
+            "hnp": 91
+        },
+        {
+            "name": "Bartlomiej Filipek",
+            "url": "http://www.bfilipek.com/",
+            "tags": [
+                "software",
+                "lambda",
+                "style",
+                "title"
+            ],
+            "furl": "https://www.bfilipek.com/feeds/posts/default",
+            "hnp": 1704
+        },
+        {
+            "name": "Ben McCormick",
+            "url": "https://benmccormick.org/",
+            "tags": [
+                "software",
+                ""
+            ],
+            "furl": "https://benmccormick.org/feed.json",
+            "hnp": 407
+        },
+        {
+            "name": "Bill the Lizard",
+            "url": "http://www.billthelizard.com/",
+            "tags": [
+                "software",
+                ""
+            ],
+            "furl": "http://www.billthelizard.com/feeds/posts/default",
+            "hnp": 1103
+        },
+        {
+            "name": "Bj\u00f8rn Johansen",
+            "url": "https://bjornjohansen.no/",
+            "tags": [
+                "software",
+                "composer",
+                "install",
+                "xdebug",
+                "forms"
+            ],
+            "furl": "https://bjornjohansen.no/feed",
+            "hnp": 339
+        },
+        {
+            "name": "Blundell's Android Tutorials",
+            "url": "http://blog.blundellapps.co.uk",
+            "tags": [
+                "software",
+                "tut",
+                "type",
+                "protected"
+            ],
+            "furl": "http://blog.blundellapps.co.uk/feed/",
+            "hnp": 0
+        },
+        {
+            "name": "Brandon Rhodes",
+            "url": "http://rhodesmill.org/brandon/",
+            "tags": [
+                "software",
+                "css",
+                "svg",
+                "python"
+            ],
+            "furl": "http://rhodesmill.org/brandon/feed",
+            "hnp": 523
+        },
+        {
+            "name": "Brendan Eich",
+            "url": "https://brendaneich.com/",
+            "tags": [
+                "software",
+                "mozilla",
+                "keynote",
+                "web",
+                "n"
+            ],
+            "furl": "https://brendaneich.com/feed/",
+            "hnp": 3204
+        },
+        {
+            "name": "Brendan Gregg",
+            "url": "http://www.brendangregg.com/blog/",
+            "tags": [
+                "software",
+                "linux",
+                "bpf",
+                "performance",
+                "ebpf",
+                "netflix"
+            ],
+            "furl": "http://www.brendangregg.com/blog/rss.xml",
+            "hnp": 5971
+        },
+        {
+            "name": "Brujo Benavides",
+            "url": "https://medium.com/@elbrujohalcon",
+            "tags": [
+                "software",
+                "erlang",
+                "blockquote",
+                "list",
+                "dialyzer"
+            ],
+            "furl": "https://medium.com/feed/@elbrujohalcon",
+            "hnp": 109
+        },
+        {
+            "name": "Bryan Cantrill",
+            "url": "http://dtrace.org/blogs/bmc/",
+            "tags": [
+                "software",
+                "rust",
+                "blog",
+                "spaces",
+                "kid",
+                "lot",
+                "n"
+            ],
+            "furl": "http://dtrace.org/blogs/bmc/feed/",
+            "hnp": 3492
+        },
+        {
+            "name": "Carlos Becker",
+            "url": "https://carlosbecker.com",
+            "tags": [
+                "software",
+                "goreleaser",
+                "docker",
+                "java",
+                "kubernetes",
+                "work"
+            ],
+            "furl": "https://carlosbecker.com/index.xml",
+            "hnp": 30
+        },
+        {
+            "name": "Chen Hui Jing",
+            "url": "https://www.chenhuijing.com/blog/",
+            "tags": [
+                "software",
+                "color",
+                "video"
+            ],
+            "furl": "https://www.chenhuijing.com/feed.xml",
+            "hnp": 566
+        },
+        {
+            "name": "Chris Hager",
+            "url": "https://www.metachris.com/blog/",
+            "tags": [
+                "software",
+                "python",
+                "node.js",
+                "app",
+                "pdfx",
+                "install"
+            ],
+            "furl": "https://www.metachris.com/index.xml",
+            "hnp": 0
+        },
+        {
+            "name": "Chris Wellons",
+            "url": "http://nullprogram.com/",
+            "tags": [
+                "software",
+                "windows",
+                "highlighter-rouge",
+                ""
+            ],
+            "furl": "http://nullprogram.com/feed/",
+            "hnp": 6339
+        },
+        {
+            "name": "Clay McLeod",
+            "url": "http://blog.claymcleod.io/",
+            "tags": [
+                "software",
+                ""
+            ],
+            "furl": "http://blog.claymcleod.io/atom.xml",
+            "hnp": 377
+        },
+        {
+            "name": "Cocoa Is My Girlfriend",
+            "url": "http://www.cimgf.com/",
+            "tags": [
+                "software",
+                ""
+            ],
+            "furl": "http://www.cimgf.com/feed/",
+            "hnp": 80
+        },
+        {
+            "name": "Code with style!",
+            "url": "https://codewithstyle.info/",
+            "tags": [
+                "software",
+                ""
+            ],
+            "furl": "https://codewithstyle.info/feed/",
+            "hnp": 192
+        },
+        {
+            "name": "Codrops",
+            "url": "https://tympanus.net/codrops/",
+            "tags": [
+                "software",
+                "collective",
+                "rel",
+                "typography",
+                "roundup",
+                "three.js",
+                "u"
+            ],
+            "furl": "https://tympanus.net/codrops/rss",
+            "hnp": 716
+        },
+        {
+            "name": "Daily JS",
+            "url": "https://medium.com/dailyjs",
+            "tags": [
+                "software",
+                "javascript",
+                "vault"
+            ],
+            "furl": "https://medium.com/feed/dailyjs",
+            "hnp": 857
+        },
+        {
+            "name": "Daily Tech Video",
+            "url": "http://dailytechvideo.com/",
+            "tags": [
+                "software",
+                "video",
+                "angular",
+                "savkin",
+                "javascript"
+            ],
+            "furl": "http://dailytechvideo.com/feed/",
+            "hnp": 58
+        },
+        {
+            "name": "Dan Luu",
+            "url": "https://danluu.com/",
+            "tags": [
+                "software",
+                "good",
+                "bgcolor",
+                "people",
+                "complexity"
+            ],
+            "furl": "https://danluu.com/atom.xml",
+            "hnp": 14443
+        },
+        {
+            "name": "Daniel Doubrovkine (dB.)",
+            "url": "http://code.dblock.org/",
+            "tags": [
+                "software",
+                "ruby"
+            ],
+            "furl": "https://code.dblock.org/feed.xml",
+            "hnp": 571
+        },
+        {
+            "name": "Dave Atchley",
+            "url": "http://www.datchley.name/",
+            "tags": [
+                "software",
+                "wow",
+                "server",
+                "servers",
+                "feenix",
+                "addons",
+                "n"
+            ],
+            "furl": "https://www.datchley.name/rss/",
+            "hnp": 274
+        },
+        {
+            "name": "Dave Cheney",
+            "url": "https://dave.cheney.net/",
+            "tags": [
+                "software",
+                "api",
+                "type",
+                "inlining",
+                "unix"
+            ],
+            "furl": "https://dave.cheney.net/feed",
+            "hnp": 5550
+        },
+        {
+            "name": "David Walsh",
+            "url": "https://davidwalsh.name/",
+            "tags": [
+                "software",
+                "nofollow",
+                "css",
+                "sponsored"
+            ],
+            "furl": "https://davidwalsh.name/feed/atom",
+            "hnp": 2369
+        },
+        {
+            "name": "Dean Hume",
+            "url": "http://deanhume.com/",
+            "tags": [
+                "software",
+                "api",
+                "progressive",
+                "web",
+                "http",
+                "book",
+                "h"
+            ],
+            "furl": "https://deanhume.com/rss/",
+            "hnp": 42
+        },
+        {
+            "name": "Dennis Felsing",
+            "url": "https://hookrace.net/",
+            "tags": [
+                "software",
+                "nim",
+                "class"
+            ],
+            "furl": "https://hookrace.net/blog/feed/",
+            "hnp": 3085
+        },
+        {
+            "name": "Dennis Yurichev",
+            "url": "https://yurichev.com/blog/",
+            "tags": [
+                "software",
+                "russian",
+                "math",
+                "python",
+                "unix",
+                "utility"
+            ],
+            "furl": "https://yurichev.com/blog/rss.xml",
+            "hnp": 871
+        },
+        {
+            "name": "Discover Meteor",
+            "url": "https://www.discovermeteor.com/blog",
+            "tags": [
+                "software",
+                ""
+            ],
+            "furl": "https://www.discovermeteor.com/feed.xml",
+            "hnp": 779
+        },
+        {
+            "name": "Domenico Luciani",
+            "url": "https://domenicoluciani.com",
+            "tags": [
+                "software",
+                "data",
+                "rust",
+                "codebase",
+                "go"
+            ],
+            "furl": "https://domenicoluciani.com/feed.xml",
+            "hnp": 73
+        },
+        {
+            "name": "Dot Dev (.dev)",
+            "url": "https://dotdev.co",
+            "tags": [
+                "software",
+                "github",
+                "npm",
+                "chart.xkcd",
+                "app",
+                "web",
+                "seo"
+            ],
+            "furl": "https://dotdev.co/feed/",
+            "hnp": 338
+        },
+        {
+            "name": "Dragan Djuric",
+            "url": "http://dragan.rocks",
+            "tags": [
+                "software",
+                "color",
+                "clojure",
+                "deep",
+                "open source",
+                "linear algebra",
+                "tensor flow",
+                "gpu"
+            ],
+            "furl": "https://dragan.rocks/feed.xml",
+            "hnp": 2464
+        },
+        {
+            "name": "Eddie Smith",
+            "url": "http://www.practicallyefficient.com/",
+            "tags": [
+                "software",
+                "checklists",
+                "type",
+                "math",
+                "latex"
+            ],
+            "furl": "http://www.practicallyefficient.com/feed.xml",
+            "hnp": 147
+        },
+        {
+            "name": "Edgar Aroutiounian",
+            "url": "https://hyegar.com/",
+            "tags": [
+                "software"
+            ],
+            "furl": "https://hyegar.com/rss.xml",
+            "hnp": 334
+        },
+        {
+            "name": "Elegant Code",
+            "url": "http://elegantcode.com/",
+            "tags": [
+                "software",
+                "azure",
+                "agile",
+                "software",
+                "scrum"
+            ],
+            "furl": "https://elegantcode.com/feed/",
+            "hnp": 170
+        },
+        {
+            "name": "Eli Bendersky",
+            "url": "http://eli.thegreenplace.net/",
+            "tags": [
+                "software",
+                "postgresql",
+                "go",
+                "cpp",
+                "services",
+                "c++",
+                "json"
+            ],
+            "furl": "https://eli.thegreenplace.net/feeds/all.atom.xml",
+            "hnp": 3203
+        },
+        {
+            "name": "Eric Elliot",
+            "url": "https://medium.com/javascript-scene/",
+            "tags": [
+                "software",
+                "javascript",
+                "react",
+                "functional programming"
+            ],
+            "furl": "https://medium.com/feed/javascript-scene",
+            "hnp": 1607
+        },
+        {
+            "name": "Eric Lippert",
+            "url": "https://ericlippert.com/",
+            "tags": [
+                "software",
+                "life",
+                "time",
+                "week",
+                "books",
+                "c#",
+                "javascript"
+            ],
+            "furl": "https://ericlippert.com/feed/",
+            "hnp": 2160
+        },
+        {
+            "name": "Evan Miller",
+            "url": "http://www.evanmiller.org/",
+            "tags": [
+                "software",
+                "testing",
+                "formulas",
+                "perl",
+                "updated"
+            ],
+            "furl": "http://www.evanmiller.org/news.xml",
+            "hnp": 5380
+        },
+        {
+            "name": "Evan Tahler",
+            "url": "https://blog.evantahler.com/",
+            "tags": [
+                "software",
+                "actionhero",
+                "figure",
+                "devops",
+                "nodejs",
+                "heroku",
+                "markdown"
+            ],
+            "furl": "https://blog.evantahler.com/feed",
+            "hnp": 132
+        },
+        {
+            "name": "Federico Cargnelutti",
+            "url": "https://blog.fedecarg.com/",
+            "tags": [
+                "software",
+                "tool",
+                "node.js",
+                "ruby",
+                "api",
+                "docker"
+            ],
+            "furl": "https://blog.fedecarg.com/feed/",
+            "hnp": 6
+        },
+        {
+            "name": "Federico Tomassetti",
+            "url": "https://tomassetti.me/",
+            "tags": [
+                "software",
+                "introduction",
+                "antlr",
+                "rel",
+                "llvm",
+                "parsing",
+                "tools"
+            ],
+            "furl": "https://tomassetti.me/feed/",
+            "hnp": 1744
+        },
+        {
+            "name": "Filippo Valsorda",
+            "url": "https://blog.filippo.io/",
+            "tags": [
+                "software",
+                "markdown",
+                "usb-c",
+                "install",
+                "https"
+            ],
+            "furl": "https://blog.filippo.io/rss/",
+            "hnp": 5442
+        },
+        {
+            "name": "Freek Van der Herten",
+            "url": "https://murze.be/",
+            "tags": [
+                "software",
+                "php",
+                "read",
+                "laravel",
+                "blink"
+            ],
+            "furl": "https://murze.be/feed",
+            "hnp": 321
+        },
+        {
+            "name": "Gleb Bahmutov",
+            "url": "https://glebbahmutov.com/blog/",
+            "tags": [
+                "software",
+                "line",
+                "cypress",
+                "test",
+                "nextjs",
+                "react"
+            ],
+            "furl": "https://glebbahmutov.com/blog/atom.xml",
+            "hnp": 177
+        },
+        {
+            "name": "Glenn Engstrand",
+            "url": "http://glennengstrand.info",
+            "tags": [
+                "software",
+                "revisiting",
+                "programming",
+                "microservices",
+                "developing"
+            ],
+            "furl": "http://glennengstrand.info/blog/?feed=rss2",
+            "hnp": 31
+        },
+        {
+            "name": "Graham King",
+            "url": "https://www.darkcoding.net/",
+            "tags": [
+                "software",
+                "rust",
+                "cpu",
+                "things"
+            ],
+            "furl": "https://www.darkcoding.net/feed/",
+            "hnp": 1344
+        },
+        {
+            "name": "Guido van Rossum",
+            "url": "http://neopythonic.blogspot.com/",
+            "tags": [
+                "software",
+                "python"
+            ],
+            "furl": "http://neopythonic.blogspot.com/feeds/posts/default",
+            "hnp": 1022
+        },
+        {
+            "name": "Guilherme Rodrigues",
+            "url": "https://firstdoit.com/",
+            "tags": [
+                "software",
+                "react",
+                "figure"
+            ],
+            "furl": "https://firstdoit.com/feed",
+            "hnp": 224
+        },
+        {
+            "name": "Hayden James",
+            "url": "https://haydenjames.io/",
+            "tags": [
+                "software",
+                "linux",
+                "arch",
+                "ram",
+                "sysadmin",
+                "performance",
+                "server",
+                "security"
+            ],
+            "furl": "https://haydenjames.io/rss",
+            "hnp": 989
+        },
+        {
+            "name": "Henrik Warne",
+            "url": "https://henrikwarne.com/",
+            "tags": [
+                "software",
+                "philosophy",
+                "software",
+                "meta-nav",
+                "developer",
+                "good programmer",
+                "tips"
+            ],
+            "furl": "https://henrikwarne.com/feed/",
+            "hnp": 2495
+        },
+        {
+            "name": "High Scalability",
+            "url": "http://highscalability.com/",
+            "tags": [
+                "software",
+                "design",
+                "architecture",
+                "from scratch"
+            ],
+            "furl": "http://feeds.feedburner.com/HighScalability",
+            "hnp": 6331
+        },
+        {
+            "name": "Huon Wilson",
+            "url": "http://huonw.github.io/",
+            "tags": [
+                "software",
+                "rust",
+                "class",
+                "git",
+                "memory",
+                "reverse",
+                "debugging"
+            ],
+            "furl": "http://huonw.github.io/blog/atom.xml",
+            "hnp": 1110
+        },
+        {
+            "name": "Hypriot",
+            "url": "http://blog.hypriot.com/",
+            "tags": [
+                "software",
+                "hardware",
+                "electronics",
+                "rpi",
+                "kernel",
+                "docker",
+                "build",
+                "flash"
+            ],
+            "furl": "https://blog.hypriot.com/index.xml",
+            "hnp": 221
+        },
+        {
+            "name": "Ian Sommerville",
+            "url": "http://iansommerville.com/systems-software-and-technology/",
+            "tags": [
+                "software",
+                "education",
+                "cloud"
+            ],
+            "furl": "http://iansommerville.com/systems-software-and-technology/feed/",
+            "hnp": 312
+        },
+        {
+            "name": "Idontgetoutmuch's Weblog",
+            "url": "https://idontgetoutmuch.wordpress.com/",
+            "tags": [
+                "software",
+                "haskell",
+                "post",
+                "library",
+                "functional programming",
+                "math",
+                "philosophy"
+            ],
+            "furl": "https://idontgetoutmuch.wordpress.com/feed/",
+            "hnp": 137
+        },
+        {
+            "name": "Ievgen Kuzminov",
+            "url": "http://stdout.in/",
+            "tags": [
+                "software",
+                "ruby",
+                "it",
+                "linux",
+                "management"
+            ],
+            "furl": "http://stdout.in/en/cat/all.rss",
+            "hnp": 203
+        },
+        {
+            "name": "Ilija Eftimov",
+            "url": "http://ieftimov.com/",
+            "tags": [
+                "software",
+                "cors",
+                "tcp",
+                "go",
+                "http"
+            ],
+            "furl": "http://ieftimov.com/feed.xml",
+            "hnp": 652
+        },
+        {
+            "name": "Ilya Grigorik",
+            "url": "https://www.igvita.com/",
+            "tags": [
+                "software",
+                "high performance",
+                "networking",
+                "browser",
+                "cross site"
+            ],
+            "furl": "https://www.igvita.com/feed/",
+            "hnp": 3113
+        },
+        {
+            "name": "Itamar Turner-Trauring",
+            "url": "https://codewithoutrules.com",
+            "tags": [
+                "software",
+                "job",
+                "productive programmer",
+                "skills",
+                "programmers"
+            ],
+            "furl": "https://codewithoutrules.com/atom.xml",
+            "hnp": 3570
+        },
+        {
+            "name": "Jacopo Tarantino",
+            "url": "https://jack.ofspades.com/",
+            "tags": [
+                "software",
+                "javascript",
+                "frameworks",
+                "part",
+                "writing"
+            ],
+            "furl": "https://jack.ofspades.com/rss/index.html",
+            "hnp": 25
+        },
+        {
+            "name": "James Hague",
+            "url": "http://prog21.dadgum.com/",
+            "tags": [
+                "software",
+                "long",
+                "programming",
+                "functional",
+                "pascal",
+                "books",
+                "optimizing",
+                "compiler"
+            ],
+            "furl": "http://prog21.dadgum.com/atom.xml",
+            "hnp": 5342
+        },
+        {
+            "name": "Jamis Buck",
+            "url": "http://weblog.jamisbuck.org/",
+            "tags": [
+                "software",
+                "read",
+                "minimalist",
+                "challenge",
+                "roulette"
+            ],
+            "furl": "http://feeds.feedburner.com/buckblog",
+            "hnp": 1040
+        },
+        {
+            "name": "Jay Fields",
+            "url": "http://blog.jayfields.com",
+            "tags": [
+                "software",
+                "team",
+                "test",
+                "books"
+            ],
+            "furl": "http://blog.jayfields.com/feeds/posts/default",
+            "hnp": 736
+        },
+        {
+            "name": "Jeff Atwood",
+            "url": "https://blog.codinghorror.com/",
+            "tags": [
+                "software",
+                "markdown",
+                "web",
+                "computer"
+            ],
+            "furl": "http://feeds.feedburner.com/codinghorror",
+            "hnp": 5118
+        },
+        {
+            "name": "Jeff Preshing",
+            "url": "http://preshing.com/",
+            "tags": [
+                "software",
+                "cpp",
+                "c++",
+                "theory"
+            ],
+            "furl": "http://preshing.com/feed",
+            "hnp": 2561
+        },
+        {
+            "name": "Jeremy Kun",
+            "url": "https://jeremykun.com/",
+            "tags": [
+                "software",
+                "counterexamples",
+                "hypothesis",
+                "riemann",
+                "exploring",
+                "search",
+                "neural networks",
+                "cryptography",
+                "research",
+                "math"
+            ],
+            "furl": "https://jeremykun.com/feed/",
+            "hnp": 4032
+        },
+        {
+            "name": "Jerry Gamblin",
+            "url": "https://jerrygamblin.com/",
+            "tags": [
+                "software",
+                "data",
+                "cpe",
+                "cve",
+                "actions",
+                "issues",
+                "sherlock"
+            ],
+            "furl": "https://jerrygamblin.com/feed/",
+            "hnp": 1068
+        },
+        {
+            "name": "Jesal Gadhia",
+            "url": "https://jes.al/",
+            "tags": [
+                "software"
+            ],
+            "furl": "https://jes.al/atom.xml",
+            "hnp": 65
+        },
+        {
+            "name": "Jessie Frazelle",
+            "url": "https://blog.jessfraz.com/",
+            "tags": [
+                "software",
+                "containers",
+                "kubernetes",
+                "linux",
+                "cad",
+                "manufacturing",
+                "data"
+            ],
+            "furl": "https://blog.jessfraz.com/index.xml",
+            "hnp": 6521
+        },
+        {
+            "name": "Jesus Castello",
+            "url": "http://www.blackbytes.info/",
+            "tags": [
+                "software",
+                "ruby"
+            ],
+            "furl": "http://www.blackbytes.info/rss",
+            "hnp": 59
+        },
+        {
+            "name": "Joe Nelson",
+            "url": "https://begriffs.com/",
+            "tags": [
+                "software",
+                "tls",
+                "dynamic linking",
+                "c",
+                "github",
+                "sql",
+                "vim",
+                "libre"
+            ],
+            "furl": "https://begriffs.com/atom.xml",
+            "hnp": 4660
+        },
+        {
+            "name": "Joel Spolsky",
+            "url": "https://www.joelonsoftware.com/",
+            "tags": [
+                "software",
+                "stackoverflow",
+                "hash",
+                "new developer",
+                "tech lead",
+                "ceo"
+            ],
+            "furl": "https://www.joelonsoftware.com/feed/",
+            "hnp": 6707
+        },
+        {
+            "name": "Johannes Brodwall",
+            "url": "http://johannesbrodwall.com/",
+            "tags": [
+                "software",
+                "connect",
+                "standardized",
+                "openid",
+                "thoughts"
+            ],
+            "furl": "http://johannesbrodwall.com/feed/",
+            "hnp": 100
+        },
+        {
+            "name": "John Wittenauer",
+            "url": "http://www.johnwittenauer.net/",
+            "tags": [
+                "software",
+                "markdown",
+                "keras",
+                "book",
+                "recommender",
+                "sapiens"
+            ],
+            "furl": "https://www.johnwittenauer.net/rss/",
+            "hnp": 704
+        },
+        {
+            "name": "Jon Kensy",
+            "url": "http://www.jonkensy.com/",
+            "tags": [
+                "software",
+                "api",
+                "postman",
+                "hey",
+                "linux",
+                "content"
+            ],
+            "furl": "http://www.jonkensy.com/feed/",
+            "hnp": 320
+        },
+        {
+            "name": "Jon Skeet",
+            "url": "https://codeblog.jonskeet.uk/",
+            "tags": [
+                "software",
+                "book",
+                "net",
+                "explorer",
+                "osc"
+            ],
+            "furl": "https://codeblog.jonskeet.uk/feed/",
+            "hnp": 956
+        },
+        {
+            "name": "Jonas Plum",
+            "url": "https://blog.cugu.eu/",
+            "tags": [
+                "software",
+                "apfs",
+                "python",
+                "gpg",
+                "file",
+                "java"
+            ],
+            "furl": "https://blog.cugu.eu/index.xml",
+            "hnp": 330
+        },
+        {
+            "name": "Jonathan Snook",
+            "url": "https://snook.ca/",
+            "tags": [
+                "software",
+                "design",
+                "dot"
+            ],
+            "furl": "https://snook.ca/jonathan/index.rdf",
+            "hnp": 448
+        },
+        {
+            "name": "Josh Haberman",
+            "url": "http://blog.reverberate.org/",
+            "tags": [
+                "software",
+                "bloaty",
+                "language-plaintext"
+            ],
+            "furl": "http://blog.reverberate.org/feed.xml",
+            "hnp": 2353
+        },
+        {
+            "name": "Josh Sherman",
+            "url": "https://joshtronic.com/",
+            "tags": [
+                "software",
+                "php",
+                "showdown",
+                "ubuntu",
+                "\u2019ve",
+                "linux"
+            ],
+            "furl": "https://joshtronic.com/atom.xml",
+            "hnp": 627
+        },
+        {
+            "name": "Julia Evans",
+            "url": "https://jvns.ca/",
+            "tags": [
+                "software",
+                "blog",
+                "stack",
+                "dns"
+            ],
+            "furl": "https://jvns.ca/atom.xml",
+            "hnp": 10076
+        },
+        {
+            "name": "K. Harrison",
+            "url": "https://useyourloaf.com/",
+            "tags": [
+                "software",
+                "xcode",
+                "actions"
+            ],
+            "furl": "https://useyourloaf.com/blog/rss.xml",
+            "hnp": 93
+        },
+        {
+            "name": "Kevin Burke",
+            "url": "https://kev.inburke.com/",
+            "tags": [
+                "software",
+                "stock",
+                "company",
+                "human",
+                "california",
+                "edd"
+            ],
+            "furl": "https://kev.inburke.com/feed/",
+            "hnp": 3738
+        },
+        {
+            "name": "Kyle Kingsbury",
+            "url": "https://aphyr.com/",
+            "tags": [
+                "software",
+                "kerbal"
+            ],
+            "furl": "https://aphyr.com/posts.atom",
+            "hnp": 6613
+        },
+        {
+            "name": "Lambda the Ultimate",
+            "url": "http://lambda-the-ultimate.org/",
+            "tags": [
+                "software",
+                "google",
+                "logica",
+                "lambda"
+            ],
+            "furl": "http://lambda-the-ultimate.org/rss.xml",
+            "hnp": 2711
+        },
+        {
+            "name": "Larry Land",
+            "url": "https://lg.io/",
+            "tags": [
+                "software",
+                "windows"
+            ],
+            "furl": "http://lg.io/feed.xml",
+            "hnp": 1363
+        },
+        {
+            "name": "Lazarus Lazaridis",
+            "url": "https://iridakos.com",
+            "tags": [
+                "software"
+            ],
+            "furl": "https://iridakos.com/feed.xml",
+            "hnp": 1069
+        },
+        {
+            "name": "Lea Verou",
+            "url": "http://lea.verou.me/",
+            "tags": [
+                "software",
+                "css",
+                "web",
+                "\u2019ve",
+                "almanac"
+            ],
+            "furl": "http://lea.verou.me/feed/",
+            "hnp": 1617
+        },
+        {
+            "name": "Lerner Consulting Blog",
+            "url": "http://blog.lerner.co.il/",
+            "tags": [
+                "software",
+                "python",
+                "rel",
+                "reminder",
+                "sql",
+                "starts"
+            ],
+            "furl": "http://blog.lerner.co.il/feed/",
+            "hnp": 475
+        },
+        {
+            "name": "Luciano Mammino",
+            "url": "https://loige.co/",
+            "tags": [
+                "software",
+                ""
+            ],
+            "furl": "http://loige.co/rss/",
+            "hnp": 527
+        },
+        {
+            "name": "Manu Sporny",
+            "url": "http://manu.sporny.org/",
+            "tags": [
+                "software",
+                "web",
+                "rdfa",
+                "consortium",
+                "json-ld",
+                "disclosure"
+            ],
+            "furl": "http://manu.sporny.org/feed/",
+            "hnp": 397
+        },
+        {
+            "name": "Marcelo Rinesi",
+            "url": "https://blog.rinesi.com/",
+            "tags": [
+                "software",
+                "jul",
+                "market",
+                "cartography",
+                "good",
+                "peninsula"
+            ],
+            "furl": "https://blog.rinesi.com/feed/",
+            "hnp": 0
+        },
+        {
+            "name": "Marek Majkowski",
+            "url": "https://idea.popcount.org/",
+            "tags": [
+                "software",
+                "tcp",
+                "linux",
+                "attacks",
+                "dns",
+                "epoll"
+            ],
+            "furl": "https://idea.popcount.org/rss.xml",
+            "hnp": 2422
+        },
+        {
+            "name": "Martin Fowler",
+            "url": "https://martinfowler.com/",
+            "tags": [
+                "software",
+                "clock"
+            ],
+            "furl": "https://martinfowler.com/feed.atom",
+            "hnp": 8236
+        },
+        {
+            "name": "Mary Rose Cook",
+            "url": "https://maryrosecook.com/blog/",
+            "tags": [
+                "software",
+                "coding",
+                "exponential"
+            ],
+            "furl": "https://maryrosecook.com/blog/feed.xml",
+            "hnp": 1286
+        },
+        {
+            "name": "Matt Aimonetti",
+            "url": "https://matt.aimonetti.net/",
+            "tags": [
+                "software",
+                ""
+            ],
+            "furl": "https://matt.aimonetti.net/atom.xml",
+            "hnp": 827
+        },
+        {
+            "name": "Matt Cutts",
+            "url": "https://www.mattcutts.com/blog/",
+            "tags": [
+                "software",
+                "service",
+                "digital",
+                "halloween",
+                "google",
+                "fitbit"
+            ],
+            "furl": "https://www.mattcutts.com/blog/feed/",
+            "hnp": 4139
+        },
+        {
+            "name": "Matt Might",
+            "url": "http://matt.might.net/articles/",
+            "tags": [
+                "software",
+                "tenure",
+                "python",
+                "church",
+                "howto"
+            ],
+            "furl": "http://matt.might.net/articles/feed.rss",
+            "hnp": 6000
+        },
+        {
+            "name": "Matt Warren",
+            "url": "http://mattwarren.org/",
+            "tags": [
+                "software",
+                "net"
+            ],
+            "furl": "http://mattwarren.org/atom.xml",
+            "hnp": 3495
+        },
+        {
+            "name": "Matthew Green",
+            "url": "https://blog.cryptographyengineering.com/",
+            "tags": [
+                "software",
+                "week",
+                "apple",
+                "dkim",
+                "recovery"
+            ],
+            "furl": "https://blog.cryptographyengineering.com/feed/",
+            "hnp": 8679
+        },
+        {
+            "name": "Michael Crump",
+            "url": "https://michaelcrump.net/",
+            "tags": [
+                "software",
+                "tips",
+                "azure",
+                "feed",
+                "part",
+                "mean-based"
+            ],
+            "furl": "https://www.michaelcrump.net/feed.xml",
+            "hnp": 40
+        },
+        {
+            "name": "Michael Herman",
+            "url": "http://mherman.org/",
+            "tags": [
+                "software",
+                "aws"
+            ],
+            "furl": "http://mherman.org/feed.xml",
+            "hnp": 128
+        },
+        {
+            "name": "Mike Ash",
+            "url": "https://www.mikeash.com/pyblog/",
+            "tags": [
+                "software",
+                "swift",
+                "friday",
+                "objc"
+            ],
+            "furl": "http://www.mikeash.com/pyblog/rss.py",
+            "hnp": 2529
+        },
+        {
+            "name": "Mike Fogus",
+            "url": "http://blog.fogus.me/",
+            "tags": [
+                "software",
+                "clojure",
+                "team",
+                "parts",
+                "orthogonal",
+                "build"
+            ],
+            "furl": "http://blog.fogus.me/feed/",
+            "hnp": 4926
+        },
+        {
+            "name": "Miro Cupak",
+            "url": "https://mirocupak.com/",
+            "tags": [
+                "software",
+                "java",
+                "devto",
+                "index"
+            ],
+            "furl": "https://mirocupak.com/feed.xml",
+            "hnp": 0
+        },
+        {
+            "name": "Monica Dinculescu",
+            "url": "https://meowni.ca/",
+            "tags": [
+                "software",
+                "week"
+            ],
+            "furl": "https://meowni.ca/atom.xml",
+            "hnp": 1993
+        },
+        {
+            "name": "Mykhailo Kozik",
+            "url": "http://mishadoff.com/",
+            "tags": [
+                "software",
+                "problem"
+            ],
+            "furl": "http://feeds.feedburner.com/mishadoff",
+            "hnp": 486
+        },
+        {
+            "name": "Natasha Murashev",
+            "url": "https://natashatherobot.com",
+            "tags": [
+                "software",
+                ""
+            ],
+            "furl": "https://natashatherobot.com/rss",
+            "hnp": 39
+        },
+        {
+            "name": "Nelson Elhage",
+            "url": "https://blog.nelhage.com/",
+            "tags": [
+                "software",
+                "linux",
+                "\u2019ve",
+                "testing",
+                "reptyr",
+                "blog"
+            ],
+            "furl": "https://blog.nelhage.com/atom.xml",
+            "hnp": 2757
+        },
+        {
+            "name": "Nick Craver",
+            "url": "https://nickcraver.com/blog/",
+            "tags": [
+                "software",
+                "edition",
+                "overflow"
+            ],
+            "furl": "https://nickcraver.com/blog/feed.xml",
+            "hnp": 1921
+        },
+        {
+            "name": "Nick Desaulniers",
+            "url": "https://nickdesaulniers.github.io/",
+            "tags": [
+                "software",
+                "line-number",
+                "linux",
+                "data"
+            ],
+            "furl": "https://nickdesaulniers.github.io/atom.xml",
+            "hnp": 810
+        },
+        {
+            "name": "Nicolas Liochon",
+            "url": "http://blog.thislongrun.com/",
+            "tags": [
+                "software",
+                "distributed systems"
+            ],
+            "furl": "http://blog.thislongrun.com/feeds/posts/default",
+            "hnp": 137
+        },
+        {
+            "name": "Nikolay Nemshilov",
+            "url": "http://nikolay.rocks/",
+            "tags": [
+                "software",
+                "thoughts",
+                "javascript"
+            ],
+            "furl": "http://nikolay.rocks/atom.xml",
+            "hnp": 282
+        },
+        {
+            "name": "NSHipster",
+            "url": "http://nshipster.com/",
+            "tags": [
+                "software",
+                "objective-c",
+                "swift",
+                "cocoa",
+                "wwdc"
+            ],
+            "furl": "https://nshipster.com/feed.xml",
+            "hnp": 891
+        },
+        {
+            "name": "Nate Berkopec",
+            "url": "http://www.nateberkopec.com/",
+            "tags": [
+                "software",
+                "ruby",
+                "thoughts"
+            ],
+            "furl": "https://www.nateberkopec.com/feed.xml",
+            "hnp": 1661
+        },
+        {
+            "name": "Ofer Zelig",
+            "url": "https://fullstack.info",
+            "tags": [
+                "software",
+                "full stack",
+                "angular",
+                "javascript"
+            ],
+            "furl": "https://fullstack.info/feed/",
+            "hnp": 155
+        },
+        {
+            "name": "Ole Begemann",
+            "url": "https://oleb.net/blog/",
+            "tags": [
+                "software",
+                "architecture",
+                "swift",
+                "uikit"
+            ],
+            "furl": "https://oleb.net/blog/atom.xml",
+            "hnp": 753
+        },
+        {
+            "name": "Pamela Fox",
+            "url": "http://blog.pamelafox.org/",
+            "tags": [
+                "software",
+                "creative",
+                "thoughts",
+                "programming"
+            ],
+            "furl": "http://blog.pamelafox.org/feeds/posts/default",
+            "hnp": 375
+        },
+        {
+            "name": "Pat Shaughnessy",
+            "url": "http://patshaughnessy.net/",
+            "tags": [
+                "software",
+                "ruby",
+                "rust",
+                "thoughts",
+                "theory",
+                "sql",
+                "c",
+                "x86"
+            ],
+            "furl": "http://feeds2.feedburner.com/patshaughnessy",
+            "hnp": 2248
+        },
+        {
+            "name": "Paul Irish",
+            "url": "https://www.paulirish.com/",
+            "tags": [
+                "software",
+                "ffmpeg",
+                "webkit",
+                "academic",
+                "web"
+            ],
+            "furl": "https://feeds.feedburner.com/paul-irish",
+            "hnp": 38
+        },
+        {
+            "name": "Paul Lewis",
+            "url": "https://aerotwist.com/blog/",
+            "tags": [
+                "software",
+                "svg",
+                "css",
+                "cors"
+            ],
+            "furl": "https://aerotwist.com/blog/feed/",
+            "hnp": 405
+        },
+        {
+            "name": "Peter Norvig",
+            "url": "http://norvig.com/",
+            "tags": [
+                "software",
+                "java",
+                "lips",
+                "python",
+                "google",
+                "research",
+                "science",
+                "open source"
+            ],
+            "furl": "http://www.norvig.com/rss-feed.xml",
+            "hnp": 4885
+        },
+        {
+            "name": "Peteris Krumins",
+            "url": "http://www.catonmat.net/blog/",
+            "tags": [
+                "software",
+                "comics",
+                "thoughts",
+                "linux",
+                "vim",
+                "bsd"
+            ],
+            "furl": "http://www.catonmat.net/feed/",
+            "hnp": 4781
+        },
+        {
+            "name": "Philip Walton",
+            "url": "https://philipwalton.com/",
+            "tags": [
+                "software",
+                "html",
+                "thoughts",
+                "web",
+                "css"
+            ],
+            "furl": "https://feeds.feedburner.com/philipwalton",
+            "hnp": 1689
+        },
+        {
+            "name": "Philipp Oppermann",
+            "url": "https://os.phil-opp.com/",
+            "tags": [
+                "software",
+                "rust",
+                "kernel",
+                "theory",
+                "open source",
+                "os"
+            ],
+            "furl": "https://os.phil-opp.com/atom.xml",
+            "hnp": 3821
+        },
+        {
+            "name": "Pony Foo",
+            "url": "https://ponyfoo.com/",
+            "tags": [
+                "software",
+                "react js",
+                "react"
+            ],
+            "furl": "https://feeds.feedburner.com/ponyfoo",
+            "hnp": 807
+        },
+        {
+            "name": "Rachel Kroll",
+            "url": "https://rachelbythebay.com/w/",
+            "tags": [
+                "software",
+                "cpu",
+                "sysadmin",
+                "thunderbolt",
+                "linux",
+                "microservices"
+            ],
+            "furl": "https://rachelbythebay.com/w/atom.xml",
+            "hnp": 10551
+        },
+        {
+            "name": "Radek Pazdera",
+            "url": "http://radek.io",
+            "tags": [
+                "software",
+                "startup",
+                "css",
+                "nodejs",
+                "github",
+                "open source"
+            ],
+            "furl": "http://radek.io/rss.xml",
+            "hnp": 509
+        },
+        {
+            "name": "Ramon Fried",
+            "url": "https://nativeguru.wordpress.com/",
+            "tags": [
+                "software",
+                "linux",
+                "hardware",
+                "embedded",
+                "android",
+                "security"
+            ],
+            "furl": "https://nativeguru.wordpress.com/feed/",
+            "hnp": 2
+        },
+        {
+            "name": "Raymond Chen",
+            "url": "https://blogs.msdn.microsoft.com/oldnewthing/",
+            "tags": [
+                "software"
+            ],
+            "furl": "https://blogs.msdn.microsoft.com/oldnewthing/feed",
+            "hnp": 4007
+        },
+        {
+            "name": "Raymond Hettinger",
+            "url": "https://rhettinger.wordpress.com/",
+            "tags": [
+                "software",
+                "The Old New Thing",
+                "development",
+                "cpp",
+                "c++"
+            ],
+            "furl": "https://rhettinger.wordpress.com/feed/",
+            "hnp": 153
+        },
+        {
+            "name": "ReactJS News",
+            "url": "https://reactjsnews.com",
+            "tags": [
+                "software",
+                "react",
+                "javascript",
+                "react js"
+            ],
+            "furl": "https://reactjsnews.com/feed.xml",
+            "hnp": 470
+        },
+        {
+            "name": "Real Python",
+            "url": "https://realpython.com/blog/",
+            "tags": [
+                "software",
+                "python"
+            ],
+            "furl": "https://realpython.com/atom.xml",
+            "hnp": 356
+        },
+        {
+            "name": "Reginald Braithwaite",
+            "url": "http://raganwald.com/#essays",
+            "tags": [
+                "software",
+                "javascript",
+                "regex",
+                "recursion",
+                "theory",
+                "data structure"
+            ],
+            "furl": "http://raganwald.com/atom.xml",
+            "hnp": 3933
+        },
+        {
+            "name": "Regular Geek",
+            "url": "http://regulargeek.com/",
+            "tags": [
+                "software",
+                "book review",
+                "geek",
+                "reading",
+                "internet"
+            ],
+            "furl": "http://feeds.regulargeek.com/RegularGeek",
+            "hnp": 63
+        },
+        {
+            "name": "Robert C. Martin",
+            "url": "http://blog.cleancoder.com/",
+            "tags": [
+                "software",
+                "clojure",
+                "design",
+                "programmers",
+                "thoughts"
+            ],
+            "furl": "http://blog.cleancoder.com/atom.xml",
+            "hnp": 2775
+        },
+        {
+            "name": "Robin Ward",
+            "url": "https://eviltrout.com/",
+            "tags": [
+                "software",
+                "diy",
+                "programming",
+                "cpu",
+                "thoughts"
+            ],
+            "furl": "https://eviltrout.com/feed.xml",
+            "hnp": 794
+        },
+        {
+            "name": "Robin Wilson",
+            "url": "http://blog.rtwilson.com/",
+            "tags": [
+                "software",
+                "academic",
+                "research",
+                "computing",
+                "linux",
+                "programming",
+                "latex",
+                "python",
+                "data science"
+            ],
+            "furl": "http://blog.rtwilson.com/feed/",
+            "hnp": 773
+        },
+        {
+            "name": "Ruslan Spivak",
+            "url": "https://ruslanspivak.com/",
+            "tags": [
+                "software",
+                "programming",
+                "web server",
+                "interpreter",
+                "theory",
+                "from scratch"
+            ],
+            "furl": "https://ruslanspivak.com/feeds/all.atom.xml",
+            "hnp": 1559
+        },
+        {
+            "name": "Sam Saffron",
+            "url": "https://samsaffron.com/",
+            "tags": [
+                "software",
+                "ruby",
+                "debugging",
+                "i3",
+                "linux",
+                "memory",
+                "hacking",
+                "c#",
+                "dapper",
+                "sql",
+                "mini profiler"
+            ],
+            "furl": "http://samsaffron.com/posts.rss",
+            "hnp": 2637
+        },
+        {
+            "name": "Sergey Zhuk",
+            "url": "http://sergeyzhuk.me/",
+            "tags": [
+                "software",
+                "react php",
+                "php",
+                "drift php"
+            ],
+            "furl": "http://sergeyzhuk.me/feed.xml",
+            "hnp": 93
+        },
+        {
+            "name": "Scott Hanselman",
+            "url": "http://www.hanselman.com/blog/",
+            "tags": [
+                "software",
+                "theory",
+                ".net core",
+                "c#",
+                "podcast",
+                "dotnet"
+            ],
+            "furl": "http://feeds.hanselman.com/ScottHanselman",
+            "hnp": 8759
+        },
+        {
+            "name": "Stephen Colebourne",
+            "url": "http://blog.joda.org/",
+            "tags": [
+                "software",
+                "java",
+                "thoughts",
+                "ideas",
+                "nojava"
+            ],
+            "furl": "http://blog.joda.org/feeds/posts/default",
+            "hnp": 1921
+        },
+        {
+            "name": "Steve Bellovin",
+            "url": "https://www.cs.columbia.edu/~smb/blog/control/",
+            "tags": [
+                "software",
+                "attacks",
+                "thoughts"
+            ],
+            "furl": "https://www.cs.columbia.edu/~smb/blog/control/blog.xml",
+            "hnp": 59
+        },
+        {
+            "name": "Steve Yegge",
+            "url": "https://steve-yegge.blogspot.com/",
+            "tags": [
+                "software",
+                "ruby",
+                "google",
+                "kotlin",
+                "java"
+            ],
+            "furl": "https://steve-yegge.blogspot.com/feeds/posts/default",
+            "hnp": 4288
+        },
+        {
+            "name": "Swizec Teller",
+            "url": "https://swizec.com/blog/",
+            "tags": [
+                "software",
+                "tech career",
+                "career",
+                "react",
+                "web",
+                "engineering"
+            ],
+            "furl": "https://swizec.com/blog/feed",
+            "hnp": 1624
+        },
+        {
+            "name": "Tero Parviainen",
+            "url": "http://teropa.info/",
+            "tags": [
+                "software",
+                "angular",
+                "music",
+                "react",
+                "redux"
+            ],
+            "furl": "http://teropa.info/blog/feed.xml",
+            "hnp": 533
+        },
+        {
+            "name": "The Coded Self",
+            "url": "http://www.thecodedself.com",
+            "tags": [
+                "software",
+                "ios",
+                "swift",
+                "vim"
+            ],
+            "furl": "https://thecodedself.github.io/feed.xml",
+            "hnp": 28
+        },
+        {
+            "name": "The Daily WTF",
+            "url": "http://thedailywtf.com/",
+            "tags": [
+                "software",
+                "npm",
+                "parser"
+            ],
+            "furl": "http://thedailywtf.com/rss",
+            "hnp": 2854
+        },
+        {
+            "name": "Thomas Young",
+            "url": "http://upcoder.com",
+            "tags": [
+                "software",
+                "c++",
+                "cpp",
+                "theory",
+                "python",
+                "game ai",
+                "bitcoin"
+            ],
+            "furl": "http://upcoder.com/feed",
+            "hnp": 55
+        },
+        {
+            "name": "Tikhon Jelvis",
+            "url": "http://jelv.is/blog/",
+            "tags": [
+                "software",
+                "theory",
+                "haskell",
+                "dynamic programming",
+                "mazes"
+            ],
+            "furl": "http://jelv.is/blog/rss.xml",
+            "hnp": 227
+        },
+        {
+            "name": "Una Kravets",
+            "url": "https://una.im/",
+            "tags": [
+                "software",
+                "css"
+            ],
+            "furl": "https://una.im/feed.xml",
+            "hnp": 32
+        },
+        {
+            "name": "Undocumented Matlab",
+            "url": "http://undocumentedmatlab.com/",
+            "tags": [
+                "software",
+                "matlab",
+                "theory",
+                "maze"
+            ],
+            "furl": "https://undocumentedmatlab.com/feed",
+            "hnp": 73
+        },
+        {
+            "name": "Vanilla Java",
+            "url": "http://vanillajava.blogspot.com/",
+            "tags": [
+                "software",
+                "exception handling",
+                "microservices",
+                "java"
+            ],
+            "furl": "http://vanillajava.blogspot.com/feeds/posts/default",
+            "hnp": 381
+        },
+        {
+            "name": "Vlad Mihalcea",
+            "url": "https://vladmihalcea.com/",
+            "tags": [
+                "software",
+                "sql",
+                "java"
+            ],
+            "furl": "https://vladmihalcea.com/feed/",
+            "hnp": 77
+        },
+        {
+            "name": "Wilfred Hughes",
+            "url": "http://www.wilfred.me.uk/",
+            "tags": [
+                "software",
+                "emacs",
+                "lisp",
+                "llvm"
+            ],
+            "furl": "http://www.wilfred.me.uk/rss.xml",
+            "hnp": 1280
+        },
+        {
+            "name": "Wojtek Gawro\u0144ski",
+            "url": "http://www.afronski.pl/",
+            "tags": [
+                "software",
+                "jit",
+                "jenkins",
+                "aws"
+            ],
+            "furl": "http://www.afronski.pl/feed.xml",
+            "hnp": 136
+        },
+        {
+            "name": "Yegor Bugayenko",
+            "url": "http://www.yegor256.com/",
+            "tags": [
+                "software",
+                "theory",
+                "thoughts",
+                "planning"
+            ],
+            "furl": "https://www.yegor256.com/rss.xml",
+            "hnp": 1932
+        },
+        {
+            "name": "Yifan Lu",
+            "url": "http://yifan.lu/",
+            "tags": [
+                "software",
+                "security",
+                "exploit",
+                "vulnerabilities",
+                "hardware"
+            ],
+            "furl": "http://yifan.lu/feed.xml",
+            "hnp": 574
+        },
+        {
+            "name": "Zach Holman",
+            "url": "https://zachholman.com/",
+            "tags": [
+                "software",
+                "startup",
+                "thoughts"
+            ],
+            "furl": "https://zachholman.com/atom.xml",
+            "hnp": 8607
+        },
+        {
+            "name": "Andrew Ayer",
+            "url": "https://www.agwa.name/blog/",
+            "tags": [
+                "software",
+                "security",
+                "libressl",
+                "ssl",
+                "sslmate"
+            ],
+            "furl": "https://www.agwa.name/blog/feed",
+            "hnp": 991
+        },
+        {
+            "name": "Brian Krebs",
+            "url": "http://krebsonsecurity.com/",
+            "tags": [
+                "software",
+                "security"
+            ],
+            "furl": "http://krebsonsecurity.com/feed/",
+            "hnp": 15650
+        },
+        {
+            "name": "Bruce Schneier",
+            "url": "https://www.schneier.com/",
+            "tags": [
+                "software",
+                "security"
+            ],
+            "furl": "https://www.schneier.com/blog/atom.xml",
+            "hnp": 7864
+        },
+        {
+            "name": "Dan Kaminsky",
+            "url": "https://dankaminsky.com/",
+            "tags": [
+                "software",
+                "security"
+            ],
+            "furl": "https://dankaminsky.com/feed/",
+            "hnp": 719
+        },
+        {
+            "name": "Dark Reading",
+            "url": "http://www.darkreading.com/",
+            "tags": [
+                "software",
+                "security"
+            ],
+            "furl": "http://www.darkreading.com/rss_simple.asp",
+            "hnp": 1176
+        },
+        {
+            "name": "Errata Security",
+            "url": "http://blog.erratasec.com/",
+            "tags": [
+                "software",
+                "security"
+            ],
+            "furl": "http://blog.erratasec.com/feeds/posts/default",
+            "hnp": 5712
+        },
+        {
+            "name": "Graham Cluley",
+            "url": "https://www.grahamcluley.com/",
+            "tags": [
+                "software",
+                "security"
+            ],
+            "furl": "https://www.grahamcluley.com/feed",
+            "hnp": 798
+        },
+        {
+            "name": "Kevin Beaumont",
+            "url": "https://medium.com/@networksecurity",
+            "tags": [
+                "software",
+                "security"
+            ],
+            "furl": "https://medium.com/feed/@networksecurity",
+            "hnp": 283
+        },
+        {
+            "name": "Krypt3ia",
+            "url": "https://krypt3ia.wordpress.com/",
+            "tags": [
+                "software",
+                "security"
+            ],
+            "furl": "https://krypt3ia.wordpress.com/feed/",
+            "hnp": 529
+        },
+        {
+            "name": "Matt Suiche",
+            "url": "https://medium.com/@msuiche",
+            "tags": [
+                "software",
+                "security"
+            ],
+            "furl": "https://medium.com/feed/@msuiche",
+            "hnp": 311
+        },
+        {
+            "name": "naked security",
+            "url": "https://nakedsecurity.sophos.com/",
+            "tags": [
+                "software",
+                "security"
+            ],
+            "furl": "https://nakedsecurity.sophos.com/feed/",
+            "hnp": 4904
+        },
+        {
+            "name": "Roger McClinton",
+            "url": "https://www.infosecblog.org/",
+            "tags": [
+                "software",
+                "security"
+            ],
+            "furl": "https://www.infosecblog.org/feed/",
+            "hnp": 0
+        },
+        {
+            "name": "the grugq",
+            "url": "https://medium.com/@thegrugq",
+            "tags": [
+                "software",
+                "security"
+            ],
+            "furl": "https://medium.com/feed/@thegrugq",
+            "hnp": 828
+        },
+        {
+            "name": "Trail of Bits",
+            "url": "https://blog.trailofbits.com/",
+            "tags": [
+                "software",
+                "security"
+            ],
+            "furl": "https://blog.trailofbits.com/feed/",
+            "hnp": 3743
+        },
+        {
+            "name": "Troy Hunt",
+            "url": "https://www.troyhunt.com/",
+            "tags": [
+                "software",
+                "security"
+            ],
+            "furl": "https://www.troyhunt.com/rss/",
+            "hnp": 13592
+        }
+    ]
+}

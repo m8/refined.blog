@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <title>Refined Blog</title>
+  <meta name="description" content="List of internet blogs for all of us">
+  <link rel="stylesheet" type="text/css" href="public/css/style.css">
+  <link rel="stylesheet" type="text/css" href="public/css/jquery.dataTables.css">
+  <link rel="stylesheet" href="https://cdn.datatables.net/responsive/2.2.9/css/responsive.dataTables.min.css">
+</head>
+
+
+<body>
+  <header>
+    <h1>📖 Refined Blog</h1>
+    <p><b>Experience is gold.</b> There are many different social media platforms on the internet but we need <b><u>personal blogs</u></b>  again. 
+      It's hard to find blogs so let's create this blog list together!
+   
+    <hr>
+    <details>
+      <summary><strong>How can I submit a blog or edit?</strong></summary>
+      <p>Please follow the instructions on the main <a target="_blank"
+          href="">Github project repo</a>.</p>
+    </details>
+    <hr>
+    <details>
+      <summary><strong>About this site</strong></summary>
+      <p>This site has a list of specifically software blogs. These blogs were collected and organized from various
+        sources. Then, tags were extracted for these sites and HN scores were calculated.</p>
+      <p><u>Sources</u></p>
+      <ul>
+        <li><a href="https://news.ycombinator.com/item?id=24539445" target="_blank">HN Post</a></li>
+        <li><a href="https://github.com/kilimchoi/engineering-blogs" target="_blank">Engineering Blogs</a></li>
+        <li><a href="https://github.com/kaizensoze/security-blogs" target="_blank">Security Blogs</a></li>
+      </ul>
+    </details>
+    <hr>
+
+
+    <br>
+  </header>
+
+  <table id="table_id" class="display">
+    <thead>
+      <tr>
+        <th>Name</th>
+        <th>Tags</th>
+        <th>HN Point</th>
+        <th>Feed</th>
+      </tr>
+    </thead>
+
+  </table>
+
+  <script type="text/javascript" src="public/js/jquery-3.6.0.min.js"></script>
+  <script type="text/javascript" src="public/js/jquery.dataTables.js"></script>
+  <script src="https://cdn.datatables.net/responsive/2.2.9/js/dataTables.responsive.min.js"></script>
+
+  <script>
+    $(document).ready(function () {
+      $('#table_id').DataTable({
+        "ajax": './data.json',
+        "pageLength": 25,
+        responsive: true,
+        "columns": [
+          {
+            "data": "name",
+            "render": function (data, type, full) {
+              return `<a href="${full.url}" target="_blank">${data}</a>`;
+            }
+          },
+          {
+            "data": "tags",
+            "render": function (data, type, full) {
+              return `<small>${full.tags.join(' ')}</small>`;
+            }
+          },
+          {
+            "data": "hnp",
+            "render": function (data, type, full) {
+              url = full.url.replace(/^(?:https?:\/\/)?(?:www\.)?/i, "").split('/')[0]
+              return `<a class="link" href="https://news.ycombinator.com/from?site=${url}" target="_blank">${full.hnp}</a>`;
+
+            }
+          },
+          {
+            "data": null,
+            "render": function (data, type, full) {
+              if (full.furl) {
+                return `<a href="${full.furl}" target="_blank">link</a>`;
+              } else {
+                return '-';
+              }
+            }
+          },
+
+        ]
+      });
+    });
+  </script>
+
+</body>
+
+
+</html>

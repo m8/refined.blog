@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&display=swap');
+body {
+    margin: 0 auto;
+    max-width: 100ch;
+    padding: 10px;
+    font-family: 'Libre Baskerville', serif;
+    background-color: #FDF6E3;
+}
+
+.link{
+    color: #3b3b3d;
+    text-decoration: none; /* no underline */
+}
+
+@media (prefers-color-scheme: dark) {
+    body{
+        background:#191919;
+        filter:invert(1);
+    }
+}
