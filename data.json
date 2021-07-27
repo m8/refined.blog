@@ -32,6 +32,18 @@
             "hnp": 1842
         },
         {
+            "name": "DevOops (mcgillij's blog)",
+            "url": "https://mcgillij.dev",
+            "tags": [
+                "software",
+                "python",
+                "games",
+                "virtualization",
+                "free-software"
+            ],
+            "furl": "https://www.mcgillij.dev/feeds/all.atom.xml"
+        },
+        {
             "name": "zserge",
             "url": "https://zserge.com",
             "tags": [
@@ -315,6 +327,19 @@
             ],
             "furl": "https://blog.can.ac/feed",
             "hnp": 227
+        },
+        {
+            "name": "Artur Piszek",
+            "url": "https://piszek.com/",
+            "tags": [
+                "remote work",
+                "career",
+                "solarpunk",
+                "psychology",
+                "note taking",
+                "internet economy"
+            ],
+            "furl": "https://piszek.com/feed/"
         },
         {
             "name": "Aviator Ahmet ",
@@ -775,6 +800,16 @@
             ],
             "furl": "https://www.bfilipek.com/feeds/posts/default",
             "hnp": 1704
+        },
+        {
+            "name": "Ben Cartwright-Cox",
+            "url": "https://blog.benjojo.co.uk/",
+            "tags": [
+                "software",
+                "networking",
+                "reverse engineering"
+            ],
+            "furl": "https://blog.benjojo.co.uk/rss.xml"
         },
         {
             "name": "Ben McCormick",
@@ -1298,6 +1333,18 @@
             ],
             "furl": "https://tomassetti.me/feed/",
             "hnp": 1744
+        },
+        {
+            "name": "Felipe Lima",
+            "url": "https://felipecsl.com/",
+            "tags": [
+                "software",
+                "finance",
+                "crypto",
+                "programming",
+                "investing"
+            ],
+            "furl": "https://felipecsl.com/feed.xml"
         },
         {
             "name": "Filippo Valsorda",
@@ -2962,7 +3009,7 @@
             "hnp": 13592
         },
         {
-            "name": "Colin Devroe",
+           "name": "Colin Devroe",
             "url": "http://cdevroe.com/",
             "tags": [
                 "photography",
@@ -2972,6 +3019,29 @@
             ],
             "furl": "http://cdevroe.com/feed/",
             "hnp": 277
+        },
+        {
+            "name": "Kyle Fazzari",
+            "url": "https://kyrofa.com/",
+            "tags": [
+                "software",
+                "linux",
+                "ubuntu",
+                "open source"
+            ],
+            "furl": "https://kyrofa.com/index.xml"
+        },
+        {
+            "name": "Brajeshwar Oinam",
+            "url": "https://brajeshwar.com",
+            "tags": [
+                "design",
+                "startup",
+                "entrepreneurship",
+                "technology",
+                "productivity"
+            ],
+            "furl": "https://brajeshwar.com/feed.xml"
         }
     ]
 }
