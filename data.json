@@ -2960,6 +2960,21 @@
             ],
             "furl": "https://www.troyhunt.com/rss/",
             "hnp": 13592
+        },
+        {
+            "name": "David Brownman",
+            "url": "https://xavd.id/blog",
+            "tags": [
+                "software",
+                "security",
+                "personal",
+                "videogames",
+                "media",
+                "movies",
+                "python"
+            ],
+            "furl": "https://xavd.id/blog/feeds/rss.xml",
+            "hnp": 0
         }
     ]
 }
