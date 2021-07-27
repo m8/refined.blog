@@ -2960,6 +2960,18 @@
             ],
             "furl": "https://www.troyhunt.com/rss/",
             "hnp": 13592
+        },
+        {
+            "name": "Brajeshwar Oinam",
+            "url": "https://brajeshwar.com",
+            "tags": [
+                "design",
+                "startup",
+                "entrepreneurship",
+                "technology",
+                "productivity"
+            ],
+            "furl": "https://brajeshwar.com/feed.xml"
         }
     ]
 }
