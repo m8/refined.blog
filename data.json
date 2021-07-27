@@ -2960,6 +2960,18 @@
             ],
             "furl": "https://www.troyhunt.com/rss/",
             "hnp": 13592
+        },
+        {
+            "name": "Esoteric.Codes",
+            "url": "https://esoteric.codes",
+            "tags": [
+                "programming languages",
+                "esolangs",
+                "esoteric programming languages",
+                "code poetry",
+                "code art"
+            ],
+            "furl": "https://esoteric.codes/rss"
         }
     ]
 }
