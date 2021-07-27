@@ -2960,6 +2960,19 @@
             ],
             "furl": "https://www.troyhunt.com/rss/",
             "hnp": 13592
+        },
+        {
+            "name": "Dom Williams",
+            "url": "https://domwillia.ms/",
+            "tags": [
+                "software",
+                "gamedev",
+                "game engine",
+                "rust",
+                "devlog"
+            ],
+            "furl": "https://domwillia.ms/index.xml"
         }
+        
     ]
 }
