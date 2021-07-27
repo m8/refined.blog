@@ -1326,6 +1326,17 @@
             "hnp": 321
         },
         {
+            "name": "Gabriel Gambetta",
+            "url": "https://gabrielgambetta.com",
+            "tags": [
+                "software",
+                "computer graphics",
+                "game development",
+                "algorithms",
+                "multiplayer game networking"
+            ],
+        },
+        {
             "name": "Gleb Bahmutov",
             "url": "https://glebbahmutov.com/blog/",
             "tags": [
