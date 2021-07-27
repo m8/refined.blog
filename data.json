@@ -2960,6 +2960,16 @@
             ],
             "furl": "https://www.troyhunt.com/rss/",
             "hnp": 13592
+        },
+        {
+            "name": "Matt Rickard",
+            "url": "https://matt-rickard.com",
+            "tags": [
+                "software",
+                "startups",
+                "thoughts"
+            ],
+            "furl": "https://matt-rickard.com/feed/"
         }
     ]
 }
