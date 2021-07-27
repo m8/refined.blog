@@ -2985,5 +2985,16 @@
             ],
             "furl": "https://brajeshwar.com/feed.xml"
         }
+        
+        {
+           "name": "JB Schirtzinger",
+           "url": "https://jbschirtzinger.com",
+           "tags": [
+           "software",
+           "open source",
+           "free-software"
+            ],
+            "furl": "https://www.jbschirtzinger.com/"
+        }
     ]
 }
