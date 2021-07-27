@@ -3094,6 +3094,21 @@
                 "thoughts"
             ],
             "furl": "https://matt-rickard.com/feed/"
+        },
+        {
+            "name": "randomnoun",
+            "url": "http://randomnoun.com",
+            "tags": [
+                "software",
+                "programming",
+                "thoughts",
+                "java",
+                "javascript",
+                "sql",
+                "devices",
+                "rant"
+            ],
+            "furl": "http://www.randomnoun.com/wp/feed/"
         }
     ]
 }
