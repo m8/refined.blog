@@ -789,6 +789,16 @@
             "hnp": 1704
         },
         {
+            "name": "Ben Cartwright-Cox",
+            "url": "https://blog.benjojo.co.uk/",
+            "tags": [
+                "software",
+                "networking",
+                "reverse engineering"
+            ],
+            "furl": "https://blog.benjojo.co.uk/rss.xml"
+        },
+        {
             "name": "Ben McCormick",
             "url": "https://benmccormick.org/",
             "tags": [
