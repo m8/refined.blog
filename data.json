@@ -2960,6 +2960,19 @@
             ],
             "furl": "https://www.troyhunt.com/rss/",
             "hnp": 13592
+        },
+        {
+            "name": "Evert Pot",
+            "url": "https://evertpot.com/",
+            "tags": [
+                "software",
+                "http",
+                "javascript",
+                "api",
+                "typescript",
+                "rest"
+            ],
+            "furl": "https://evertpot.com/atom.xml"
         }
     ]
 }
