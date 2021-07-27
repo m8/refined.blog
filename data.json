@@ -2960,6 +2960,17 @@
             ],
             "furl": "https://www.troyhunt.com/rss/",
             "hnp": 13592
-        }
+        },
+        {
+            "name": "Infinimata (Serdar Yegulalp)",
+            "url": "https://infinimata.com",
+            "tags": [
+                "science fiction",
+                "fantasy",
+                "creativity",
+                "writing"
+            ],
+            "furl": "https://infinimata.com/rss.xml"
+        },        
     ]
 }
