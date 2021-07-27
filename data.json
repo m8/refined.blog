@@ -2960,6 +2960,19 @@
             ],
             "furl": "https://www.troyhunt.com/rss/",
             "hnp": 13592
+        },
+	{
+            "name": "Vahid Rafiei",
+            "url": "https://vahid-r.com/",
+            "tags": [
+                "java",
+                "security",
+		"software",
+		"books",
+		"thoughts"
+            ],
+            "furl": "https://vahid-r.com/feed.xml"
         }
+
     ]
 }
