@@ -1,6 +1,22 @@
 {
     "data": [
         {
+            "name": "Tedium: The Dull Side of the Internet",
+            "url": "https://tedium.co",
+            "tags": [
+                "internet",
+                "history",
+                "retro",
+                "obscure",
+                "offbeat",
+                "tech-history",
+                "longform",
+                "pop-culture"
+            ],
+            "furl": "https://feed.tedium.co",
+            "hnp": 0
+        },
+        {
             "name": "Musa Unal",
             "url": "https://musaunal.com",
             "tags": [
