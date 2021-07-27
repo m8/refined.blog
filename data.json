@@ -1032,6 +1032,24 @@
             "hnp": 571
         },
         {
+            "name": "Daniel Meechan",
+            "url": "https://dmeechan.com",
+            "tags": [
+                "software",
+                "typescript",
+                "node.js",
+                "linux",
+                "today I learned",
+                "startups",
+                "doing good",
+                "how to",
+                "gaming",
+                "challenge",
+                "living"
+            ],
+            "furl": "https://dmeechan.com/blog/feed.xml"
+        },
+        {
             "name": "Dave Atchley",
             "url": "http://www.datchley.name/",
             "tags": [
