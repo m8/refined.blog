@@ -1,6 +1,17 @@
 {
     "data": [
         {
+            "name": "ht.xyz",
+            "url": "https://hitarththummar.xyz",
+            "tags": [
+                "software",
+                "computers",
+                "virtualization",
+                "personal",
+            ],
+            "furl": "https://hitarththummar.xyz/index.xml",
+        },
+        {
             "name": "Musa Unal",
             "url": "https://musaunal.com",
             "tags": [
