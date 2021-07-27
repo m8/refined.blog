@@ -3030,6 +3030,16 @@
                 "productivity"
             ],
             "furl": "https://brajeshwar.com/feed.xml"
+        },
+        {
+            "name": "Brett Koonce",
+            "url": "https://brettkoonce.com/",
+            "tags": [
+                "ai",
+                "machine learning",
+                "cloud"
+            ],
+            "furl": "https://brettkoonce.com/index.xml"
         }
     ]
 }
