@@ -2091,6 +2091,20 @@
             "hnp": 2529
         },
         {
+            "name": "Mike Crittenden",
+            "url": "https://critter.blog/",
+            "tags": [
+                "software",
+                "management",
+                "productivity",
+                "happiness",
+                "leadership",
+                "teams",
+                "work"
+            ],
+            "furl": "https://critter.blog/feed/",
+        },
+        {
             "name": "Mike Fogus",
             "url": "http://blog.fogus.me/",
             "tags": [
