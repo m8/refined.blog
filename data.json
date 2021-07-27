@@ -2960,6 +2960,17 @@
             ],
             "furl": "https://www.troyhunt.com/rss/",
             "hnp": 13592
+        },
+        {
+            "name": "Kyle Fazzari",
+            "url": "https://kyrofa.com/",
+            "tags": [
+                "software",
+                "linux",
+                "ubuntu",
+                "open source"
+            ],
+            "furl": "https://kyrofa.com/index.xml"
         }
     ]
 }
