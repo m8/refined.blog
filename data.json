@@ -32,6 +32,18 @@
             "hnp": 1842
         },
         {
+            "name": "DevOops (mcgillij's blog)",
+            "url": "https://mcgillij.dev",
+            "tags": [
+                "software",
+                "python",
+                "games",
+                "virtualization",
+                "free-software"
+            ],
+            "furl": "https://www.mcgillij.dev/feeds/all.atom.xml"
+        },
+        {
             "name": "zserge",
             "url": "https://zserge.com",
             "tags": [
