@@ -1,6 +1,17 @@
 {
     "data": [
         {
+            "name": "Jon Paul Uritis",
+            "url": "https://jonpauluritis.com",
+            "tags": [
+                "software",
+                "business",
+                "personal improvement",
+                "design"
+            ],
+            "furl": "https://jonpauluritis.com/feed.xml"
+        },        
+        {
             "name": "Musa Unal",
             "url": "https://musaunal.com",
             "tags": [
