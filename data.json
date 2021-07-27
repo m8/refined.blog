@@ -1300,6 +1300,18 @@
             "hnp": 1744
         },
         {
+            "name": "Felipe Lima",
+            "url": "https://felipecsl.com/",
+            "tags": [
+                "software",
+                "finance",
+                "crypto",
+                "programming",
+                "investing"
+            ],
+            "furl": "https://felipecsl.com/feed.xml"
+        },
+        {
             "name": "Filippo Valsorda",
             "url": "https://blog.filippo.io/",
             "tags": [
