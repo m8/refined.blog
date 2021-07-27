@@ -2960,6 +2960,17 @@
             ],
             "furl": "https://www.troyhunt.com/rss/",
             "hnp": 13592
-        }
+        },
+        {
+            "name": "Sensemaking: Alex Krupp's blog",
+            "url": "https://alexkrupp.typepad.com",
+            "tags": [
+                "software",
+                "entrepreneurship",
+                "education",
+                "marketing"
+            ],
+            "furl": "https://alexkrupp.typepad.com/sensemaking/atom.xml"
+        },
     ]
 }
