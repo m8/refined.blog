@@ -2960,6 +2960,15 @@
             ],
             "furl": "https://www.troyhunt.com/rss/",
             "hnp": 13592
+        },
+        {
+            "name": "Software Curmudgeon",
+            "url": "https://blog.softwarecurmudgeon.com/",
+            "tags": [
+                "software",
+                "elixir"
+            ],
+            "furl": "https://blog.softwarecurmudgeon.com/feed.xml"
         }
     ]
 }
