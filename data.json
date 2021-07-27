@@ -2984,6 +2984,24 @@
                 "productivity"
             ],
             "furl": "https://brajeshwar.com/feed.xml"
+        },
+        {
+            "name": "Second Breakfast",
+            "url": "https://secondbreakfast.co/page/1",
+            "tags": [
+                "software",
+                "life",
+                "entrepreneurship",
+                "vonnegut",
+                "technology",
+                "economics",
+                "finance",
+                "philosophy",
+                "business",
+                "travel",
+                "hiking"
+            ],
+            "furl": "https://secondbreakfast.co/feed.rss"
         }
     ]
 }
