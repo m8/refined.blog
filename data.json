@@ -2960,6 +2960,19 @@
             ],
             "furl": "https://www.troyhunt.com/rss/",
             "hnp": 13592
-        }
+        },
+        {
+            "name": "OutOfCheeseError",
+            "url": "https://out-of-cheese-error.netlify.app/",
+            "tags": [
+                "software",
+                "electronics",
+                "rust",
+                "python",
+                "programming"
+            ],
+            "furl": "https://out-of-cheese-error.netlify.app/feeds/all.rss.xml"
+        },
+
     ]
 }
