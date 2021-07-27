@@ -2984,6 +2984,17 @@
                 "productivity"
             ],
             "furl": "https://brajeshwar.com/feed.xml"
+        },
+        {
+            "name": "Alexander Hansen's blog",
+            "url": "https://alexander-hansen.dev/blog.html",
+            "tags": [
+                "software",
+                "programming languages",
+                "linux",
+                "c",
+                "smalldragon"
+            ]
         }
     ]
 }
