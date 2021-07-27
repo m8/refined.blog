@@ -2960,6 +2960,19 @@
             ],
             "furl": "https://www.troyhunt.com/rss/",
             "hnp": 13592
+        },
+        {
+            "name": "James Steinberg",
+            "url": "https://mrsteinberg.com/",
+            "tags": [
+                "entrepreneur",
+                "startup",
+                "business",
+                "thoughts",
+                "life",
+                "y combinator"
+            ],
+            "furl": "https://mrsteinberg.com/rss/"
         }
     ]
 }
