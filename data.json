@@ -2960,6 +2960,16 @@
             ],
             "furl": "https://www.troyhunt.com/rss/",
             "hnp": 13592
-        }
+        },
+        {
+            "name": "Sheep.Horse - the blog of Andrew Stephens",
+            "url": "https://sheep.horse/",
+            "tags": [
+                "software",
+                "books"
+            ],
+            "furl": "https://sheep.horse/rss.xml",
+            "hnp": 0
+        }        
     ]
 }
