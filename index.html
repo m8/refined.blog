@@ -78,11 +78,14 @@
             }
           },
           {
-            "data": "hnp",
+            "data": null,
             "render": function (data, type, full) {
-              url = full.url.replace(/^(?:https?:\/\/)?(?:www\.)?/i, "").split('/')[0]
-              return `<a class="link" href="https://news.ycombinator.com/from?site=${url}" target="_blank">${full.hnp}</a>`;
-
+              if(full.hnp){
+                url = full.url.replace(/^(?:https?:\/\/)?(?:www\.)?/i, "").split('/')[0]
+                return `<a class="link" href="https://news.ycombinator.com/from?site=${url}" target="_blank">${full.hnp}</a>`;
+              } else {
+                return '-';
+              }
             }
           },
           {
