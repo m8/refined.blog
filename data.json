@@ -2960,6 +2960,26 @@
             ],
             "furl": "https://www.troyhunt.com/rss/",
             "hnp": 13592
+        },
+        {
+            "name": "Shogan.tech",
+            "url": "https://www.shogan.co.uk",
+            "tags": [
+                "software",
+                "devops",
+                "automation",
+                "engineering",
+                "cloud",
+                "self-hosting",
+                "raspberry",
+                "pi",
+                "linux",
+                "windows",
+                "C#",
+                "nodejs",
+                "AWS"
+            ],
+            "furl": "http://www.shogan.co.uk/feed/"
         }
     ]
 }
