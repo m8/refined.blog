@@ -3052,6 +3052,24 @@
                 "cloud"
             ],
             "furl": "https://brettkoonce.com/index.xml"
+        },
+        {
+            "name": "std::bodun::blog",
+            "url": "https://www.bodunhu.com/blog/",
+            "tags": [
+                "computer science",
+                "programming",
+                "network",
+                "Linux",
+                "software",
+                "PhD",
+                "machine learning system",
+                "kernel",
+                "heterogeneity",
+                "accelerator",
+                "academia"
+            ],
+            "furl": "https://www.bodunhu.com/blog/index.xml"
         }
     ]
 }
