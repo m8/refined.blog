@@ -56,6 +56,18 @@
             "hnp": 3050
         },
         {
+            "name": "Henry Schmale's Blog",
+            "url": "https://www.henryschmale.org",
+            "tags": [
+                "programming",
+                "visualizations",
+                "cooking",
+                "reviews"
+            ],
+            "furl": "https://www.henryschmale.org/feed.xml",
+            "hnp": 0
+        },
+        {
             "name": "matklad",
             "url": "https://matklad.github.io/",
             "tags": [
