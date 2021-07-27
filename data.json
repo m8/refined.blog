@@ -57,15 +57,25 @@
             "hnp": 2714
         },
         {
-    "name": "Avi Parshan's Deals",
-    "url": "https://sales.aviparshan.com",
-    "tags": [
-        "tech",
-        "deals",
-        "products"
+           "name": "Avi Parshan's Deals",
+            "url": "https://sales.aviparshan.com",
+          "tags": [
+              "tech",
+                "deals",
+                "products"
     ],
     "furl": "https://sales.aviparshan.com"
-},
+    },
+     {
+         "name": "Avi Parshan's Tech Blog",
+         "url": "https://aviparshan.medium.com/",
+         "tags": [
+             "tech",
+             "programming languages",
+              "android", "reverse engineering"
+    ],
+    "furl": "https://aviparshan.medium.com/"
+    },
         {
             "name": "flak",
             "url": "https://flak.tedunangst.com/",
