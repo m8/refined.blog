@@ -1,6 +1,16 @@
 {
     "data": [
         {
+            "name": "Jamie Adams",
+            "url": "https://jamieadams.click",
+            "tags": [
+                "personal",
+                "internet",
+                "technology"
+            ],
+            "furl": "https://jamieadams.click/feed/"
+        },
+        {
             "name": "Musa Unal",
             "url": "https://musaunal.com",
             "tags": [
@@ -54,6 +64,18 @@
             ],
             "furl": "https://zserge.com/rss",
             "hnp": 3050
+        },
+        {
+            "name": "Henry Schmale's Blog",
+            "url": "https://www.henryschmale.org",
+            "tags": [
+                "programming",
+                "visualizations",
+                "cooking",
+                "reviews"
+            ],
+            "furl": "https://www.henryschmale.org/feed.xml",
+            "hnp": 0
         },
         {
             "name": "matklad",
@@ -269,12 +291,22 @@
             "hnp": 3906
         },
         {
+            "name": "Frank's blog",
+            "url": "https://frankgroeneveld.nl",
+            "tags": [
+                "open source",
+                "entrepreneurship",
+                "ruby",
+                "productivity"
+            ],
+            "furl": "https://frankgroeneveld.nl/feed/"
+        },
+        {
             "name": "Alexey Guzey",
             "url": "https://guzey.com",
             "tags": [
                 "software"
             ],
-            "furl": "https://berthub.eu/articles/index.xml",
             "hnp": 1893
         },
         {
@@ -3023,6 +3055,20 @@
             "hnp": 13592
         },
         {
+            "name": "VisakanV'S Blog",
+            "url": "http://www.visakanv.com/blog/start-here/",
+            "tags": [
+                "culture",
+                "theory",
+                "strategy",
+                "reading",
+                "writing",
+                "people",
+                "travel"
+            ],
+            "furl": "http://www.visakanv.com/blog/rss/"
+        },
+        {
            "name": "Colin Devroe",
             "url": "http://cdevroe.com/",
             "tags": [
@@ -3094,6 +3140,172 @@
                 "thoughts"
             ],
             "furl": "https://matt-rickard.com/feed/"
+        },
+        {
+            "name": "Painting Quarks",
+            "url": "https://otavio.cc/",
+            "tags": [
+                "apple",
+                "ios",
+                "macos",
+                "swift",
+                "swiftui",
+                "combine",
+                "objective-c",
+                "software"
+            ],
+            "furl": "https://otavio.cc/feed.xml"
+        },
+        {
+            "name": "Andrew's World",
+            "url": "https://andrew.im",
+            "tags": [
+               "essays",
+               "thoughts",
+               "startups",
+               "tech"
+           ],
+           "furl": "https://andrew.im/feed.xml"
+        },
+        {
+           "name": "Rahul Gopinath",
+            "url": "https://rahul.gopinath.org/",
+            "tags": [
+                "research",
+                "programming",
+                "software",
+                "computer science",
+                "academia",
+                "live-notebooks"
+            ],
+            "furl": "https://rahul.gopinath.org/feed.xml"
+        },
+        {
+          "name": "Asko Nõmm",
+            "url": "https://bien.ee",
+            "tags": [
+                "software",
+                "clojure",
+                "programming languages",
+                "thoughts"
+            ],
+            "furl": "https://bien.ee/rss/"
+        },
+        {
+            "name": "Alexander Hansen's blog",
+            "url": "https://alexander-hansen.dev/blog.html",
+            "tags": [
+                "software",
+                "programming languages",
+                "linux",
+                "c",
+                "smalldragon"
+            ]
+        },
+        {
+            "name": "David Brownman",
+            "url": "https://xavd.id/blog",
+            "tags": [
+                "software",
+                "security",
+                "personal",
+                "videogames",
+                "media",
+                "movies",
+                "python"
+            ],
+            "furl": "https://xavd.id/blog/feeds/rss.xml",
+            "hnp": 0
+        },
+        {
+            "name": "Jeff Geerling",
+            "url": "https://www.jeffgeerling.com/",
+            "tags": [
+                "raspberry-pi",
+                "open-source",
+                "kubernetes",
+                "ansible"
+            ],
+            "furl": "http://www.jeffgeerling.com/blog.xml"
+        },
+        {
+            "name": "Bradley Taunt",
+            "url": "https://uglyduck.ca/",
+            "tags": [
+                "design",
+                "development",
+                "web",
+                "open-source"
+            ],
+            "furl": "https://uglyduck.ca/feed.xml"
+        },
+        {
+            "name": "Second Breakfast",
+            "url": "https://secondbreakfast.co/page/1",
+            "tags": [
+                "software",
+                "life",
+                "entrepreneurship",
+                "vonnegut",
+                "technology",
+                "economics",
+                "finance",
+                "philosophy",
+                "business",
+                "travel",
+                "hiking"
+            ],
+            "furl": "https://secondbreakfast.co/feed.rss"
+        },
+        {
+            "name": "Major Hayden",
+            "url": "https://major.io",
+            "tags": [
+                "fedora",
+                "hamradio",
+                "investing",
+                "linux",
+                "python",
+                "software",
+                "technology"
+            ],
+            "furl": "https://major.io/index.xml"
+        },
+        {
+            "name": "Sylvain Kerkour",
+            "url": "https://kerkour.com",
+            "tags": [
+                "software",
+                "rust",
+                "open-source",
+                "entrepreneurship",
+                "security"
+            ],
+            "furl": "https://kerkour.com/feed.xml"
+        },
+        {
+            "name": "Tomáš Janoušek",
+            "url": "https://work.lisk.in/",
+            "tags": [
+                "software",
+                "linux",
+                "open-source",
+                "bicycles"
+            ],
+            "furl": "https://work.lisk.in/atom.xml"
+        },
+        {
+           "name": "Ognjen Regoje' blog",
+            "url": "https://ognjen.io",
+            "tags": [
+                "product",
+                "privacy",
+                "ethics",
+                "development",
+                "rails",
+                "design"
+            ],
+            "furl": "https://ognjen.io/feed.xml"
         },
         {
             "name": "randomnoun",
