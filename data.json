@@ -3109,6 +3109,17 @@
                 "software"
             ],
             "furl": "https://otavio.cc/feed.xml"
+        },
+        {
+            "name": "Andrew's World",
+            "url": "https://andrew.im",
+            "tags": [
+               "essays",
+               "thoughts",
+               "startups",
+               "tech"
+           ],
+           "furl": "https://andrew.im/feed.xml"
         }
     ]
 }
