@@ -3143,6 +3143,17 @@
                 "live-notebooks"
             ],
             "furl": "https://rahul.gopinath.org/feed.xml"
+        },
+        {
+          "name": "Asko Nõmm",
+            "url": "https://bien.ee",
+            "tags": [
+                "software",
+                "clojure",
+                "programming languages",
+                "thoughts"
+            ],
+            "furl": "https://bien.ee/rss/"
         }
     ]
 }
