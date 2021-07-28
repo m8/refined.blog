@@ -3094,6 +3094,16 @@
                 "thoughts"
             ],
             "furl": "https://matt-rickard.com/feed/"
-        }
+        },
+        {
+            "name": "Asko Nõmm",
+            "url": "https://bien.ee",
+            "tags": [
+                "software",
+                "programming languages",
+                "thoughts"
+            ],
+            "furl": "https://bien.ee/rss/"
+        },
     ]
 }
