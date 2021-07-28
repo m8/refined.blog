@@ -3351,6 +3351,15 @@
                 "books"
             ],
             "furl": "https://sheep.horse/rss.xml"
+        },
+        {
+            "name": "Software Curmudgeon",
+            "url": "https://blog.softwarecurmudgeon.com/",
+            "tags": [
+                "software",
+                "elixir"
+            ],
+            "furl": "https://blog.softwarecurmudgeon.com/feed.xml"
         }
     ]
 }
