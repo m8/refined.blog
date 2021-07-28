@@ -269,12 +269,22 @@
             "hnp": 3906
         },
         {
+            "name": "Frank's blog",
+            "url": "https://frankgroeneveld.nl",
+            "tags": [
+                "open source",
+                "entrepreneurship",
+                "ruby",
+                "productivity"
+            ],
+            "furl": "https://frankgroeneveld.nl/feed/"
+        },
+        {
             "name": "Alexey Guzey",
             "url": "https://guzey.com",
             "tags": [
                 "software"
             ],
-            "furl": "https://berthub.eu/articles/index.xml",
             "hnp": 1893
         },
         {
@@ -3111,7 +3121,18 @@
             "furl": "https://otavio.cc/feed.xml"
         },
         {
-            "name": "Rahul Gopinath",
+            "name": "Andrew's World",
+            "url": "https://andrew.im",
+            "tags": [
+               "essays",
+               "thoughts",
+               "startups",
+               "tech"
+           ],
+           "furl": "https://andrew.im/feed.xml"
+        },
+        {
+           "name": "Rahul Gopinath",
             "url": "https://rahul.gopinath.org/",
             "tags": [
                 "research",
