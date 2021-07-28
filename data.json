@@ -3363,6 +3363,16 @@
             "furl": "https://sheep.horse/rss.xml"
         },
         {
+            "name": "Gwern Branwen",
+            "url": "https://www.gwern.net/",
+            "tags": [
+                "software",
+                "psychology",
+                "statistics",
+                "technology"
+            ]
+        },
+        {
             "name": "Software Curmudgeon",
             "url": "https://blog.softwarecurmudgeon.com/",
             "tags": [
