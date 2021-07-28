@@ -3258,6 +3258,18 @@
             "furl": "https://major.io/index.xml"
         },
         {
+            "name": "The Landman Lounge",
+            "url": "https://www.landmanlounge.com",
+            "tags": [
+                "software",
+                "philosophy",
+                "writing",
+                "travel",
+                "observations",
+                "current events"
+            ],
+        },
+        {
             "name": "Sylvain Kerkour",
             "url": "https://kerkour.com",
             "tags": [
