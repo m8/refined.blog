@@ -3202,6 +3202,17 @@
             ],
             "furl": "https://xavd.id/blog/feeds/rss.xml",
             "hnp": 0
+        },
+        {
+            "name": "Jeff Geerling",
+            "url": "https://www.jeffgeerling.com/",
+            "tags": [
+                "raspberry-pi",
+                "open-source",
+                "kubernetes",
+                "ansible"
+            ],
+            "furl": "http://www.jeffgeerling.com/blog.xml"
         }
     ]
 }
