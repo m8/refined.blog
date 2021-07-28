@@ -3094,6 +3094,21 @@
                 "thoughts"
             ],
             "furl": "https://matt-rickard.com/feed/"
+        },
+        {
+            "name": "Painting Quarks",
+            "url": "https://otavio.cc/",
+            "tags": [
+                "apple",
+                "ios",
+                "macos",
+                "swift",
+                "swiftui",
+                "combine",
+                "objective-c",
+                "software"
+            ],
+            "furl": "https://otavio.cc/feed.xml"
         }
     ]
 }
