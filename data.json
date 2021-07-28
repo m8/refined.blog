@@ -3268,6 +3268,17 @@
                 "security"
             ],
             "furl": "https://kerkour.com/feed.xml"
+        },
+        {
+            "name": "Tomáš Janoušek",
+            "url": "https://work.lisk.in/",
+            "tags": [
+                "software",
+                "linux",
+                "open-source",
+                "bicycles"
+            ],
+            "furl": "https://work.lisk.in/atom.xml"
         }
     ]
 }
