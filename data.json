@@ -3268,6 +3268,16 @@
                 "security"
             ],
             "furl": "https://kerkour.com/feed.xml"
+        },
+        {
+            "name": "Nikita Voloboev",
+            "url": "https://wiki.nikitavoloboev.xyz",
+            "tags": [
+                "software",
+                "technology",
+                "productivity",
+                "life"
+            ]
         }
     ]
 }
