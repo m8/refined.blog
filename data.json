@@ -66,6 +66,18 @@
             "hnp": 3050
         },
         {
+            "name": "Dragoș Străinu blog",
+            "url": "https://strdr4605.github.io",
+            "tags": [
+                "software",
+                "hackathons",
+                "learning",
+                "frontend",
+                "open-source",
+            ],
+            "furl": "https://strdr4605.github.io/rss.xml"
+        },
+        {
             "name": "Henry Schmale's Blog",
             "url": "https://www.henryschmale.org",
             "tags": [
