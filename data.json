@@ -1,6 +1,16 @@
 {
     "data": [
         {
+            "name": "Jamie Adams",
+            "url": "https://jamieadams.click",
+            "tags": [
+                "personal",
+                "internet",
+                "technology"
+            ],
+            "furl": "https://jamieadams.click/feed/"
+        },
+        {
             "name": "Musa Unal",
             "url": "https://musaunal.com",
             "tags": [
