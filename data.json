@@ -3166,6 +3166,17 @@
                 "thoughts"
             ],
             "furl": "https://bien.ee/rss/"
+        },
+        {
+            "name": "Alexander Hansen's blog",
+            "url": "https://alexander-hansen.dev/blog.html",
+            "tags": [
+                "software",
+                "programming languages",
+                "linux",
+                "c",
+                "smalldragon"
+            ]
         }
     ]
 }
