@@ -1,6 +1,22 @@
 {
     "data": [
         {
+            "name": "Marek Narozniak's blog",
+            "url": "https://mareknarozniak.com/",
+            "tags": [
+                "quantum",
+                "physics",
+                "cryptography",
+                "optimization",
+                "tutorials",
+                "simulation",
+                "python",
+                "science",
+                "theory"
+            ],
+            "furl": "https://mareknarozniak.com/feed.xml"
+        },
+        {
             "name": "Musa Unal",
             "url": "https://musaunal.com",
             "tags": [
