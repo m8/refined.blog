@@ -3213,6 +3213,17 @@
                 "ansible"
             ],
             "furl": "http://www.jeffgeerling.com/blog.xml"
+        },
+        {
+            "name": "Bradley Taunt",
+            "url": "https://uglyduck.ca/",
+            "tags": [
+                "design",
+                "development",
+                "web",
+                "open-source"
+            ],
+            "furl": "https://uglyduck.ca/feed.xml"
         }
     ]
 }
