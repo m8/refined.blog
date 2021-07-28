@@ -3054,6 +3054,27 @@
             "furl": "https://www.troyhunt.com/rss/",
             "hnp": 13592
         },
+        {
+            "name": "Shogan.tech",
+            "url": "https://www.shogan.co.uk",
+            "tags": [
+                "software",
+                "devops",
+                "automation",
+                "engineering",
+                "cloud",
+                "self-hosting",
+                "terraform",
+                "raspberry-pi",
+                "kubernetes",
+                "linux",
+                "windows",
+                "C#",
+                "nodejs",
+                "AWS"
+            ],
+            "furl": "http://www.shogan.co.uk/feed/"
+        },
         {     
             "name": "VisakanV'S Blog",
             "url": "http://www.visakanv.com/blog/start-here/",
