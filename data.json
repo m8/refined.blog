@@ -3054,7 +3054,7 @@
             "furl": "https://www.troyhunt.com/rss/",
             "hnp": 13592
         },
-        {
+        {     
             "name": "VisakanV'S Blog",
             "url": "http://www.visakanv.com/blog/start-here/",
             "tags": [
@@ -3321,6 +3321,15 @@
                 "rant"
             ],
             "furl": "http://www.randomnoun.com/wp/feed/"
+        },
+        {
+            "name": "Sheep.Horse - the blog of Andrew Stephens",
+            "url": "https://sheep.horse/",
+            "tags": [
+                "software",
+                "books"
+            ],
+            "furl": "https://sheep.horse/rss.xml"
         }
     ]
 }
