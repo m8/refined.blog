@@ -3256,6 +3256,18 @@
                 "technology"
             ],
             "furl": "https://major.io/index.xml"
+        },
+        {
+            "name": "Sylvain Kerkour",
+            "url": "https://kerkour.com",
+            "tags": [
+                "software",
+                "rust",
+                "open-source",
+                "entrepreneurship",
+                "security"
+            ],
+            "furl": "https://kerkour.com/feed.xml"
         }
     ]
 }
