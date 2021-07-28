@@ -3054,7 +3054,7 @@
             "furl": "https://www.troyhunt.com/rss/",
             "hnp": 13592
         },
-        {
+        {     
             "name": "Shogan.tech",
             "url": "https://www.shogan.co.uk",
             "tags": [
@@ -3370,6 +3370,17 @@
                 "elixir"
             ],
             "furl": "https://blog.softwarecurmudgeon.com/feed.xml"
-        }
+        },
+        {
+            "name": "Jon Paul Uritis",
+            "url": "https://jonpauluritis.com",
+            "tags": [
+                "software",
+                "business",
+                "personal improvement",
+                "design"
+            ],
+            "furl": "https://jonpauluritis.com/feed.xml"
+        }   
     ]
 }
