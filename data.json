@@ -3242,6 +3242,20 @@
                 "hiking"
             ],
             "furl": "https://secondbreakfast.co/feed.rss"
+        },
+        {
+            "name": "Major Hayden",
+            "url": "https://major.io",
+            "tags": [
+                "fedora",
+                "hamradio",
+                "investing",
+                "linux",
+                "python",
+                "software",
+                "technology"
+            ],
+            "furl": "https://major.io/index.xml"
         }
     ]
 }
