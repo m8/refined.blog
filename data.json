@@ -269,12 +269,22 @@
             "hnp": 3906
         },
         {
+            "name": "Frank's blog",
+            "url": "https://frankgroeneveld.nl",
+            "tags": [
+                "open source",
+                "entrepreneurship",
+                "ruby",
+                "productivity"
+            ],
+            "furl": "https://frankgroeneveld.nl/feed/"
+        },
+        {
             "name": "Alexey Guzey",
             "url": "https://guzey.com",
             "tags": [
                 "software"
             ],
-            "furl": "https://berthub.eu/articles/index.xml",
             "hnp": 1893
         },
         {
@@ -3096,7 +3106,46 @@
             "furl": "https://matt-rickard.com/feed/"
         },
         {
-            "name": "Asko Nõmm",
+            "name": "Painting Quarks",
+            "url": "https://otavio.cc/",
+            "tags": [
+                "apple",
+                "ios",
+                "macos",
+                "swift",
+                "swiftui",
+                "combine",
+                "objective-c",
+                "software"
+            ],
+            "furl": "https://otavio.cc/feed.xml"
+        },
+        {
+            "name": "Andrew's World",
+            "url": "https://andrew.im",
+            "tags": [
+               "essays",
+               "thoughts",
+               "startups",
+               "tech"
+           ],
+           "furl": "https://andrew.im/feed.xml"
+        },
+        {
+           "name": "Rahul Gopinath",
+            "url": "https://rahul.gopinath.org/",
+            "tags": [
+                "research",
+                "programming",
+                "software",
+                "computer science",
+                "academia",
+                "live-notebooks"
+            ],
+            "furl": "https://rahul.gopinath.org/feed.xml"
+        },
+        {
+          "name": "Asko Nõmm",
             "url": "https://bien.ee",
             "tags": [
                 "software",
