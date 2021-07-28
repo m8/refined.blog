@@ -3109,6 +3109,19 @@
                 "software"
             ],
             "furl": "https://otavio.cc/feed.xml"
+        },
+        {
+            "name": "Rahul Gopinath",
+            "url": "https://rahul.gopinath.org/",
+            "tags": [
+                "research",
+                "programming",
+                "software",
+                "computer science",
+                "academia",
+                "live-notebooks"
+            ],
+            "furl": "https://rahul.gopinath.org/feed.xml"
         }
     ]
 }
