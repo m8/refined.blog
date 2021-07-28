@@ -3161,6 +3161,7 @@
                 "thoughts"
             ],
             "furl": "https://matt-rickard.com/feed/"
+<<<<<<< HEAD
         },
         {
             "name": "Painting Quarks",
@@ -3360,6 +3361,32 @@
                 "elixir"
             ],
             "furl": "https://blog.softwarecurmudgeon.com/feed.xml"
+        },
+        {
+            "name": "Ivan Smirnov",
+            "url": "https://blog.ivansmirnov.name",
+            "tags": [
+                "linux",
+                "thoughts",
+                "finance",
+                "time-management",
+                "ubuntu",
+                "interviewing"
+            ],
+            "furl": "https://blog.ivansmirnov.name/rss/"
+        },
+        {
+            "name": "Ivan Smirnov",
+            "url": "https://ivans.io",
+            "tags": [
+                "bite-sized",
+                "thoughts",
+                "life-advice",
+                "linux",
+                "networking",
+                "investing"
+            ],
+            "furl": "https://ivans.io/rss/"
         }
     ]
 }
