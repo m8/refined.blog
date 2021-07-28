@@ -3293,6 +3293,19 @@
                 "bicycles"
             ],
             "furl": "https://work.lisk.in/atom.xml"
+        },
+        {
+           "name": "Ognjen Regoje' blog",
+            "url": "https://ognjen.io",
+            "tags": [
+                "product",
+                "privacy",
+                "ethics",
+                "development",
+                "rails",
+                "design"
+            ],
+            "furl": "https://ognjen.io/feed.xml"
         }
     ]
 }
