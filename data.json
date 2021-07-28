@@ -3094,6 +3094,19 @@
                 "thoughts"
             ],
             "furl": "https://matt-rickard.com/feed/"
+        },
+        {
+            "name": "Ognjen Regoje' blog",
+            "url": "https://ognjen.io",
+            "tags": [
+                "product",
+                "privacy",
+                "ethics",
+                "development",
+                "rails",
+                "design"
+            ],
+            "furl": "https://ognjen.io/feed.xml"
         }
     ]
 }
