@@ -3055,6 +3055,27 @@
             "hnp": 13592
         },
         {     
+            "name": "Shogan.tech",
+            "url": "https://www.shogan.co.uk",
+            "tags": [
+                "software",
+                "devops",
+                "automation",
+                "engineering",
+                "cloud",
+                "self-hosting",
+                "terraform",
+                "raspberry-pi",
+                "kubernetes",
+                "linux",
+                "windows",
+                "C#",
+                "nodejs",
+                "AWS"
+            ],
+            "furl": "http://www.shogan.co.uk/feed/"
+        },
+        {     
             "name": "VisakanV'S Blog",
             "url": "http://www.visakanv.com/blog/start-here/",
             "tags": [
@@ -3102,6 +3123,16 @@
                 "productivity"
             ],
             "furl": "https://brajeshwar.com/feed.xml"
+        }, 
+        {
+           "name": "JB Schirtzinger",
+           "url": "https://jbschirtzinger.com",
+           "tags": [
+               "software",
+               "open source",
+               "free-software"
+           ],
+           "furl": "https://www.jbschirtzinger.com/"
         },
         {
             "name": "Brett Koonce",
@@ -3330,7 +3361,7 @@
                 "books"
             ],
             "furl": "https://sheep.horse/rss.xml"
-        }
+        },
         {
             "name": "Gwern Branwen",
             "url": "https://www.gwern.net/",
@@ -3340,6 +3371,26 @@
                 "statistics",
                 "technology"
             ]
-        }
+        },
+        {
+            "name": "Software Curmudgeon",
+            "url": "https://blog.softwarecurmudgeon.com/",
+            "tags": [
+                "software",
+                "elixir"
+            ],
+            "furl": "https://blog.softwarecurmudgeon.com/feed.xml"
+        },
+        {
+            "name": "Jon Paul Uritis",
+            "url": "https://jonpauluritis.com",
+            "tags": [
+                "software",
+                "business",
+                "personal improvement",
+                "design"
+            ],
+            "furl": "https://jonpauluritis.com/feed.xml"
+        }   
     ]
 }
