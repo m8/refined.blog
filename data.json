@@ -3055,6 +3055,20 @@
             "hnp": 13592
         },
         {
+            "name": "VisakanV'S Blog",
+            "url": "http://www.visakanv.com/blog/start-here/",
+            "tags": [
+                "culture",
+                "theory",
+                "strategy",
+                "reading",
+                "writing",
+                "people",
+                "travel"
+            ],
+            "furl": "http://www.visakanv.com/blog/rss/"
+        },
+        {
            "name": "Colin Devroe",
             "url": "http://cdevroe.com/",
             "tags": [
