@@ -269,12 +269,22 @@
             "hnp": 3906
         },
         {
+            "name": "Frank's blog",
+            "url": "https://frankgroeneveld.nl",
+            "tags": [
+                "open source",
+                "entrepreneurship",
+                "ruby",
+                "productivity"
+            ],
+            "furl": "https://frankgroeneveld.nl/feed/"
+        },
+        {
             "name": "Alexey Guzey",
             "url": "https://guzey.com",
             "tags": [
                 "software"
             ],
-            "furl": "https://berthub.eu/articles/index.xml",
             "hnp": 1893
         },
         {
