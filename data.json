@@ -3146,6 +3146,17 @@
                 "productivity"
             ],
             "furl": "https://brajeshwar.com/feed.xml"
+        },     
+        {
+            "name": "Matt Glaman",
+            "url": "https://mglaman.dev/",
+            "tags": [
+                "drupal",
+                "php",
+                "open-source",
+                "javascript"
+            ],
+            "furl": "https://mglaman.dev/blog/feed"
         }, 
         {
            "name": "JB Schirtzinger",
