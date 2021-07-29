@@ -22,6 +22,21 @@
             "hnp": 0
         },
         {
+            "name": "loosed",
+            "url": "https://l-o-o-s-e-d.net",
+            "tags": [
+                "software",
+                "computers",
+                "visualization",
+                "3D modeling",
+                "digital manufacturing",
+                "linux",
+                "politics",
+                "digital media"
+            ],
+            "furl": "https://l-o-o-s-e-d.net/rss/rss.xml"
+        },
+        {
             "name": "Christine Dodrill",
             "url": "https://christine.website",
             "tags": [
