@@ -1,6 +1,22 @@
 {
     "data": [
         {
+            "name": "Marek Narozniak's blog",
+            "url": "https://mareknarozniak.com/",
+            "tags": [
+                "quantum",
+                "physics",
+                "cryptography",
+                "optimization",
+                "tutorials",
+                "simulation",
+                "python",
+                "science",
+                "theory"
+            ],
+            "furl": "https://mareknarozniak.com/feed.xml"
+        },
+        {
             "name": "Jamie Adams",
             "url": "https://jamieadams.click",
             "tags": [
@@ -20,6 +36,21 @@
             ],
             "furl": "https://musaunal.com/rss.xml",
             "hnp": 0
+        },
+        {
+            "name": "loosed",
+            "url": "https://l-o-o-s-e-d.net",
+            "tags": [
+                "software",
+                "computers",
+                "visualization",
+                "3D modeling",
+                "digital manufacturing",
+                "linux",
+                "politics",
+                "digital media"
+            ],
+            "furl": "https://l-o-o-s-e-d.net/rss/rss.xml"
         },
         {
             "name": "Christine Dodrill",
@@ -64,6 +95,18 @@
             ],
             "furl": "https://zserge.com/rss",
             "hnp": 3050
+        },
+        {
+            "name": "Dragoș Străinu blog",
+            "url": "https://strdr4605.github.io",
+            "tags": [
+                "software",
+                "hackathons",
+                "learning",
+                "frontend",
+                "open-source"
+            ],
+            "furl": "https://strdr4605.github.io/rss.xml"
         },
         {
             "name": "Henry Schmale's Blog",
@@ -1097,6 +1140,24 @@
             ],
             "furl": "https://code.dblock.org/feed.xml",
             "hnp": 571
+        },
+        {
+            "name": "Daniel Meechan",
+            "url": "https://dmeechan.com",
+            "tags": [
+                "software",
+                "typescript",
+                "node.js",
+                "linux",
+                "today I learned",
+                "startups",
+                "doing good",
+                "how to",
+                "gaming",
+                "challenge",
+                "living"
+            ],
+            "furl": "https://dmeechan.com/blog/feed.xml"
         },
         {
             "name": "Dave Atchley",
@@ -3055,6 +3116,42 @@
             "hnp": 13592
         },
         {
+            "name": "Sensemaking: Alex Krupp's blog",
+            "url": "https://alexkrupp.typepad.com",
+            "tags": [
+                "software",
+                "entrepreneurship",
+                "education",
+                "marketing"
+            ],
+            "furl": "https://alexkrupp.typepad.com/sensemaking/atom.xml"
+        },
+        {
+            "name": "Dom Williams",
+            "url": "https://domwillia.ms/",
+            "tags": [
+                "software",
+                "gamedev",
+                "game engine",
+                "rust",
+                "devlog"
+            ],
+            "furl": "https://domwillia.ms/index.xml"
+        },
+        {            
+            "name": "Evert Pot",
+            "url": "https://evertpot.com/",
+            "tags": [
+                "software",
+                "http",
+                "javascript",
+                "api",
+                "typescript",
+                "rest"
+            ],
+            "furl": "https://evertpot.com/atom.xml"
+        },
+        {
             "name": "Shawn Swyx Wang",
             "url": "https://swyx.io",
             "tags": [
@@ -3146,6 +3243,17 @@
                 "productivity"
             ],
             "furl": "https://brajeshwar.com/feed.xml"
+        },     
+        {
+            "name": "Matt Glaman",
+            "url": "https://mglaman.dev/",
+            "tags": [
+                "drupal",
+                "php",
+                "open-source",
+                "javascript"
+            ],
+            "furl": "https://mglaman.dev/blog/feed"
         }, 
         {
            "name": "JB Schirtzinger",
@@ -3427,6 +3535,17 @@
                 "ubuntu"
             ],
             "furl": "https://www.mikekasberg.com/feed.xml"
+        },
+        {
+          "name": "Geshan's blog",
+            "url": "https://geshan.com.np",
+            "tags": [
+                "software engineering",
+                "web development",
+                "devops",
+                "nodejs"
+            ],
+            "furl": "https://geshan.com.np/atom.xml"
         }
     ]
 }
