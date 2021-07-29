@@ -3414,6 +3414,27 @@
                 "design"
             ],
             "furl": "https://jonpauluritis.com/feed.xml"
-        }   
+        },
+        {
+            "name": "Thejesh GN",
+            "url": "https://thejeshgn.com",
+            "tags": [
+                "software",
+                "FOSS",
+                "productivity",
+                "programming"
+            ],
+            "furl": "https://feeds.thejeshgn.com/thejeshgn"
+        },
+        {
+            "name": "Susam",
+            "url": "https://susam.in",
+            "tags": [
+                "software",
+                "Mathematics",
+                "programming"
+            ],
+            "furl": "https://susam.in/blog/rss.xml"
+        },        
     ]
 }
