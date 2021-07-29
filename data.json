@@ -3524,7 +3524,20 @@
             "furl": "https://jonpauluritis.com/feed.xml"
         },
         {
-            "name": "Geshan's blog",
+            "name": "Mike Kasberg's Blog",
+            "url": "https://www.mikekasberg.com",
+            "tags": [
+                "software",
+                "programming",
+                "open source",
+                "software development",
+                "technology",
+                "ubuntu"
+            ],
+            "furl": "https://www.mikekasberg.com/feed.xml"
+        },
+        {
+          "name": "Geshan's blog",
             "url": "https://geshan.com.np",
             "tags": [
                 "software engineering",
