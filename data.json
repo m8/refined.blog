@@ -3293,6 +3293,19 @@
                 "productivity"
             ],
             "furl": "https://brajeshwar.com/feed.xml"
+        },
+        {
+            "name": "Max Bernstein's blog",
+            "url": "https://bernsteinbear.com",
+            "tags": [
+                "software",
+                "programming languages",
+                "compilers",
+                "bread",
+                "lisp",
+                "optimization"
+            ],
+            "furl": "https://bernsteinbear.com/feed.xml"
         },     
         {
             "name": "Matt Glaman",
