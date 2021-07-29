@@ -3414,6 +3414,19 @@
                 "design"
             ],
             "furl": "https://jonpauluritis.com/feed.xml"
-        }   
+        },
+        {
+            "name": "Mike Kasberg's Blog",
+            "url": "https://www.mikekasberg.com",
+            "tags": [
+                "software",
+                "programming",
+                "open source",
+                "software development",
+                "technology",
+                "ubuntu"
+            ],
+            "furl": "https://www.mikekasberg.com/feed.xml"
+        }
     ]
 }
