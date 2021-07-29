@@ -2206,6 +2206,17 @@
             "hnp": 8679
         },
         {
+            "name": "maya.land",
+            "url": "https://maya.land/posts/",
+            "tags": [
+                "zines",
+                "culture",
+                "indieweb",
+                "witchcraft"
+            ],
+            "furl": "https://maya.land/feed.xml"
+        },
+        {
             "name": "Michael Crump",
             "url": "https://michaelcrump.net/",
             "tags": [
