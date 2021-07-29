@@ -3414,6 +3414,17 @@
                 "design"
             ],
             "furl": "https://jonpauluritis.com/feed.xml"
-        }   
+        },
+        {
+            "name": "Geshan's blog",
+            "url": "https://geshan.com.np",
+            "tags": [
+                "software engineering",
+                "web development",
+                "devops",
+                "nodejs"
+            ],
+            "furl": "https://geshan.com.np/atom.xml"
+        }
     ]
 }
