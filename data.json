@@ -1,6 +1,15 @@
 {
     "data": [
         {
+            "name": "Josh Spicer",
+            "url": "https://joshspicer.com",
+            "tags": [
+                "software engineering",
+                "personal"
+            ],
+            "furl": "https://joshspicer.com/feed.xml"
+        },
+        {
             "name": "Tedium: The Dull Side of the Internet",
             "url": "https://tedium.co",
             "tags": [
