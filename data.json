@@ -3625,6 +3625,22 @@
             "furl": "https://geshan.com.np/atom.xml"
         },
         {
+            "name": "notizBlog",
+            "url": "https://notiz.blog",
+            "tags": [
+                "OpenWeb",
+                "IndieWeb",
+                "fediverse",
+                "WordPress",
+                "open source",
+                "web",
+                "dev",
+                "php",
+                "podcast"
+            ],
+            "furl": "https://notiz.blog/feed/"
+        },
+        { 
             "name": "Notes to Self",
             "url": "https://notestoself.dev/",
             "tags": [
