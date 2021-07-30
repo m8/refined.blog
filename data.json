@@ -3609,6 +3609,17 @@
                 "nodejs"
             ],
             "furl": "https://geshan.com.np/atom.xml"
+        },
+        {
+            "name": "Notes to Self",
+            "url": "https://notestoself.dev/",
+            "tags": [
+                "software",
+                "software development",
+                "thoughts",
+                "learning"
+            ],
+            "furl": "https://notestoself.dev/index.xml"
         }
     ]
 }
