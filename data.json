@@ -3600,6 +3600,20 @@
             "furl": "https://www.mikekasberg.com/feed.xml"
         },
         {
+            "name": "Jens Oliver Meiert",
+            "url": "https://meiert.com/en/",
+            "tags": [
+                "web development",
+                "frontend development",
+                "html",
+                "css",
+                "frameworks",
+                "management",
+                "leadership"
+            ],
+            "furl": "https://meiert.com/en/feed/"
+        },
+        {
           "name": "Geshan's blog",
             "url": "https://geshan.com.np",
             "tags": [
@@ -3625,6 +3639,17 @@
                 "podcast"
             ],
             "furl": "https://notiz.blog/feed/"
+        },
+        { 
+            "name": "Notes to Self",
+            "url": "https://notestoself.dev/",
+            "tags": [
+                "software",
+                "software development",
+                "thoughts",
+                "learning"
+            ],
+            "furl": "https://notestoself.dev/index.xml"
         }
     ]
 }
