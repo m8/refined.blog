@@ -1,6 +1,20 @@
 {
     "data": [
         {
+            "name": "Old Fashioned",
+            "url": "https://blog.virenmohindra.me",
+            "tags": [
+                "software engineering",
+                "personal",
+                "consulting",
+                "chess",
+                "internet",
+                "technology",
+                "writing"
+            ],
+            "furl": "https://blog.virenmohindra.me/feed"
+        },
+        {
             "name": "Tedium: The Dull Side of the Internet",
             "url": "https://tedium.co",
             "tags": [
