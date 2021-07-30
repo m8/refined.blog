@@ -3188,7 +3188,7 @@
             ],
             "furl": "https://domwillia.ms/index.xml"
         },
-        {            
+        {
             "name": "Evert Pot",
             "url": "https://evertpot.com/",
             "tags": [
@@ -3224,7 +3224,7 @@
             ],
             "furl": "https://esoteric.codes/rss"
         },
-        {     
+        {
             "name": "Shogan.tech",
             "url": "https://www.shogan.co.uk",
             "tags": [
@@ -3245,7 +3245,7 @@
             ],
             "furl": "http://www.shogan.co.uk/feed/"
         },
-        {     
+        {
             "name": "VisakanV'S Blog",
             "url": "http://www.visakanv.com/blog/start-here/",
             "tags": [
@@ -3306,7 +3306,7 @@
                 "optimization"
             ],
             "furl": "https://bernsteinbear.com/feed.xml"
-        },     
+        },
         {
             "name": "Matt Glaman",
             "url": "https://mglaman.dev/",
@@ -3317,7 +3317,7 @@
                 "javascript"
             ],
             "furl": "https://mglaman.dev/blog/feed"
-        }, 
+        },
         {
            "name": "JB Schirtzinger",
            "url": "https://jbschirtzinger.com",
@@ -3598,6 +3598,20 @@
                 "ubuntu"
             ],
             "furl": "https://www.mikekasberg.com/feed.xml"
+        },
+        {
+            "name": "Jens Oliver Meiert",
+            "url": "https://meiert.com/en/",
+            "tags": [
+                "web development",
+                "frontend development",
+                "html",
+                "css",
+                "frameworks",
+                "management",
+                "leadership"
+            ],
+            "furl": "https://meiert.com/en/feed/"
         },
         {
           "name": "Geshan's blog",
