@@ -3587,6 +3587,18 @@
             "furl": "https://jonpauluritis.com/feed.xml"
         },
         {
+            "name": "Alexander Kirk",
+            "url": "https://alexander.kirk.at",
+            "tags": [
+                "wordpress",
+                "php",
+                "indieweb",
+                "decentralized-web",
+                "own-your-data"
+            ],
+            "furl": "https://alexander.kirk.at/feed/"
+        },        
+        {
             "name": "Mike Kasberg's Blog",
             "url": "https://www.mikekasberg.com",
             "tags": [
