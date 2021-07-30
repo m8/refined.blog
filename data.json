@@ -3634,6 +3634,27 @@
             "furl": "https://jonpauluritis.com/feed.xml"
         },
         {
+            "name": "Thejesh GN",
+            "url": "https://thejeshgn.com",
+            "tags": [
+                "software",
+                "foss",
+                "productivity",
+                "programming"
+            ],
+            "furl": "https://feeds.thejeshgn.com/thejeshgn"
+        },
+        {
+            "name": "Susam",
+            "url": "https://susam.in",
+            "tags": [
+                "software",
+                "mathematics",
+                "programming"
+            ],
+            "furl": "https://susam.in/blog/rss.xml"
+        },
+        {
             "name": "Alexander Kirk",
             "url": "https://alexander.kirk.at",
             "tags": [
