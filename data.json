@@ -3518,6 +3518,18 @@
             "furl": "https://kerkour.com/feed.xml"
         },
         {
+            "name": "Hipster Pixel",
+            "url": "https://hipsterpixel.co",
+            "tags": [
+                "tech",
+                "reviews",
+                "news",
+                "colourful",
+                "security"
+            ],
+            "furl": "https://hipsterpixel.co/feed.xml"
+        },
+        {
             "name": "Tomáš Janoušek",
             "url": "https://work.lisk.in/",
             "tags": [
