@@ -171,16 +171,7 @@
             "furl": "https://matklad.github.io/feed.xml",
             "hnp": 2714
         },
-        {
-           "name": "Avi Parshan's Deals",
-            "url": "https://sales.aviparshan.com",
-          "tags": [
-              "tech",
-                "deals",
-                "products"
-    ],
-    "furl": "https://sales.aviparshan.com"
-    },
+      
      {
          "name": "Avi Parshan's Tech Blog",
          "url": "https://aviparshan.medium.com/",
