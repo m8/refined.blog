@@ -3742,6 +3742,21 @@
                 "learning"
             ],
             "furl": "https://notestoself.dev/index.xml"
+        },
+        { 
+            "name": "CyberHost",
+            "url": "https://cyberhost.uk/",
+            "tags": [
+                "web",
+                "server",
+                "docker",
+                "self-host",
+                "software",
+                "open-source",
+                "security",
+                "networking"
+            ],
+            "furl": "https://cyberhost.uk/rss/"
         }
     ]
 }
