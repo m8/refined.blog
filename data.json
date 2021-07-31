@@ -15,6 +15,15 @@
             "furl": "https://blog.virenmohindra.me/feed"
         },
         {
+            "name": "Josh Spicer",
+            "url": "https://joshspicer.com",
+            "tags": [
+                "software engineering",
+                "personal"
+            ],
+            "furl": "https://joshspicer.com/feed.xml"
+        },
+        {
             "name": "Tedium: The Dull Side of the Internet",
             "url": "https://tedium.co",
             "tags": [
@@ -3167,6 +3176,18 @@
             "hnp": 13592
         },
         {
+            "name": "OutOfCheeseError",
+            "url": "https://out-of-cheese-error.netlify.app/",
+            "tags": [
+                "software",
+                "electronics",
+                "rust",
+                "python",
+                "programming"
+            ],
+            "furl": "https://out-of-cheese-error.netlify.app/feeds/all.rss.xml"
+        },
+        {
             "name": "James Steinberg",
             "url": "https://mrsteinberg.com/",
             "tags": [
@@ -3202,7 +3223,7 @@
             ],
             "furl": "https://domwillia.ms/index.xml"
         },
-        {            
+        {
             "name": "Evert Pot",
             "url": "https://evertpot.com/",
             "tags": [
@@ -3238,7 +3259,7 @@
             ],
             "furl": "https://esoteric.codes/rss"
         },
-        {     
+        {
             "name": "Shogan.tech",
             "url": "https://www.shogan.co.uk",
             "tags": [
@@ -3259,7 +3280,7 @@
             ],
             "furl": "http://www.shogan.co.uk/feed/"
         },
-        {     
+        {
             "name": "VisakanV'S Blog",
             "url": "http://www.visakanv.com/blog/start-here/",
             "tags": [
@@ -3320,7 +3341,7 @@
                 "optimization"
             ],
             "furl": "https://bernsteinbear.com/feed.xml"
-        },     
+        },
         {
             "name": "Matt Glaman",
             "url": "https://mglaman.dev/",
@@ -3331,7 +3352,7 @@
                 "javascript"
             ],
             "furl": "https://mglaman.dev/blog/feed"
-        }, 
+        },
         {
            "name": "JB Schirtzinger",
            "url": "https://jbschirtzinger.com",
@@ -3523,6 +3544,18 @@
             "furl": "https://kerkour.com/feed.xml"
         },
         {
+            "name": "Hipster Pixel",
+            "url": "https://hipsterpixel.co",
+            "tags": [
+                "tech",
+                "reviews",
+                "news",
+                "colourful",
+                "security"
+            ],
+            "furl": "https://hipsterpixel.co/feed.xml"
+        },
+        {
             "name": "Tomáš Janoušek",
             "url": "https://work.lisk.in/",
             "tags": [
@@ -3590,6 +3623,32 @@
             "furl": "https://blog.softwarecurmudgeon.com/feed.xml"
         },
         {
+            "name": "Ivan Smirnov",
+            "url": "https://blog.ivansmirnov.name",
+            "tags": [
+                "linux",
+                "thoughts",
+                "finance",
+                "time-management",
+                "ubuntu",
+                "interviewing"
+            ],
+            "furl": "https://blog.ivansmirnov.name/rss/"
+        },
+        {
+            "name": "Ivan Smirnov",
+            "url": "https://ivans.io",
+            "tags": [
+                "bite-sized",
+                "thoughts",
+                "life-advice",
+                "linux",
+                "networking",
+                "investing"
+            ],
+            "furl": "https://ivans.io/rss/"
+        },
+        {
             "name": "Jon Paul Uritis",
             "url": "https://jonpauluritis.com",
             "tags": [
@@ -3600,6 +3659,39 @@
             ],
             "furl": "https://jonpauluritis.com/feed.xml"
         },
+        {
+            "name": "Thejesh GN",
+            "url": "https://thejeshgn.com",
+            "tags": [
+                "software",
+                "foss",
+                "productivity",
+                "programming"
+            ],
+            "furl": "https://feeds.thejeshgn.com/thejeshgn"
+        },
+        {
+            "name": "Susam",
+            "url": "https://susam.in",
+            "tags": [
+                "software",
+                "mathematics",
+                "programming"
+            ],
+            "furl": "https://susam.in/blog/rss.xml"
+        },
+        {
+            "name": "Alexander Kirk",
+            "url": "https://alexander.kirk.at",
+            "tags": [
+                "wordpress",
+                "php",
+                "indieweb",
+                "decentralized-web",
+                "own-your-data"
+            ],
+            "furl": "https://alexander.kirk.at/feed/"
+        },        
         {
             "name": "Mike Kasberg's Blog",
             "url": "https://www.mikekasberg.com",
@@ -3614,6 +3706,20 @@
             "furl": "https://www.mikekasberg.com/feed.xml"
         },
         {
+            "name": "Jens Oliver Meiert",
+            "url": "https://meiert.com/en/",
+            "tags": [
+                "web development",
+                "frontend development",
+                "html",
+                "css",
+                "frameworks",
+                "management",
+                "leadership"
+            ],
+            "furl": "https://meiert.com/en/feed/"
+        },
+        {
           "name": "Geshan's blog",
             "url": "https://geshan.com.np",
             "tags": [
@@ -3623,6 +3729,33 @@
                 "nodejs"
             ],
             "furl": "https://geshan.com.np/atom.xml"
+        },
+        {
+            "name": "notizBlog",
+            "url": "https://notiz.blog",
+            "tags": [
+                "OpenWeb",
+                "IndieWeb",
+                "fediverse",
+                "WordPress",
+                "open source",
+                "web",
+                "dev",
+                "php",
+                "podcast"
+            ],
+            "furl": "https://notiz.blog/feed/"
+        },
+        { 
+            "name": "Notes to Self",
+            "url": "https://notestoself.dev/",
+            "tags": [
+                "software",
+                "software development",
+                "thoughts",
+                "learning"
+            ],
+            "furl": "https://notestoself.dev/index.xml"
         }
     ]
 }
