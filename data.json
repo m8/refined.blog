@@ -1,6 +1,20 @@
 {
     "data": [
         {
+            "name": "Old Fashioned",
+            "url": "https://blog.virenmohindra.me",
+            "tags": [
+                "software engineering",
+                "personal",
+                "consulting",
+                "chess",
+                "internet",
+                "technology",
+                "writing"
+            ],
+            "furl": "https://blog.virenmohindra.me/feed"
+        },
+        {
             "name": "Josh Spicer",
             "url": "https://joshspicer.com",
             "tags": [
@@ -3757,6 +3771,284 @@
                 "networking"
             ],
             "furl": "https://cyberhost.uk/rss/"
+        },
+        {
+            "name": "xem",
+            "url": "https://xem.github.io/articles",
+            "tags": [
+                "gamedev",
+                "front-end",
+                "js",
+                "codegolf"
+            ]
+        },
+        {
+            "name": "Matthew Tift",
+            "url": "https://matthewtift.com",
+            "tags": [
+                "free-software",
+                "drupal",
+                "yoga",
+                "meditation",
+                "musicology"
+            ],
+            "furl": "https://matthewtift.com/rss.xml"
+        },
+        {
+            "name": "Miika von Bell",
+            "url": "https://miikavonbell.com",
+            "tags": [
+                "lifestyle",
+                "technology",
+                "software",
+                "home",
+                "family",
+                "sports",
+                "outdoors"
+            ],
+            "furl": "miikavonbell.com/rss.xml"
+        },
+        {
+            "name": "Fabio Alessandro Locati|Fale's blog",
+            "url": "https://fale.io",
+            "tags": [
+                "linux",
+                "kubernetes",
+                "cloud",
+                "ansible",
+                "go",
+                "free-software",
+                "security",
+                "software",
+                "architecture",
+                "web",
+                "privacy",
+                "open",
+                "source",
+                "aws",
+                "api"
+            ],
+            "furl": "https://fale.io/index.xml"
+        },
+        {
+            "name": "My Notes - random thoughts on Random Things",
+            "url": "https://petergarner.net/notes",
+            "tags": [
+                "beer",
+                "bread",
+                "coffee",
+                "computing",
+                "opinion",
+                "gardening"
+            ],
+            "furl": "https://petergarner.net/notes/feed.rss"
+        },
+        {
+            "name": "A Tea Addict's Journal",
+            "url": "http://www.marshaln.com/",
+            "tags": [
+                "Tea",
+                "Puerh"
+            ],
+            "furl": ""
+        },
+        {
+            "name": "Leading Transformation",
+            "url": "https://www.rmukeshgupta.com",
+            "tags": [
+                "sales",
+                "marketing",
+                "innovation",
+                "creativity",
+                "leadership",
+                "entrepreneurship",
+                "strategy",
+                "ideas"
+            ],
+            "furl": "https://rmukeshgupta.com/feed"
+        },
+        {
+            "name": "Stathis' log book",
+            "url": "https://statath.github.io/",
+            "tags": [
+                "systemsadmin",
+                "linux",
+                "windows",
+                "pfsense"
+            ],
+            "furl": "https://statath.github.io/"
+        },
+        {
+            "name": "Kev's Development Toolbox",
+            "url": "https://www.kevinhooke.com",
+            "tags": [
+                "software",
+                "development",
+                "software",
+                "industry",
+                "howtos",
+                "guides"
+            ],
+            "furl": ""
+        },
+        {
+            "name": "David Artiss",
+            "url": "https://artiss.blog",
+            "tags": [
+                "software",
+                "web",
+                "wordpress",
+                "plugins",
+                "php"
+            ],
+            "furl": "https://artiss.blog/feed/"
+        },
+        {
+            "name": "Arun.is",
+            "url": "https://www.arun.is/",
+            "tags": [
+                "design"
+            ],
+            "furl": ""
+        },
+        {
+            "name": "trms",
+            "url": "https://trms.me",
+            "tags": [
+                "productivity",
+                "habits",
+                "self-improvement",
+                "philosophy",
+                "note-taking",
+                "knowledge",
+                "management",
+                "writing"
+            ],
+            "furl": "https://trms.me/feed/"
+        },
+        {
+            "name": "Craig Constantine",
+            "url": "https://constantine.name/",
+            "tags": [
+                "discovery",
+                "reflection",
+                "efficacy"
+            ],
+            "furl": "https://constantine.name/feed"
+        },
+        {
+            "name": "Tolu's Notes",
+            "url": "https://tolusnotes.com/",
+            "tags": [
+                "finance",
+                "investing",
+                "stocks",
+                "crypto",
+                "defi"
+            ],
+            "furl": "https://tolusnotes.com/rss/"
+        },
+        {
+            "name": "Ekaitz's tech blog",
+            "url": "https://ekaitz.elenq.tech/",
+            "tags": [
+                "software",
+                "engineering",
+                "ethics"
+            ],
+            "furl": "https://ekaitz.elenq.tech/feeds/all.atom.xml"
+        },
+        {
+            "name": "Eigenfoo",
+            "url": "https://eigenfoo.xyz/",
+            "tags": [
+                "data-science",
+                "machine-learning",
+                "natural-language-processing",
+                "bayesian-modelling"
+            ],
+            "furl": "https://eigenfoo.xyz/feed.xml"
+        },
+        {
+            "name": "Low Level Bits",
+            "url": "https://lowlevelbits.org/",
+            "tags": [
+                "software",
+                "llvm",
+                "reverse",
+                "engineering",
+                "mutation",
+                "testing"
+            ],
+            "furl": "https://lowlevelbits.org/feed.xml"
+        },
+        {
+            "name": "Dissociated Press",
+            "url": "https://dissociatedpress.net/",
+            "tags": [
+                "open",
+                "source",
+                "music",
+                "writing",
+                "thoughts",
+                "eink",
+                "note",
+                "taking"
+            ],
+            "furl": "https://dissociatedpress.net/feed/"
+        },
+        {
+            "name": "Mark Greville",
+            "url": "Http://Markgreville.ie",
+            "tags": [
+                "architecture",
+                "software",
+                "management",
+                "creativity",
+                "music"
+            ]
+        },
+        {
+            "name": "Antoine Lehurt",
+            "url": "https://blog.kewah.com",
+            "tags": [
+                "front-end",
+                "javascript",
+                "aws",
+                "vim"
+            ],
+            "furl": "https://blog.kewah.com/rss.xml"
+        },
+        {
+            "name": "whatapalaver - faff of a tech nature",
+            "url": "https://whatapalaver.co.uk/",
+            "tags": [
+                "programming",
+                "codenewbie",
+                "ruby",
+                "python"
+            ]
+        },
+        {
+            "name": "Roberto Vitillo's Blog",
+            "url": "https://robertovitillo.com/",
+            "tags": [
+                "software",
+                "distributed",
+                "systems"
+            ],
+            "furl": "https://robertovitillo.com/rss.xml"
+        },
+        {
+            "name": "Shekhar Gulati's Blog",
+            "url": "https://shekhargulati.com/",
+            "tags": [
+                "software-architecture",
+                "microservices",
+                "java",
+                "engineering-leadership"
+            ],
+            "furl": "https://shekhargulati.com/feed/"
         }
     ]
 }
