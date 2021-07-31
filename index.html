@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 
+
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -10,98 +11,165 @@
   <link rel="stylesheet" type="text/css" href="public/css/style.css">
   <link rel="stylesheet" type="text/css" href="public/css/jquery.dataTables.css">
   <link rel="stylesheet" href="https://cdn.datatables.net/responsive/2.2.9/css/responsive.dataTables.min.css">
+
 </head>
 
 
 <body>
-  <header>
-    <h1>📖 Refined Blog</h1>
-    <p><b>Experience is gold.</b> There are many different social media platforms on the internet but we need <b><u>personal blogs</u></b>  again. 
-      It's hard to find blogs so let's create this blog list together!
-   
-    <hr>
-    <details>
-      <summary><strong>How can I submit a blog or edit?</strong></summary>
-      <p>Please follow the instructions on the main <a target="_blank" href="https://github.com/m8/refined.blog">Github project repo</a>.</p>
-    </details>
-    <hr>
-    <details>
-      <summary><strong>About this site</strong></summary>
-      <p>This site has a list of specifically software blogs. These blogs were collected and organized from various
-        sources. Then, tags were extracted for these sites and HN scores were calculated.</p>
-      <p><u>Sources</u></p>
-      <ul>
-        <li><a href="https://news.ycombinator.com/item?id=24539445" target="_blank">HN Post</a></li>
-        <li><a href="https://github.com/kilimchoi/engineering-blogs" target="_blank">Engineering Blogs</a></li>
-        <li><a href="https://github.com/kaizensoze/security-blogs" target="_blank">Security Blogs</a></li>
-      </ul>
-    </details>
-    <hr>
+  <a href="https://github.com/m8/refined.blog" class="github-corner" aria-label="View source on GitHub"><svg width="80" height="80" viewBox="0 0 250 250" style="fill:#151513; color:#fff; position: absolute; top: 0; border: 0; right: 0;" aria-hidden="true"> <path d="M0,0 L115,115 L130,115 L142,142 L250,250 L250,0 Z"></path> <path d="M128.3,109.0 C113.8,99.7 119.0,89.6 119.0,89.6 C122.0,82.7 120.5,78.6 120.5,78.6 C119.2,72.0 123.4,76.3 123.4,76.3 C127.3,80.9 125.5,87.3 125.5,87.3 C122.9,97.6 130.6,101.9 134.4,103.2" fill="currentColor" style="transform-origin: 130px 106px;" class="octo-arm"></path> <path d="M115.0,115.0 C114.9,115.1 118.7,116.5 119.8,115.4 L133.7,101.6 C136.9,99.2 139.9,98.4 142.2,98.6 C133.8,88.0 127.5,74.4 143.8,58.0 C148.5,53.4 154.0,51.2 159.7,51.0 C160.3,49.4 163.2,43.6 171.4,40.1 C171.4,40.1 176.1,42.5 178.8,56.2 C183.1,58.6 187.2,61.8 190.9,65.4 C194.5,69.0 197.7,73.2 200.1,77.6 C213.8,80.2 216.3,84.9 216.3,84.9 C212.7,93.1 206.9,96.0 205.4,96.6 C205.1,102.4 203.0,107.8 198.3,112.5 C181.9,128.9 168.3,122.5 157.7,114.1 C157.9,116.9 156.7,120.9 152.7,124.9 L141.0,136.5 C139.8,137.7 141.6,141.9 141.8,141.8 Z" fill="currentColor" class="octo-body"></path> </svg></a> <style> .github-corner:hover .octo-arm { animation: octocat-wave 560ms ease-in-out } @keyframes octocat-wave { 0%, 100% { transform: rotate(0) } 20%, 60% { transform: rotate(-25deg) } 40%, 80% { transform: rotate(10deg) } } @media (max-width:500px) { .github-corner:hover .octo-arm { animation: none } .github-corner .octo-arm { animation: octocat-wave 560ms ease-in-out } } </style>
+
+  <div class="wrapper">
+    <header>
+      <h1>📖 Refined Blog</h1>
+      <p><b>Experience is gold.</b> There are many different social media platforms on the internet but we need
+        <b><u>personal blogs</u></b> again.
+        It's hard to find blogs so let's create this blog list together!
+
+        <hr>
+      <details>
+        <summary><strong>How can I submit a blog or edit?</strong></summary>
+        <p>Please follow the instructions on the main <a target="_blank" href="https://github.com/m8/refined.blog">Github project repo</a>. OR </p>
+        <p>Add directly from web form (google): <a target="_blank" href="https://forms.gle/jzAQLhayCoXFmVNy9">link</a> </p>
+      </details>
+      <hr>
+      <details>
+        <summary><strong>About this site</strong></summary>
+        <p>This site has a list of specifically software blogs. These blogs were collected and organized from various
+          sources. Then, tags were extracted for these sites and HN scores were calculated.</p>
+        <p><u>Sources</u></p>
+        <ul>
+          <li><a href="https://news.ycombinator.com/item?id=24539445" target="_blank">HN Post</a></li>
+          <li><a href="https://github.com/kilimchoi/engineering-blogs" target="_blank">Engineering Blogs</a></li>
+          <li><a href="https://github.com/kaizensoze/security-blogs" target="_blank">Security Blogs</a></li>
+        </ul>
+      </details>
+      <hr>
 
 
-    <br>
-  </header>
+      <br>
+    </header>
 
-  <table id="table_id" class="display">
-    <thead>
-      <tr>
-        <th>Name</th>
-        <th>Tags</th>
-        <th>HN Point</th>
-        <th>Feed</th>
-      </tr>
-    </thead>
+    <button id="opml_button" style="margin-bottom: 10px;">Generate OPML file</button>
+    <button id="deselect_button" class="deselect">x</button>
 
-  </table>
+    <table id="table_id" class="display">
+      <thead>
+        <tr>
+          <th>Name</th>
+          <th>Tags</th>
+          <th>HN Point</th>
+          <th>Feed</th>
+        </tr>
+      </thead>
+
+    </table>
+  </div>
+
 
   <script type="text/javascript" src="public/js/jquery-3.6.0.min.js"></script>
   <script type="text/javascript" src="public/js/jquery.dataTables.js"></script>
   <script src="https://cdn.datatables.net/responsive/2.2.9/js/dataTables.responsive.min.js"></script>
 
   <script>
-    $(document).ready(function () {
-      $('#table_id').DataTable({
-        "ajax": './data.json',
-        "pageLength": 25,
-        responsive: true,
-        "columns": [
-          {
-            "data": "name",
-            "render": function (data, type, full) {
-              return `<a href="${full.url}" target="_blank">${data}</a>`;
-            }
-          },
-          {
-            "data": "tags",
-            "render": function (data, type, full) {
-              return `<small>${full.tags.join(' ')}</small>`;
-            }
-          },
-          {
-            "data": "hnp",
-            "render": function (data, type, full) {
-              url = full.url.replace(/^(?:https?:\/\/)?(?:www\.)?/i, "").split('/')[0]
-              return `<a class="link" href="https://news.ycombinator.com/from?site=${url}" target="_blank">${full.hnp}</a>`;
 
-            }
-          },
-          {
-            "data": null,
-            "render": function (data, type, full) {
-              if (full.furl) {
-                return `<a href="${full.furl}" target="_blank">link</a>`;
-              } else {
-                return '-';
+
+    $(document).ready(async function () {
+
+        $("#deselect_button").hide();
+
+        var table = $('#table_id').DataTable({
+          "ajax": "./data.json",
+          "pageLength": 25,
+          responsive: true,
+          select: true,
+          "columns": [
+            {
+              "data": "name",
+              "render": function (data, type, full) {
+                return `<a href="${full.url}" target="_blank">${data}</a>`;
               }
-            }
-          },
+            },
+            {
+              "data": "tags",
+              "render": function (data, type, full) {
+                return `<small>${full.tags.join(' ')}</small>`;
+              }
+            },
+            {
+              "data": null,
+              "render": function (data, type, full) {
+                if (full.hnp) {
+                  url = full.url.replace(/^(?:https?:\/\/)?(?:www\.)?/i, "").split('/')[0]
+                  return `<a class="link" href="https://news.ycombinator.com/from?site=${url}" target="_blank">${full.hnp}</a>`;
+                } else {
+                  return '-';
+                }
+              }
+            },
+            {
+              "data": null,
+              "render": function (data, type, full) {
+                if (full.furl) {
+                  return `<a href="${full.furl}" target="_blank">link</a>`;
+                } else {
+                  return '-';
+                }
+              }
+            },
+          ]
+        });
 
-        ]
+      $('#table_id').on('click','tr', function () {
+        $(this).toggleClass('selected');
+        if(table.rows('.selected').data().length != 0){
+          $("#deselect_button").show();
+        }else{
+          $("#deselect_button").hide();
+        }
+      });
+
+      $("#deselect_button").on('click',function(){
+        table.rows('.selected').nodes().to$().removeClass('selected');
+        $("#deselect_button").hide();
+      });
+
+      $('#opml_button').click( function () {
+
+        let data = table.rows('.selected').data();
+        if(data.length == 0){
+          alert("Please select at least one blog");
+          return;
+        }
+
+        let opml_text = "";
+        for(let k = 0; k < data.length; k++){
+          opml_text += `\t<outline text="${data[k].name}" type="rss" htmlUrl="${data[k].url}" xmlUrl="${data[k].furl}"/> \n`;
+        }
+
+        var xmltext = 
+`<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+<head>
+<title>Refined Blog</title>
+<dateModified>${new Date().toString()}</dateModified>
+</head>
+<body>
+${opml_text}</body>
+</opml>
+`;
+        var d_element = document.createElement('a');
+        var bb = new Blob([xmltext], {type: 'text/plain'});
+
+        d_element.setAttribute('href', window.URL.createObjectURL(bb));
+        d_element.setAttribute('download', "bloglist.opml");
+
+        d_element.dataset.downloadurl = ['text/plain', d_element.download, d_element.href].join(':');
+        d_element.click();
       });
     });
+
   </script>
   <script defer data-domain="refined.blog" src="https://plausible.io/js/plausible.js"></script>
+
 </body>
-
-
 </html>
