@@ -4049,6 +4049,20 @@
                 "engineering-leadership"
             ],
             "furl": "https://shekhargulati.com/feed/"
+        },
+        {
+            "name": "Ahmet Alp Balkan",
+            "url": "https://ahmet.im/",
+            "tags": [
+                "software-architecture",
+                "microservices",
+                "go",
+                "open-source",
+                "kubernetes",
+                "cloud",
+                "google"
+            ],
+            "furl": "https://ahmet.im/blog/feed/rss.xml/"
         }
     ]
 }
