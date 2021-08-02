@@ -4063,6 +4063,20 @@
                 "google"
             ],
             "furl": "https://ahmet.im/blog/feed/rss.xml/"
+        },
+        {
+            "name": "Allan MacGregor's blog",
+            "url": "https://allanmacgregor.com",
+            "tags": [
+                "software",
+                "programming languages",
+                "functional programming",
+                "engineering management",
+                "leadership",
+                "microservices",
+                "rust"
+            ],
+            "furl": "http://allanmacgregor.com/sitemap.xml"
         }
     ]
 }
