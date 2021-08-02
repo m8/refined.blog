@@ -5,3 +5,5 @@ Experience is gold. There are many different social media platforms on the inter
 [See refined.blog](https://refined.blog)
 
 [See Contribution Guideline](contributing.md)
+
+![Refined Blog](img/refinedblog.png)
