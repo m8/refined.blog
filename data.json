@@ -1,5 +1,16 @@
 {
     "data": [
+         {
+            "name": "Jordan Morgan",
+            "url": "https://www.swiftjectivec.com",
+            "tags": [
+                "software",
+                "iOS",
+                "SwiftUI",
+                "macOS"
+            ],
+            "furl": "https://www.swiftjectivec.com/feed.xml"
+        },
         {
             "name": "Old Fashioned",
             "url": "https://blog.virenmohindra.me",
