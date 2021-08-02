@@ -4074,6 +4074,17 @@
                 "google"
             ],
             "furl": "https://ahmet.im/blog/feed/rss.xml/"
+        },
+        {
+            "name": "Better world by better software",
+            "url": "https://glebbahmutov.com/blog/index.html",
+            "tags": [
+                "advice",
+                "cypress",
+                "functional programming",
+                "javascript"
+            ],
+            "furl": "https://glebbahmutov.com/blog/atom.xml"
         }
     ]
 }
