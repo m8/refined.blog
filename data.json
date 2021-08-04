@@ -1,6 +1,6 @@
 {
     "data": [
-	{
+	      {
             "name": "Gatewaynode",
             "url": "https://gatewaynode.com",
             "tags": [
@@ -9,11 +9,21 @@
                 "internet",
                 "technology",
                 "writing",
-		"politics",
-		"fiction",
-		"security"
+                "politics",
+                "fiction",
+                "security"
+            ]
+        },
+        {
+            "name": "Jordan Morgan",
+            "url": "https://www.swiftjectivec.com",
+            "tags": [
+                "software",
+                "iOS",
+                "SwiftUI",
+                "macOS"
             ],
-            "furl": ""
+            "furl": "https://www.swiftjectivec.com/feed.xml"
         },
         {
             "name": "Old Fashioned",
@@ -4078,6 +4088,29 @@
                 "google"
             ],
             "furl": "https://ahmet.im/blog/feed/rss.xml/"
-        }
+        },
+        {
+            "name": "Better world by better software",
+            "url": "https://glebbahmutov.com/blog/index.html",
+            "tags": [
+                "advice",
+                "cypress",
+                "functional programming",
+                "javascript"
+            ],
+            "furl": "https://glebbahmutov.com/blog/atom.xml"
+        },
+        {
+            "name": "Bino Kochumol Varghese's Personal Blog",
+            "url": "https://www.codbix.com/",
+            "tags": [
+                "programming",
+                "technology",
+                "open-source",
+                "software",
+                "thoughts"
+            ],
+            "furl": "https://www.codbix.com/index.xml"
+      }
     ]
 }
