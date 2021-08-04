@@ -3716,7 +3716,7 @@
                 "own-your-data"
             ],
             "furl": "https://alexander.kirk.at/feed/"
-        },        
+        },
         {
             "name": "Mike Kasberg's Blog",
             "url": "https://www.mikekasberg.com",
@@ -3771,7 +3771,7 @@
             ],
             "furl": "https://notiz.blog/feed/"
         },
-        { 
+        {
             "name": "Notes to Self",
             "url": "https://notestoself.dev/",
             "tags": [
@@ -3782,7 +3782,7 @@
             ],
             "furl": "https://notestoself.dev/index.xml"
         },
-        { 
+        {
             "name": "CyberHost",
             "url": "https://cyberhost.uk/",
             "tags": [
@@ -4111,6 +4111,16 @@
                 "thoughts"
             ],
             "furl": "https://www.codbix.com/index.xml"
+      },
+      {
+          "name": "The Weltraumschaf – Sven Strittmatter",
+          "url": "https://blog.weltraumschaf.de/",
+          "tags": [
+            "security",
+            "software-architecture",
+            "clean-code"
+          ],
+          "furl": "https://blog.weltraumschaf.de/index.xml"
       }
     ]
 }
