@@ -4085,6 +4085,18 @@
                 "javascript"
             ],
             "furl": "https://glebbahmutov.com/blog/atom.xml"
-        }
+        },
+        {
+            "name": "Bino Kochumol Varghese's Personal Blog",
+            "url": "https://www.codbix.com/",
+            "tags": [
+                "programming",
+                "technology",
+                "open-source",
+                "software",
+                "thoughts"
+            ],
+            "furl": "https://www.codbix.com/index.xml"
+      }
     ]
 }
