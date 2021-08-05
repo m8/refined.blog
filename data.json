@@ -4115,24 +4115,24 @@
         {
             "name": "Autodidacts.io",
             "url": "https://www.autodidacts.io/",
-	    "tags": [
-		"software",
-		"philosophy",
-		"open-source",
-	        "linux",
-		"ubuntu",
-		"writing",
-		"essays",
-		"thoughts",
-		"technology",
-		"reading",
-		"books",
-		"science",
-		"hardware",
-		"EEG",
-		"neuro"
-	    ],
-	    "furl": "https://www.autodidacts.io/rss/"
-	}
+            "tags": [
+                "software",
+                "philosophy",
+                "open-source",
+                "linux",
+                "ubuntu",
+                "writing",
+                "essays",
+                "thoughts",
+                "technology",
+                "reading",
+                "books",
+                "science",
+                "hardware",
+                "EEG",
+                "neuro"
+            ],
+            "furl": "https://www.autodidacts.io/rss/"
+        }
     ]
 }
