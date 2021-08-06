@@ -4090,6 +4090,17 @@
             "furl": "https://ahmet.im/blog/feed/rss.xml/"
         },
         {
+            "name": "scvalex's blog",
+            "url": "https://scvalex.net/",
+            "tags": [
+                "networking",
+                "rust",
+                "functional programming",
+                "reviews"
+            ],
+            "furl": "https://scvalex.net/atom.xml"
+        },
+        {
             "name": "Better world by better software",
             "url": "https://glebbahmutov.com/blog/index.html",
             "tags": [
