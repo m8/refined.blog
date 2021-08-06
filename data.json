@@ -3600,6 +3600,17 @@
             "furl": "https://www.mikekasberg.com/feed.xml"
         },
         {
+          "name": "Calvin Torra's blog",
+            "url": "https://calvintorra.com",
+            "tags": [
+                "software",
+                "javascript",
+                "nodejs",
+                "react"
+            ],
+            "furl": "https://calvin.hashnode.dev/rss.xml"
+        },
+        {
           "name": "Geshan's blog",
             "url": "https://geshan.com.np",
             "tags": [
@@ -3609,18 +3620,6 @@
                 "nodejs"
             ],
             "furl": "https://geshan.com.np/atom.xml"
-        },
-        {
-          "name": "Calvin Torra's blog",
-            "url": "https://calvintorra.com",
-            "tags": [
-                "software",
-                "web development",
-                "javascript",
-                "nodejs",
-                "react"
-            ],
-            "furl": "https://calvin.hashnode.dev/rss.xml"
         },
     ]
 }
