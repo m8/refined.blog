@@ -1173,9 +1173,12 @@
             "url": "https://davidwalsh.name/",
             "tags": [
                 "software",
-                "nofollow",
+                "react",
                 "css",
-                "sponsored"
+                "fetch",
+                "node.js",
+                "js",
+                "ajax"
             ],
             "furl": "https://davidwalsh.name/feed/atom",
             "hnp": 2369
