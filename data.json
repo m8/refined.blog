@@ -4239,6 +4239,16 @@
             ],
             "furl": "https://jamieadams.click/feed/",
             "hnp": 0
-        }
+        },
+        {
+          "name": "The Weltraumschaf – Sven Strittmatter",
+          "url": "https://blog.weltraumschaf.de/",
+          "tags": [
+            "security",
+            "software-architecture",
+            "clean-code"
+          ],
+          "furl": "https://blog.weltraumschaf.de/index.xml"
+      }
     ]
 }
