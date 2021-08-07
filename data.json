@@ -1,94 +1,5 @@
 {
     "data": [
-	      {
-            "name": "Gatewaynode",
-            "url": "https://gatewaynode.com",
-            "tags": [
-                "software engineering",
-                "devsecops",
-                "internet",
-                "technology",
-                "writing",
-                "politics",
-                "fiction",
-                "security"
-            ]
-        },
-        {
-            "name": "Jordan Morgan",
-            "url": "https://www.swiftjectivec.com",
-            "tags": [
-                "software",
-                "iOS",
-                "SwiftUI",
-                "macOS"
-            ],
-            "furl": "https://www.swiftjectivec.com/feed.xml"
-        },
-        {
-            "name": "Old Fashioned",
-            "url": "https://blog.virenmohindra.me",
-            "tags": [
-                "software engineering",
-                "personal",
-                "consulting",
-                "chess",
-                "internet",
-                "technology",
-                "writing"
-            ],
-            "furl": "https://blog.virenmohindra.me/feed"
-        },
-        {
-            "name": "Josh Spicer",
-            "url": "https://joshspicer.com",
-            "tags": [
-                "software engineering",
-                "personal"
-            ],
-            "furl": "https://joshspicer.com/feed.xml"
-        },
-        {
-            "name": "Tedium: The Dull Side of the Internet",
-            "url": "https://tedium.co",
-            "tags": [
-                "internet",
-                "history",
-                "retro",
-                "obscure",
-                "offbeat",
-                "tech-history",
-                "longform",
-                "pop-culture"
-            ],
-            "furl": "https://feed.tedium.co"
-        },
-        {
-            "name": "Marek Narozniak's blog",
-            "url": "https://mareknarozniak.com/",
-            "tags": [
-                "quantum",
-                "physics",
-                "cryptography",
-                "optimization",
-                "tutorials",
-                "simulation",
-                "python",
-                "science",
-                "theory"
-            ],
-            "furl": "https://mareknarozniak.com/feed.xml"
-        },
-        {
-            "name": "Jamie Adams",
-            "url": "https://jamieadams.click",
-            "tags": [
-                "personal",
-                "internet",
-                "technology"
-            ],
-            "furl": "https://jamieadams.click/feed/"
-        },
         {
             "name": "Musa Unal",
             "url": "https://musaunal.com",
@@ -113,7 +24,8 @@
                 "politics",
                 "digital media"
             ],
-            "furl": "https://l-o-o-s-e-d.net/rss/rss.xml"
+            "furl": "https://l-o-o-s-e-d.net/rss/rss.xml",
+            "hnp": 446
         },
         {
             "name": "Christine Dodrill",
@@ -133,7 +45,7 @@
                 "thinkpad",
                 "openbsd"
             ],
-            "hnp": 1842
+            "hnp": 2108
         },
         {
             "name": "DevOops (mcgillij's blog)",
@@ -145,7 +57,8 @@
                 "virtualization",
                 "free-software"
             ],
-            "furl": "https://www.mcgillij.dev/feeds/all.atom.xml"
+            "furl": "https://www.mcgillij.dev/feeds/all.atom.xml",
+            "hnp": 0
         },
         {
             "name": "zserge",
@@ -160,7 +73,7 @@
             "hnp": 3050
         },
         {
-            "name": "Dragoș Străinu blog",
+            "name": "Drago\u0219 Str\u0103inu blog",
             "url": "https://strdr4605.github.io",
             "tags": [
                 "software",
@@ -169,7 +82,8 @@
                 "frontend",
                 "open-source"
             ],
-            "furl": "https://strdr4605.github.io/rss.xml"
+            "furl": "https://strdr4605.github.io/rss.xml",
+            "hnp": 159
         },
         {
             "name": "Henry Schmale's Blog",
@@ -181,7 +95,7 @@
                 "reviews"
             ],
             "furl": "https://www.henryschmale.org/feed.xml",
-            "hnp": 0
+            "hnp": 3
         },
         {
             "name": "matklad",
@@ -219,7 +133,7 @@
                 "social history"
             ],
             "furl": "https://acoup.blog/rss",
-            "hnp": 4014
+            "hnp": 4026
         },
         {
             "name": "Fatih Arslan",
@@ -278,7 +192,7 @@
                 ""
             ],
             "furl": "https://geohot.github.io/blog/feed",
-            "hnp": 144
+            "hnp": 147
         },
         {
             "name": "Luke Smith",
@@ -323,7 +237,7 @@
                 "security"
             ],
             "furl": "https://www.netmeister.org/blog/rss.xml",
-            "hnp": 1296
+            "hnp": 1339
         },
         {
             "name": "Ned Batchelder",
@@ -346,7 +260,7 @@
                 "rust"
             ],
             "furl": "https://fasterthanli.me/index.xml",
-            "hnp": 2023
+            "hnp": 2494
         },
         {
             "name": "justinobeirne.com",
@@ -394,7 +308,7 @@
                 "system"
             ],
             "furl": "https://berthub.eu/articles/index.xml",
-            "hnp": 3906
+            "hnp": 4251
         },
         {
             "name": "Frank's blog",
@@ -405,7 +319,8 @@
                 "ruby",
                 "productivity"
             ],
-            "furl": "https://frankgroeneveld.nl/feed/"
+            "furl": "https://frankgroeneveld.nl/feed/",
+            "hnp": 123
         },
         {
             "name": "Alexey Guzey",
@@ -413,7 +328,7 @@
             "tags": [
                 "software"
             ],
-            "hnp": 1893
+            "hnp": 1991
         },
         {
             "name": "Juho Snellman's Weblog",
@@ -426,7 +341,7 @@
                 "networking"
             ],
             "furl": "https://www.snellman.net/blog/rss-index.xml",
-            "hnp": 3181
+            "hnp": 3197
         },
         {
             "name": "Stefan Hajnoczi",
@@ -477,7 +392,8 @@
                 "note taking",
                 "internet economy"
             ],
-            "furl": "https://piszek.com/feed/"
+            "furl": "https://piszek.com/feed/",
+            "hnp": 242
         },
         {
             "name": "Aviator Ahmet ",
@@ -536,7 +452,7 @@
                 "sql"
             ],
             "furl": "http://eradman.com/atom.xml",
-            "hnp": 187
+            "hnp": 189
         },
         {
             "name": "the morning paper",
@@ -559,7 +475,7 @@
                 "architecture"
             ],
             "furl": "https://lethain.com/feeds/",
-            "hnp": 1734
+            "hnp": 1894
         },
         {
             "name": "mathbabe",
@@ -613,7 +529,7 @@
                 "reversing"
             ],
             "furl": "https://www.righto.com/feeds/posts/default",
-            "hnp": 7481
+            "hnp": 7620
         },
         {
             "name": "Josh WComeau",
@@ -627,7 +543,7 @@
                 "performance"
             ],
             "furl": "https://www.joshwcomeau.com/rss.xml",
-            "hnp": 2462
+            "hnp": 2469
         },
         {
             "name": "Cheapskate's Guide",
@@ -638,7 +554,7 @@
                 "internet"
             ],
             "furl": "https://cheapskatesguide.org/feed",
-            "hnp": 2218
+            "hnp": 2255
         },
         {
             "name": "The Tao of Mac",
@@ -781,7 +697,7 @@
                 "css"
             ],
             "furl": "https://infrequently.org/feed/",
-            "hnp": 1094
+            "hnp": 1203
         },
         {
             "name": "Allison Kaptur",
@@ -947,7 +863,8 @@
                 "networking",
                 "reverse engineering"
             ],
-            "furl": "https://blog.benjojo.co.uk/rss.xml"
+            "furl": "https://blog.benjojo.co.uk/rss.xml",
+            "hnp": 5533
         },
         {
             "name": "Ben McCormick",
@@ -1220,7 +1137,8 @@
                 "challenge",
                 "living"
             ],
-            "furl": "https://dmeechan.com/blog/feed.xml"
+            "furl": "https://dmeechan.com/blog/feed.xml",
+            "hnp": 0
         },
         {
             "name": "Dave Atchley",
@@ -1255,9 +1173,12 @@
             "url": "https://davidwalsh.name/",
             "tags": [
                 "software",
-                "nofollow",
+                "react",
                 "css",
-                "sponsored"
+                "fetch",
+                "node.js",
+                "js",
+                "ajax"
             ],
             "furl": "https://davidwalsh.name/feed/atom",
             "hnp": 2369
@@ -1500,7 +1421,8 @@
                 "programming",
                 "investing"
             ],
-            "furl": "https://felipecsl.com/feed.xml"
+            "furl": "https://felipecsl.com/feed.xml",
+            "hnp": 219
         },
         {
             "name": "Filippo Valsorda",
@@ -1537,7 +1459,8 @@
                 "game development",
                 "algorithms",
                 "multiplayer game networking"
-            ]
+            ],
+            "hnp": 2079
         },
         {
             "name": "Gleb Bahmutov",
@@ -1597,7 +1520,7 @@
                 "figure"
             ],
             "furl": "https://firstdoit.com/feed",
-            "hnp": 224
+            "hnp": 223
         },
         {
             "name": "Hayden James",
@@ -2143,7 +2066,7 @@
                 ""
             ],
             "furl": "http://loige.co/rss/",
-            "hnp": 527
+            "hnp": 530
         },
         {
             "name": "Manu Sporny",
@@ -2266,7 +2189,7 @@
                 "recovery"
             ],
             "furl": "https://blog.cryptographyengineering.com/feed/",
-            "hnp": 8679
+            "hnp": 8685
         },
         {
             "name": "maya.land",
@@ -2277,7 +2200,8 @@
                 "indieweb",
                 "witchcraft"
             ],
-            "furl": "https://maya.land/feed.xml"
+            "furl": "https://maya.land/feed.xml",
+            "hnp": 0
         },
         {
             "name": "Michael Crump",
@@ -2327,7 +2251,8 @@
                 "teams",
                 "work"
             ],
-            "furl": "https://critter.blog/feed/"
+            "furl": "https://critter.blog/feed/",
+            "hnp": 1886
         },
         {
             "name": "Mike Fogus",
@@ -2876,7 +2801,7 @@
                 "engineering"
             ],
             "furl": "https://swizec.com/blog/feed",
-            "hnp": 1624
+            "hnp": 1626
         },
         {
             "name": "Tero Parviainen",
@@ -2912,7 +2837,7 @@
                 "parser"
             ],
             "furl": "http://thedailywtf.com/rss",
-            "hnp": 2854
+            "hnp": 2933
         },
         {
             "name": "Thomas Young",
@@ -3210,7 +3135,8 @@
                 "python",
                 "programming"
             ],
-            "furl": "https://out-of-cheese-error.netlify.app/feeds/all.rss.xml"
+            "furl": "https://out-of-cheese-error.netlify.app/feeds/all.rss.xml",
+            "hnp": 0
         },
         {
             "name": "James Steinberg",
@@ -3223,7 +3149,8 @@
                 "life",
                 "y combinator"
             ],
-            "furl": "https://mrsteinberg.com/rss/"
+            "furl": "https://mrsteinberg.com/rss/",
+            "hnp": 2
         },
         {
             "name": "Sensemaking: Alex Krupp's blog",
@@ -3234,7 +3161,8 @@
                 "education",
                 "marketing"
             ],
-            "furl": "https://alexkrupp.typepad.com/sensemaking/atom.xml"
+            "furl": "https://alexkrupp.typepad.com/sensemaking/atom.xml",
+            "hnp": 1597
         },
         {
             "name": "Dom Williams",
@@ -3246,7 +3174,8 @@
                 "rust",
                 "devlog"
             ],
-            "furl": "https://domwillia.ms/index.xml"
+            "furl": "https://domwillia.ms/index.xml",
+            "hnp": 3
         },
         {
             "name": "Evert Pot",
@@ -3259,7 +3188,8 @@
                 "typescript",
                 "rest"
             ],
-            "furl": "https://evertpot.com/atom.xml"
+            "furl": "https://evertpot.com/atom.xml",
+            "hnp": 3058
         },
         {
             "name": "Shawn Swyx Wang",
@@ -3270,7 +3200,8 @@
                 "strategy",
                 "indie hacking"
             ],
-            "furl": "https://swyx.io/rss.xml"
+            "furl": "https://swyx.io/rss.xml",
+            "hnp": 774
         },
         {
             "name": "Esoteric.Codes",
@@ -3282,7 +3213,8 @@
                 "code poetry",
                 "code art"
             ],
-            "furl": "https://esoteric.codes/rss"
+            "furl": "https://esoteric.codes/rss",
+            "hnp": 635
         },
         {
             "name": "Shogan.tech",
@@ -3303,7 +3235,8 @@
                 "nodejs",
                 "AWS"
             ],
-            "furl": "http://www.shogan.co.uk/feed/"
+            "furl": "http://www.shogan.co.uk/feed/",
+            "hnp": 434
         },
         {
             "name": "VisakanV'S Blog",
@@ -3317,10 +3250,11 @@
                 "people",
                 "travel"
             ],
-            "furl": "http://www.visakanv.com/blog/rss/"
+            "furl": "http://www.visakanv.com/blog/rss/",
+            "hnp": 0
         },
         {
-           "name": "Colin Devroe",
+            "name": "Colin Devroe",
             "url": "http://cdevroe.com/",
             "tags": [
                 "photography",
@@ -3329,7 +3263,7 @@
                 "business"
             ],
             "furl": "http://cdevroe.com/feed/",
-            "hnp": 277
+            "hnp": 269
         },
         {
             "name": "Kyle Fazzari",
@@ -3340,7 +3274,8 @@
                 "ubuntu",
                 "open source"
             ],
-            "furl": "https://kyrofa.com/index.xml"
+            "furl": "https://kyrofa.com/index.xml",
+            "hnp": 113
         },
         {
             "name": "Brajeshwar Oinam",
@@ -3352,7 +3287,8 @@
                 "technology",
                 "productivity"
             ],
-            "furl": "https://brajeshwar.com/feed.xml"
+            "furl": "https://brajeshwar.com/feed.xml",
+            "hnp": 511
         },
         {
             "name": "Max Bernstein's blog",
@@ -3365,7 +3301,8 @@
                 "lisp",
                 "optimization"
             ],
-            "furl": "https://bernsteinbear.com/feed.xml"
+            "furl": "https://bernsteinbear.com/feed.xml",
+            "hnp": 1138
         },
         {
             "name": "Matt Glaman",
@@ -3376,17 +3313,19 @@
                 "open-source",
                 "javascript"
             ],
-            "furl": "https://mglaman.dev/blog/feed"
+            "furl": "https://mglaman.dev/blog/feed",
+            "hnp": 4
         },
         {
-           "name": "JB Schirtzinger",
-           "url": "https://jbschirtzinger.com",
-           "tags": [
-               "software",
-               "open source",
-               "free-software"
-           ],
-           "furl": "https://www.jbschirtzinger.com/"
+            "name": "JB Schirtzinger",
+            "url": "https://jbschirtzinger.com",
+            "tags": [
+                "software",
+                "open source",
+                "free-software"
+            ],
+            "furl": "https://www.jbschirtzinger.com/",
+            "hnp": 1
         },
         {
             "name": "Brett Koonce",
@@ -3396,7 +3335,8 @@
                 "machine learning",
                 "cloud"
             ],
-            "furl": "https://brettkoonce.com/index.xml"
+            "furl": "https://brettkoonce.com/index.xml",
+            "hnp": 0
         },
         {
             "name": "std::bodun::blog",
@@ -3414,7 +3354,8 @@
                 "accelerator",
                 "academia"
             ],
-            "furl": "https://www.bodunhu.com/blog/index.xml"
+            "furl": "https://www.bodunhu.com/blog/index.xml",
+            "hnp": 117
         },
         {
             "name": "Matt Rickard",
@@ -3424,7 +3365,8 @@
                 "startups",
                 "thoughts"
             ],
-            "furl": "https://matt-rickard.com/feed/"
+            "furl": "https://matt-rickard.com/feed/",
+            "hnp": 280
         },
         {
             "name": "Painting Quarks",
@@ -3439,21 +3381,23 @@
                 "objective-c",
                 "software"
             ],
-            "furl": "https://otavio.cc/feed.xml"
+            "furl": "https://otavio.cc/feed.xml",
+            "hnp": 0
         },
         {
             "name": "Andrew's World",
             "url": "https://andrew.im",
             "tags": [
-               "essays",
-               "thoughts",
-               "startups",
-               "tech"
-           ],
-           "furl": "https://andrew.im/feed.xml"
+                "essays",
+                "thoughts",
+                "startups",
+                "tech"
+            ],
+            "furl": "https://andrew.im/feed.xml",
+            "hnp": 169
         },
         {
-           "name": "Rahul Gopinath",
+            "name": "Rahul Gopinath",
             "url": "https://rahul.gopinath.org/",
             "tags": [
                 "research",
@@ -3463,10 +3407,11 @@
                 "academia",
                 "live-notebooks"
             ],
-            "furl": "https://rahul.gopinath.org/feed.xml"
+            "furl": "https://rahul.gopinath.org/feed.xml",
+            "hnp": 31
         },
         {
-          "name": "Asko Nõmm",
+            "name": "Asko N\u00f5mm",
             "url": "https://bien.ee",
             "tags": [
                 "software",
@@ -3474,7 +3419,8 @@
                 "programming languages",
                 "thoughts"
             ],
-            "furl": "https://bien.ee/rss/"
+            "furl": "https://bien.ee/rss/",
+            "hnp": 165
         },
         {
             "name": "Alexander Hansen's blog",
@@ -3485,7 +3431,8 @@
                 "linux",
                 "c",
                 "smalldragon"
-            ]
+            ],
+            "hnp": 0
         },
         {
             "name": "David Brownman",
@@ -3511,7 +3458,8 @@
                 "kubernetes",
                 "ansible"
             ],
-            "furl": "http://www.jeffgeerling.com/blog.xml"
+            "furl": "http://www.jeffgeerling.com/blog.xml",
+            "hnp": 7097
         },
         {
             "name": "Bradley Taunt",
@@ -3522,7 +3470,8 @@
                 "web",
                 "open-source"
             ],
-            "furl": "https://uglyduck.ca/feed.xml"
+            "furl": "https://uglyduck.ca/feed.xml",
+            "hnp": 587
         },
         {
             "name": "Second Breakfast",
@@ -3540,7 +3489,8 @@
                 "travel",
                 "hiking"
             ],
-            "furl": "https://secondbreakfast.co/feed.rss"
+            "furl": "https://secondbreakfast.co/feed.rss",
+            "hnp": 0
         },
         {
             "name": "Major Hayden",
@@ -3554,7 +3504,8 @@
                 "software",
                 "technology"
             ],
-            "furl": "https://major.io/index.xml"
+            "furl": "https://major.io/index.xml",
+            "hnp": 1489
         },
         {
             "name": "Sylvain Kerkour",
@@ -3566,7 +3517,8 @@
                 "entrepreneurship",
                 "security"
             ],
-            "furl": "https://kerkour.com/feed.xml"
+            "furl": "https://kerkour.com/feed.xml",
+            "hnp": 447
         },
         {
             "name": "Hipster Pixel",
@@ -3578,10 +3530,11 @@
                 "colourful",
                 "security"
             ],
-            "furl": "https://hipsterpixel.co/feed.xml"
+            "furl": "https://hipsterpixel.co/feed.xml",
+            "hnp": 0
         },
         {
-            "name": "Tomáš Janoušek",
+            "name": "Tom\u00e1\u0161 Janou\u0161ek",
             "url": "https://work.lisk.in/",
             "tags": [
                 "software",
@@ -3589,10 +3542,11 @@
                 "open-source",
                 "bicycles"
             ],
-            "furl": "https://work.lisk.in/atom.xml"
+            "furl": "https://work.lisk.in/atom.xml",
+            "hnp": 22
         },
         {
-           "name": "Ognjen Regoje' blog",
+            "name": "Ognjen Regoje' blog",
             "url": "https://ognjen.io",
             "tags": [
                 "product",
@@ -3602,7 +3556,8 @@
                 "rails",
                 "design"
             ],
-            "furl": "https://ognjen.io/feed.xml"
+            "furl": "https://ognjen.io/feed.xml",
+            "hnp": 1531
         },
         {
             "name": "randomnoun",
@@ -3617,7 +3572,8 @@
                 "devices",
                 "rant"
             ],
-            "furl": "http://www.randomnoun.com/wp/feed/"
+            "furl": "http://www.randomnoun.com/wp/feed/",
+            "hnp": 0
         },
         {
             "name": "Sheep.Horse - the blog of Andrew Stephens",
@@ -3626,7 +3582,8 @@
                 "software",
                 "books"
             ],
-            "furl": "https://sheep.horse/rss.xml"
+            "furl": "https://sheep.horse/rss.xml",
+            "hnp": 84
         },
         {
             "name": "Gwern Branwen",
@@ -3636,7 +3593,8 @@
                 "psychology",
                 "statistics",
                 "technology"
-            ]
+            ],
+            "hnp": 6907
         },
         {
             "name": "Software Curmudgeon",
@@ -3645,7 +3603,8 @@
                 "software",
                 "elixir"
             ],
-            "furl": "https://blog.softwarecurmudgeon.com/feed.xml"
+            "furl": "https://blog.softwarecurmudgeon.com/feed.xml",
+            "hnp": 5
         },
         {
             "name": "Ivan Smirnov",
@@ -3658,7 +3617,8 @@
                 "ubuntu",
                 "interviewing"
             ],
-            "furl": "https://blog.ivansmirnov.name/rss/"
+            "furl": "https://blog.ivansmirnov.name/rss/",
+            "hnp": 0
         },
         {
             "name": "Ivan Smirnov",
@@ -3671,7 +3631,8 @@
                 "networking",
                 "investing"
             ],
-            "furl": "https://ivans.io/rss/"
+            "furl": "https://ivans.io/rss/",
+            "hnp": 0
         },
         {
             "name": "Jon Paul Uritis",
@@ -3682,7 +3643,8 @@
                 "personal improvement",
                 "design"
             ],
-            "furl": "https://jonpauluritis.com/feed.xml"
+            "furl": "https://jonpauluritis.com/feed.xml",
+            "hnp": 7
         },
         {
             "name": "Thejesh GN",
@@ -3693,7 +3655,8 @@
                 "productivity",
                 "programming"
             ],
-            "furl": "https://feeds.thejeshgn.com/thejeshgn"
+            "furl": "https://feeds.thejeshgn.com/thejeshgn",
+            "hnp": 27
         },
         {
             "name": "Susam",
@@ -3703,7 +3666,8 @@
                 "mathematics",
                 "programming"
             ],
-            "furl": "https://susam.in/blog/rss.xml"
+            "furl": "https://susam.in/blog/rss.xml",
+            "hnp": 1535
         },
         {
             "name": "Alexander Kirk",
@@ -3715,7 +3679,8 @@
                 "decentralized-web",
                 "own-your-data"
             ],
-            "furl": "https://alexander.kirk.at/feed/"
+            "furl": "https://alexander.kirk.at/feed/",
+            "hnp": 91
         },
         {
             "name": "Mike Kasberg's Blog",
@@ -3728,7 +3693,8 @@
                 "technology",
                 "ubuntu"
             ],
-            "furl": "https://www.mikekasberg.com/feed.xml"
+            "furl": "https://www.mikekasberg.com/feed.xml",
+            "hnp": 146
         },
         {
             "name": "Jens Oliver Meiert",
@@ -3742,10 +3708,11 @@
                 "management",
                 "leadership"
             ],
-            "furl": "https://meiert.com/en/feed/"
+            "furl": "https://meiert.com/en/feed/",
+            "hnp": 871
         },
         {
-          "name": "Geshan's blog",
+            "name": "Geshan's blog",
             "url": "https://geshan.com.np",
             "tags": [
                 "software engineering",
@@ -3753,7 +3720,8 @@
                 "devops",
                 "nodejs"
             ],
-            "furl": "https://geshan.com.np/atom.xml"
+            "furl": "https://geshan.com.np/atom.xml",
+            "hnp": 472
         },
         {
             "name": "notizBlog",
@@ -3769,7 +3737,8 @@
                 "php",
                 "podcast"
             ],
-            "furl": "https://notiz.blog/feed/"
+            "furl": "https://notiz.blog/feed/",
+            "hnp": 0
         },
         {
             "name": "Notes to Self",
@@ -3780,7 +3749,8 @@
                 "thoughts",
                 "learning"
             ],
-            "furl": "https://notestoself.dev/index.xml"
+            "furl": "https://notestoself.dev/index.xml",
+            "hnp": 2
         },
         {
             "name": "CyberHost",
@@ -3795,7 +3765,8 @@
                 "security",
                 "networking"
             ],
-            "furl": "https://cyberhost.uk/rss/"
+            "furl": "https://cyberhost.uk/rss/",
+            "hnp": 5
         },
         {
             "name": "xem",
@@ -3805,7 +3776,8 @@
                 "front-end",
                 "js",
                 "codegolf"
-            ]
+            ],
+            "hnp": 14
         },
         {
             "name": "Matthew Tift",
@@ -3817,7 +3789,8 @@
                 "meditation",
                 "musicology"
             ],
-            "furl": "https://matthewtift.com/rss.xml"
+            "furl": "https://matthewtift.com/rss.xml",
+            "hnp": 0
         },
         {
             "name": "Miika von Bell",
@@ -3831,7 +3804,8 @@
                 "sports",
                 "outdoors"
             ],
-            "furl": "miikavonbell.com/rss.xml"
+            "furl": "miikavonbell.com/rss.xml",
+            "hnp": 2
         },
         {
             "name": "Fabio Alessandro Locati|Fale's blog",
@@ -3853,7 +3827,8 @@
                 "aws",
                 "api"
             ],
-            "furl": "https://fale.io/index.xml"
+            "furl": "https://fale.io/index.xml",
+            "hnp": 9
         },
         {
             "name": "My Notes - random thoughts on Random Things",
@@ -3866,7 +3841,8 @@
                 "opinion",
                 "gardening"
             ],
-            "furl": "https://petergarner.net/notes/feed.rss"
+            "furl": "https://petergarner.net/notes/feed.rss",
+            "hnp": 168
         },
         {
             "name": "A Tea Addict's Journal",
@@ -3875,7 +3851,8 @@
                 "Tea",
                 "Puerh"
             ],
-            "furl": ""
+            "furl": "",
+            "hnp": 4
         },
         {
             "name": "Leading Transformation",
@@ -3890,7 +3867,8 @@
                 "strategy",
                 "ideas"
             ],
-            "furl": "https://rmukeshgupta.com/feed"
+            "furl": "https://rmukeshgupta.com/feed",
+            "hnp": 0
         },
         {
             "name": "Stathis' log book",
@@ -3901,7 +3879,8 @@
                 "windows",
                 "pfsense"
             ],
-            "furl": "https://statath.github.io/"
+            "furl": "https://statath.github.io/",
+            "hnp": 0
         },
         {
             "name": "Kev's Development Toolbox",
@@ -3914,7 +3893,8 @@
                 "howtos",
                 "guides"
             ],
-            "furl": ""
+            "furl": "",
+            "hnp": 923
         },
         {
             "name": "David Artiss",
@@ -3926,7 +3906,8 @@
                 "plugins",
                 "php"
             ],
-            "furl": "https://artiss.blog/feed/"
+            "furl": "https://artiss.blog/feed/",
+            "hnp": 0
         },
         {
             "name": "Arun.is",
@@ -3934,7 +3915,8 @@
             "tags": [
                 "design"
             ],
-            "furl": ""
+            "furl": "",
+            "hnp": 335
         },
         {
             "name": "trms",
@@ -3949,7 +3931,8 @@
                 "management",
                 "writing"
             ],
-            "furl": "https://trms.me/feed/"
+            "furl": "https://trms.me/feed/",
+            "hnp": 202
         },
         {
             "name": "Craig Constantine",
@@ -3959,7 +3942,8 @@
                 "reflection",
                 "efficacy"
             ],
-            "furl": "https://constantine.name/feed"
+            "furl": "https://constantine.name/feed",
+            "hnp": 0
         },
         {
             "name": "Tolu's Notes",
@@ -3971,7 +3955,8 @@
                 "crypto",
                 "defi"
             ],
-            "furl": "https://tolusnotes.com/rss/"
+            "furl": "https://tolusnotes.com/rss/",
+            "hnp": 35
         },
         {
             "name": "Ekaitz's tech blog",
@@ -3981,7 +3966,8 @@
                 "engineering",
                 "ethics"
             ],
-            "furl": "https://ekaitz.elenq.tech/feeds/all.atom.xml"
+            "furl": "https://ekaitz.elenq.tech/feeds/all.atom.xml",
+            "hnp": 7
         },
         {
             "name": "Eigenfoo",
@@ -3992,7 +3978,8 @@
                 "natural-language-processing",
                 "bayesian-modelling"
             ],
-            "furl": "https://eigenfoo.xyz/feed.xml"
+            "furl": "https://eigenfoo.xyz/feed.xml",
+            "hnp": 540
         },
         {
             "name": "Low Level Bits",
@@ -4005,7 +3992,8 @@
                 "mutation",
                 "testing"
             ],
-            "furl": "https://lowlevelbits.org/feed.xml"
+            "furl": "https://lowlevelbits.org/feed.xml",
+            "hnp": 661
         },
         {
             "name": "Dissociated Press",
@@ -4020,7 +4008,8 @@
                 "note",
                 "taking"
             ],
-            "furl": "https://dissociatedpress.net/feed/"
+            "furl": "https://dissociatedpress.net/feed/",
+            "hnp": 9
         },
         {
             "name": "Mark Greville",
@@ -4031,7 +4020,8 @@
                 "management",
                 "creativity",
                 "music"
-            ]
+            ],
+            "hnp": 149
         },
         {
             "name": "Antoine Lehurt",
@@ -4042,7 +4032,8 @@
                 "aws",
                 "vim"
             ],
-            "furl": "https://blog.kewah.com/rss.xml"
+            "furl": "https://blog.kewah.com/rss.xml",
+            "hnp": 25
         },
         {
             "name": "whatapalaver - faff of a tech nature",
@@ -4052,7 +4043,8 @@
                 "codenewbie",
                 "ruby",
                 "python"
-            ]
+            ],
+            "hnp": 0
         },
         {
             "name": "Roberto Vitillo's Blog",
@@ -4062,7 +4054,8 @@
                 "distributed",
                 "systems"
             ],
-            "furl": "https://robertovitillo.com/rss.xml"
+            "furl": "https://robertovitillo.com/rss.xml",
+            "hnp": 886
         },
         {
             "name": "Shekhar Gulati's Blog",
@@ -4073,7 +4066,8 @@
                 "java",
                 "engineering-leadership"
             ],
-            "furl": "https://shekhargulati.com/feed/"
+            "furl": "https://shekhargulati.com/feed/",
+            "hnp": 165
         },
         {
             "name": "Ahmet Alp Balkan",
@@ -4087,7 +4081,20 @@
                 "cloud",
                 "google"
             ],
-            "furl": "https://ahmet.im/blog/feed/rss.xml/"
+            "furl": "https://ahmet.im/blog/feed/rss.xml/",
+            "hnp": 289
+        },
+        {
+            "name": "scvalex's blog",
+            "url": "https://scvalex.net/",
+            "tags": [
+                "networking",
+                "rust",
+                "functional programming",
+                "reviews"
+            ],
+            "furl": "https://scvalex.net/atom.xml",
+            "hnp": 169
         },
         {
             "name": "Better world by better software",
@@ -4098,7 +4105,8 @@
                 "functional programming",
                 "javascript"
             ],
-            "furl": "https://glebbahmutov.com/blog/atom.xml"
+            "furl": "https://glebbahmutov.com/blog/atom.xml",
+            "hnp": 1
         },
         {
             "name": "Bino Kochumol Varghese's Personal Blog",
@@ -4110,9 +4118,129 @@
                 "software",
                 "thoughts"
             ],
-            "furl": "https://www.codbix.com/index.xml"
-      },
-      {
+            "furl": "https://www.codbix.com/index.xml",
+            "hnp": 0
+        },
+        {
+            "name": "Autodidacts.io",
+            "url": "https://www.autodidacts.io/",
+            "tags": [
+                "software",
+                "philosophy",
+                "open-source",
+                "linux",
+                "ubuntu",
+                "writing",
+                "essays",
+                "thoughts",
+                "technology",
+                "reading",
+                "books",
+                "science",
+                "hardware",
+                "EEG",
+                "neuro"
+            ],
+            "furl": "https://www.autodidacts.io/rss/",
+            "hnp": 127
+        },
+        {
+            "name": "Gatewaynode",
+            "url": "https://gatewaynode.com",
+            "tags": [
+                "software engineering",
+                "devsecops",
+                "internet",
+                "technology",
+                "writing",
+                "politics",
+                "fiction",
+                "security"
+            ],
+            "hnp": 0
+        },
+        {
+            "name": "Jordan Morgan",
+            "url": "https://www.swiftjectivec.com",
+            "tags": [
+                "software",
+                "iOS",
+                "SwiftUI",
+                "macOS"
+            ],
+            "furl": "https://www.swiftjectivec.com/feed.xml",
+            "hnp": 71
+        },
+        {
+            "name": "Old Fashioned",
+            "url": "https://blog.virenmohindra.me",
+            "tags": [
+                "software engineering",
+                "personal",
+                "consulting",
+                "chess",
+                "internet",
+                "technology",
+                "writing"
+            ],
+            "furl": "https://blog.virenmohindra.me/feed",
+            "hnp": 0
+        },
+        {
+            "name": "Josh Spicer",
+            "url": "https://joshspicer.com",
+            "tags": [
+                "software engineering",
+                "personal"
+            ],
+            "furl": "https://joshspicer.com/feed.xml",
+            "hnp": 0
+        },
+        {
+            "name": "Tedium: The Dull Side of the Internet",
+            "url": "https://tedium.co",
+            "tags": [
+                "internet",
+                "history",
+                "retro",
+                "obscure",
+                "offbeat",
+                "tech-history",
+                "longform",
+                "pop-culture"
+            ],
+            "furl": "https://feed.tedium.co",
+            "hnp": 3804
+        },
+        {
+            "name": "Marek Narozniak's blog",
+            "url": "https://mareknarozniak.com/",
+            "tags": [
+                "quantum",
+                "physics",
+                "cryptography",
+                "optimization",
+                "tutorials",
+                "simulation",
+                "python",
+                "science",
+                "theory"
+            ],
+            "furl": "https://mareknarozniak.com/feed.xml",
+            "hnp": 2
+        },
+        {
+            "name": "Jamie Adams",
+            "url": "https://jamieadams.click",
+            "tags": [
+                "personal",
+                "internet",
+                "technology"
+            ],
+            "furl": "https://jamieadams.click/feed/",
+            "hnp": 0
+        },
+        {
           "name": "The Weltraumschaf – Sven Strittmatter",
           "url": "https://blog.weltraumschaf.de/",
           "tags": [
