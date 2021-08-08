@@ -4249,6 +4249,18 @@
             "clean-code"
           ],
           "furl": "https://blog.weltraumschaf.de/index.xml"
-      }
+      },
+      {
+          "name": "Occasionally sane",
+          "url": "https://vfoley.xyz/",
+          "tags": [
+              "programming",
+              "gnu",
+              "emacs",
+              "rust",
+              "thoughts"
+          ],
+          "furl": "https://vfoley.xyz/rss.xml"
+      },
     ]
 }
