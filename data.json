@@ -1904,6 +1904,15 @@
             "hnp": 956
         },
         {
+            "name": "Jon Udell",
+            "url": "https://blog.jonudell.net/",
+            "tags": [
+                "software",
+                "writer"
+            ],
+            "furl": "https://blog.jonudell.net/feed/"
+        },
+        {
             "name": "Jonas Plum",
             "url": "https://blog.cugu.eu/",
             "tags": [
