@@ -4276,6 +4276,25 @@
               "thoughts"
           ],
           "furl": "https://vfoley.xyz/rss.xml"
+      },
+      {
+          "name": "Thranpages",
+          "url": "https://www.thran.uk/",
+          "tags": [
+            "programming",
+            "internet-freedom",
+            "life-stories",
+            "culture",
+            "howto",
+            "music",
+            "film",
+            "anecdotes",
+            "internet",
+            "offbeat",
+            "open-source",
+            "opinionated"
+          ],
+          "furl": "https://www.thran.uk/rss.xml"
       }
     ]
 }
