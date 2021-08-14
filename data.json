@@ -4295,6 +4295,19 @@
             "opinionated"
           ],
           "furl": "https://www.thran.uk/rss.xml"
+      },
+      {
+        "name": "Sam Zeloof",
+        "url": "http://sam.zeloof.xyz/",
+        "tags": [
+            "circuits",
+            "home made chip",
+            "electronics",
+            "chemistry",
+            "mems",
+            "integrated circuits"
+        ],
+        "furl": "http://sam.zeloof.xyz/rss"
       }
     ]
 }
