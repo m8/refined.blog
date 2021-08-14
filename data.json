@@ -4308,6 +4308,17 @@
             "integrated circuits"
         ],
         "furl": "http://sam.zeloof.xyz/rss"
+      },
+      {
+        "name": "Random Thoughts - Lars Ingebrigtsen",
+        "url": "https://lars.ingebrigtsen.no/",
+        "tags": [
+            "programming",
+            "emacs",
+            "linux",
+            "thoughts"
+        ],
+        "furl": "https://lars.ingebrigtsen.no"
       }
     ]
 }
