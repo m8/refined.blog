@@ -4319,6 +4319,20 @@
             "thoughts"
         ],
         "furl": "https://lars.ingebrigtsen.no"
+      },
+      {
+        "name": "Mark Litwintschik",
+        "url": "https://tech.marksblogg.com/",
+        "tags": [
+            "software",
+            "programming",
+            "algorithms",
+            "systems",
+            "database",
+            "hadoop",
+            "thoughts"
+        ],
+        "furl": "https://tech.marksblogg.com/feeds/all.atom.xml"
       }
     ]
 }
