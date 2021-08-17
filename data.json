@@ -4333,6 +4333,19 @@
             "thoughts"
         ],
         "furl": "https://tech.marksblogg.com/feeds/all.atom.xml"
+      },
+      {
+        "name": "Paweł Urbanek",
+        "url": "https://pawelurbanek.com/blog",
+        "tags": [
+            "software",
+            "programming",
+            "performance",
+            "ruby",
+            "rails",
+            "postgresql"
+        ],
+        "furl": "https://pawelurbanek.com/feed.xml"
       }
     ]
 }
