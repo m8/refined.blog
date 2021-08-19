@@ -4346,6 +4346,18 @@
             "postgresql"
         ],
         "furl": "https://pawelurbanek.com/feed.xml"
+      },
+      {
+        "name": "ENOSUCHBLOG",
+        "url": "https://blog.yossarian.net/",
+        "tags": [
+            "software",
+            "compilers",
+            "x86",
+            "linux",
+            "philosophy"
+        ],
+        "furl": "https://blog.yossarian.net/feed.xml"
       }
     ]
 }
