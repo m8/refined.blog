@@ -4358,6 +4358,16 @@
             "philosophy"
         ],
         "furl": "https://blog.yossarian.net/feed.xml"
+      },
+      {
+          "name": "Cynthia Revström",
+          "url": "https://blog.cynthia.re/",
+          "tags": [
+              "software",
+              "networking",
+              "reverse engineering"
+          ],
+          "furl": "https://blog.cynthia.re/rss.xml"
       }
     ]
 }
