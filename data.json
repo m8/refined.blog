@@ -4358,6 +4358,18 @@
             "philosophy"
         ],
         "furl": "https://blog.yossarian.net/feed.xml"
+      },
+      {
+        "name": "Kevin Woblick",
+        "url": "https://blog.kovah.de/en",
+        "tags": [
+            "software",
+            "open-source",
+            "web-development",
+            "php",
+            "docker"
+        ],
+        "furl": "https://blog.kovah.de/en/index.xml"
       }
     ]
 }
