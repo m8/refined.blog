@@ -4370,6 +4370,22 @@
             "docker"
         ],
         "furl": "https://blog.kovah.de/en/index.xml"
+      },
+      {
+        "name": "Eftakhairul's world",
+        "url": "https://eftakhairul.com/",
+        "tags": [
+            "linux",            
+            "go",
+            "ruby",
+            "php",
+            "tutorials",
+            "javascript",
+            "aws",
+            "cryptocurrency",
+            "technology"            
+        ],
+        "furl": "https://eftakhairul.com/feed"
       }
     ]
 }
