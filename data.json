@@ -4370,6 +4370,17 @@
             "docker"
         ],
         "furl": "https://blog.kovah.de/en/index.xml"
+      },
+      {
+        "name": "Mike's Homepage",
+        "url": "https://krinkinmu.github.io/",
+        "tags": [
+            "software",
+            "open-source",
+            "operating system",
+            "system programming",
+            "aarch64"
+        ]
       }
     ]
 }
