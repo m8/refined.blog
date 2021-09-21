@@ -4381,6 +4381,16 @@
             "system programming",
             "aarch64"
         ]
+      },
+      {
+        "name": "N O D E",
+        "url": "https://n-o-d-e.net/index.html",
+        "tags": [
+            "hardware",
+            "thoughts",
+            "linux"
+        ],
+        "furl": "https://n-o-d-e.net/rss/rss.xml"
       }
     ]
 }
