@@ -4391,6 +4391,16 @@
             "linux"
         ],
         "furl": "https://n-o-d-e.net/rss/rss.xml"
+      },
+      {
+        "name": "Hugo's Blog",
+        "url": "https://hugo.md",
+        "tags": [
+          "performance",
+          "containers",
+          "software"
+        ],
+        "furl": "https://hugo.md/index.xml"
       }
     ]
 }
