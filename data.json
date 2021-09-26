@@ -4401,6 +4401,19 @@
           "software"
         ],
         "furl": "https://hugo.md/index.xml"
+      },
+      {
+        "name": "Brad Cypert's Blog",
+        "url": "https://bradcypert.com/blog",
+        "tags": [
+            "career",
+            "programming languages",
+            "tutorials",
+            "videos",
+            "tech tips",
+            "web development"
+        ],
+        "furl": "https://bradcypert.com/rss.xml"
       }
     ]
 }
