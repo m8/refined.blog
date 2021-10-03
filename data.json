@@ -4414,6 +4414,19 @@
             "web development"
         ],
         "furl": "https://bradcypert.com/rss.xml"
+      },
+      {
+        "name": "modexp",
+        "url": "https://modexp.wordpress.com",
+        "tags": [
+            "software",
+            "security",
+            "low-level",
+            "assembly",
+            "dll",
+            "injection"
+        ],
+        "furl": "https://modexp.wordpress.com/rss"
       }
     ]
 }
