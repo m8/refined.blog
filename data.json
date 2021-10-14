@@ -4428,5 +4428,16 @@
         ],
         "furl": "https://modexp.wordpress.com/rss"
       }
+        {
+        "name": "Pratik Bhatt",
+        "url": "https://pmbhatt.com",
+        "tags": [
+            "Okta",
+            "AzureAD",
+            "Identity",
+            "Access",
+            "IAM",
+        ],       
+       }
     ]
 }
