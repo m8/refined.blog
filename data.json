@@ -4427,6 +4427,19 @@
             "injection"
         ],
         "furl": "https://modexp.wordpress.com/rss"
+      },
+      {
+        "name": "Esteban Sastre's blog",
+        "url": "https://esteban.bearblog.dev",
+        "tags": [
+            "software",
+            "beer",
+            "javascript",
+            "fun",
+            "startups",
+            "opinion"
+        ],
+        "furl": "https://esteban.bearblog.dev/feed/"
       }
     ]
 }
