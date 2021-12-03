@@ -4440,6 +4440,19 @@
             "opinion"
         ],
         "furl": "https://esteban.bearblog.dev/feed/"
+      },
+      {
+        "name": "Sanjay Saraf's blog",
+        "url": "https://ssaraf.com",
+        "tags": [
+            "software",
+            "biology",
+            "medicine",
+            "productivity",
+            "technology",
+            "opinion"
+        ],
+        "furl": "http://ssaraf.com/posts/index.xml"
       }
     ]
 }
