@@ -12,6 +12,17 @@
             "hnp": 0
         },
         {
+            "name": "Chris Bergeron's Tech Blog",
+            "url": "https://chrisbergeron.com",
+            "tags": [
+                "software",
+                "homelab",
+                "linux", "nas", 
+                "apple", "pihole"
+            ],
+            "furl": "https://chrisbergeron.com/rss2.xml"
+        },
+        {
             "name": "loosed",
             "url": "https://l-o-o-s-e-d.net",
             "tags": [
