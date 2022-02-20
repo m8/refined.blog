@@ -121,6 +121,17 @@
             "furl": "https://matklad.github.io/feed.xml",
             "hnp": 2714
         },
+      
+     {
+         "name": "Avi Parshan's Tech Blog",
+         "url": "https://aviparshan.medium.com/",
+         "tags": [
+             "tech",
+             "programming languages",
+              "android", "reverse engineering"
+    ],
+    "furl": "https://aviparshan.medium.com/"
+    },
         {
             "name": "flak",
             "url": "https://flak.tedunangst.com/",
