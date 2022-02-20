@@ -4464,6 +4464,16 @@
             "opinion"
         ],
         "furl": "http://ssaraf.com/posts/index.xml"
+      },
+      {
+        "name": "Volution Notes",
+        "url": "https://notes.volution.ro/",
+        "tags": [
+            "technology",
+            "software",
+            "development"
+        ],
+        "furl": "https://notes.volution.ro/index.xml"
       }
     ]
 }
