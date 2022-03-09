@@ -4474,6 +4474,19 @@
             "development"
         ],
         "furl": "https://notes.volution.ro/index.xml"
+      },
+      {
+        "name": "Lorenzo Fontana",
+        "url": "https://fntlnz.wtf/",
+        "tags": [
+            "linux",
+            "bpf",
+            "tracing",
+            "perf",
+            "security",
+            "go"
+        ],
+        "furl": "https://fntlnz.wtf/index.xml"
       }
     ]
 }
