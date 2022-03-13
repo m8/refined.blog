@@ -4487,6 +4487,17 @@
             "go"
         ],
         "furl": "https://fntlnz.wtf/index.xml"
+      },
+      {
+        "name": "Carrot's Blog",
+        "url": "https://www.carrot.blog",
+        "tags": [
+            "software",
+            "kotlin",
+            "open-source",
+            "backend"
+        ],
+        "furl": "https://www.carrot.blog/feed.xml"
       }
     ]
 }
