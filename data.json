@@ -4511,6 +4511,18 @@
             "personal finance"
         ],
         "furl": "https://michaelscepaniak.com/feed.xml"
+      },
+      {
+        "name": "ancat",
+        "url": "https://ancat.github.io/",
+        "tags": [
+            "linux",
+            "tracing",
+            "ctf",
+            "security", 
+            "ptrace"
+        ],
+        "furl": ""
       }
     ]
 }
