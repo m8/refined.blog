@@ -4498,6 +4498,19 @@
             "backend"
         ],
         "furl": "https://www.carrot.blog/feed.xml"
+      },
+      {
+        "name": "Michael Harry Scepaniak",
+        "url": "https://michaelscepaniak.com/",
+        "tags": [
+            "sustainability",
+            "software development",
+            "diet, exercise, and health",
+            "entrepreneurship", 
+            "travel", 
+            "personal finance"
+        ],
+        "furl": "https://michaelscepaniak.com/feed.xml"
       }
     ]
 }
