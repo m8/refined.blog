@@ -4523,6 +4523,25 @@
             "ptrace"
         ],
         "furl": ""
+      },
+      {
+        "name": "Alexandru Nedelcu",
+        "url": "https://alexn.org/",
+        "tags": [
+            "scala",
+            "fp",
+            "programming",
+            "javascript",
+            "ruby",
+            "java",
+            "haskell",
+            "fsharp",
+            "self-hosting",
+            "linux",
+            "politics",
+            "wiki",
+        ],
+        "furl": "https://alexn.org/feeds/all.xml"
       }
     ]
 }
