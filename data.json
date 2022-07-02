@@ -4542,6 +4542,20 @@
             "wiki"
         ],
         "furl": "https://alexn.org/feeds/all.xml"
+      },
+      {
+        "name": "Chris Hannah",
+        "url": "https://chrishannah.me/",
+        "tags": [
+            "apps",
+            "ios",
+            "programming",
+            "blogging",
+            "internet",
+            "technology",
+            "personal"
+        ],
+        "furl": "https://chrishannah.me/rss/"
       }
     ]
 }
