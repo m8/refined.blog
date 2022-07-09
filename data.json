@@ -4383,6 +4383,17 @@
         "furl": "https://blog.kovah.de/en/index.xml"
       },
       {
+        "name": "CrociDB",
+        "url": "https://crocidb.com/",
+        "tags": [
+            "software",
+            "gamedev",
+            "lowlevel",
+            "thoughts"
+        ],
+        "furl": "https://crocidb.com/index.xml"
+      },
+      {
         "name": "Mike's Homepage",
         "url": "https://krinkinmu.github.io/",
         "tags": [
