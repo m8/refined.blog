@@ -12,6 +12,17 @@
             "hnp": 0
         },
         {
+            "name": "Chris Bergeron's Tech Blog",
+            "url": "https://chrisbergeron.com",
+            "tags": [
+                "software",
+                "homelab",
+                "linux", "nas", 
+                "apple", "pihole"
+            ],
+            "furl": "https://chrisbergeron.com/rss2.xml"
+        },
+        {
             "name": "loosed",
             "url": "https://l-o-o-s-e-d.net",
             "tags": [
@@ -4381,6 +4392,181 @@
             "thoughts"
         ],
         "furl": "https://crocidb.com/index.xml"
+      },
+      {
+        "name": "Mike's Homepage",
+        "url": "https://krinkinmu.github.io/",
+        "tags": [
+            "software",
+            "open-source",
+            "operating system",
+            "system programming",
+            "aarch64"
+        ]
+      },
+      {
+        "name": "N O D E",
+        "url": "https://n-o-d-e.net/index.html",
+        "tags": [
+            "hardware",
+            "thoughts",
+            "linux"
+        ],
+        "furl": "https://n-o-d-e.net/rss/rss.xml"
+      },
+      {
+        "name": "Hugo's Blog",
+        "url": "https://hugo.md",
+        "tags": [
+          "performance",
+          "containers",
+          "software"
+        ],
+        "furl": "https://hugo.md/index.xml"
+      },
+      {
+        "name": "Brad Cypert's Blog",
+        "url": "https://bradcypert.com/blog",
+        "tags": [
+            "career",
+            "programming languages",
+            "tutorials",
+            "videos",
+            "tech tips",
+            "web development"
+        ],
+        "furl": "https://bradcypert.com/rss.xml"
+      },
+      {
+        "name": "modexp",
+        "url": "https://modexp.wordpress.com",
+        "tags": [
+            "software",
+            "security",
+            "low-level",
+            "assembly",
+            "dll",
+            "injection"
+        ],
+        "furl": "https://modexp.wordpress.com/rss"
+      },
+      {
+        "name": "Esteban Sastre's blog",
+        "url": "https://esteban.bearblog.dev",
+        "tags": [
+            "software",
+            "beer",
+            "javascript",
+            "fun",
+            "startups",
+            "opinion"
+        ],
+        "furl": "https://esteban.bearblog.dev/feed/"
+      },
+      {
+        "name": "Sanjay Saraf's blog",
+        "url": "https://ssaraf.com",
+        "tags": [
+            "software",
+            "biology",
+            "medicine",
+            "productivity",
+            "technology",
+            "opinion"
+        ],
+        "furl": "http://ssaraf.com/posts/index.xml"
+      },
+      {
+        "name": "Volution Notes",
+        "url": "https://notes.volution.ro/",
+        "tags": [
+            "technology",
+            "software",
+            "development"
+        ],
+        "furl": "https://notes.volution.ro/index.xml"
+      },
+      {
+        "name": "Lorenzo Fontana",
+        "url": "https://fntlnz.wtf/",
+        "tags": [
+            "linux",
+            "bpf",
+            "tracing",
+            "perf",
+            "security",
+            "go"
+        ],
+        "furl": "https://fntlnz.wtf/index.xml"
+      },
+      {
+        "name": "Carrot's Blog",
+        "url": "https://www.carrot.blog",
+        "tags": [
+            "software",
+            "kotlin",
+            "open-source",
+            "backend"
+        ],
+        "furl": "https://www.carrot.blog/feed.xml"
+      },
+      {
+        "name": "Michael Harry Scepaniak",
+        "url": "https://michaelscepaniak.com/",
+        "tags": [
+            "sustainability",
+            "software development",
+            "diet, exercise, and health",
+            "entrepreneurship", 
+            "travel", 
+            "personal finance"
+        ],
+        "furl": "https://michaelscepaniak.com/feed.xml"
+      },
+      {
+        "name": "ancat",
+        "url": "https://ancat.github.io/",
+        "tags": [
+            "linux",
+            "tracing",
+            "ctf",
+            "security", 
+            "ptrace"
+        ],
+        "furl": ""
+      },
+      {
+        "name": "Alexandru Nedelcu",
+        "url": "https://alexn.org/",
+        "tags": [
+            "scala",
+            "fp",
+            "programming",
+            "javascript",
+            "ruby",
+            "java",
+            "haskell",
+            "fsharp",
+            "self-hosting",
+            "linux",
+            "politics",
+            "wiki"
+        ],
+        "furl": "https://alexn.org/feeds/all.xml"
+      },
+      {
+        "name": "Chris Hannah",
+        "url": "https://chrishannah.me/",
+        "tags": [
+            "apps",
+            "ios",
+            "programming",
+            "blogging",
+            "internet",
+            "technology",
+            "personal"
+        ],
+        "furl": "https://chrishannah.me/rss/"
       }
     ]
 }
