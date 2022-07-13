@@ -4568,5 +4568,16 @@
         ],
         "furl": "https://chrishannah.me/rss/"
       }
+        {
+        "name": "Pratik Bhatt",
+        "url": "https://pmbhatt.com",
+        "tags": [
+            "Okta",
+            "AzureAD",
+            "Identity",
+            "Access",
+            "IAM",
+        ],       
+       }
     ]
 }
