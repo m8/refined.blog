@@ -1847,6 +1847,19 @@
             "hnp": 4660
         },
         {
+            "name": "Pranav Chakkarwar",
+            "url": "https://p2anav.net/blog/",
+            "tags": [
+                "software",
+                "hardware",
+                "privacy",
+                "security",
+                "philosophy",
+                "free software"
+            ],
+            "furl": "https://p2anav.net/feed.xml"
+        },
+        {
             "name": "Joel Spolsky",
             "url": "https://www.joelonsoftware.com/",
             "tags": [
