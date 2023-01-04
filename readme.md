@@ -1,4 +1,4 @@
-The domain for refined.blog has expired and I would like to host the project at https://m8.github.io/refined.blog/.
+!!!!! The domain for 'refined.blog' has expired (so i have no longer access to the domain). Please see https://m8.github.io/refined.blog/. !!!!!
 
 
 # refined.blog
