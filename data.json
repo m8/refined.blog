@@ -11,6 +11,16 @@
             "furl": "https://musaunal.com/rss.xml",
             "hnp": 0
         },
+	{
+            "name": "Hack The World Blog",
+            "url": "https://jcjc-dev.com",
+            "tags": [
+                "security",
+                "firmware",
+                "linux", "embedded",
+                "iot", "reverse-engineering"
+            ]
+        },
         {
             "name": "Chris Bergeron's Tech Blog",
             "url": "https://chrisbergeron.com",
