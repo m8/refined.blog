@@ -1459,6 +1459,20 @@
             "hnp": 5442
         },
         {
+            "name": "foreverliketh.is",
+            "url": "https://foreverliketh.is/",
+            "tags": [
+                "education",
+                "psychology",
+                "personal",
+                "edtech",
+		"teched",
+                "thoughts"
+            ],
+            "furl": "https://foreverliketh.is/blog/index.xml",
+            "hnp": 26
+        },
+        {
             "name": "Freek Van der Herten",
             "url": "https://murze.be/",
             "tags": [
