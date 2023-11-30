@@ -17,4 +17,3 @@
     "furl": "https://drewdevault.com/blog/index.xml"
 },
 ```
-- Also for non-technical user they can add their links from [web from (google)](https://forms.gle/jzAQLhayCoXFmVNy9)

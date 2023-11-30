@@ -10,5 +10,3 @@ Experience is gold. There are many different social media platforms on the inter
 
 * **[See refined.blog](https://m8.github.io/refined.blog/)**
 * [See Contribution Guideline](contributing.md)
-
-<a href="https://refined.blog"><img src="img/refinedblog.png"></a>
