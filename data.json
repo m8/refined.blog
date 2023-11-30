@@ -4600,6 +4600,14 @@
             "security"
         ],
         "furl": ""
+      },
+      {
+        "name": "Bits, pixels, cycles and more",
+        "url": "https://zeux.io/",
+        "tags":[
+            "operating system"
+        ],
+        "furl": "https://zeux.io/feed"
       }
     ]
 }
