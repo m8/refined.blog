@@ -4608,6 +4608,14 @@
             "operating system"
         ],
         "furl": "https://zeux.io/feed"
+      },
+      { 
+        "name": "Mitxela",
+        "url": "https://mitxela.com/projects/hardware",
+        "tags":[
+            "hardware"
+        ],
+        "furl": ""
       }
     ]
 }
