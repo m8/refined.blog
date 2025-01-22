@@ -21,6 +21,12 @@
                 "iot", "reverse-engineering"
             ]
         },
+	{
+	    "name": "Rico's Site | Home of a programmer, traveler, photographer...",
+	    "url": "https://ricos.site",
+	    "furl": "https://ricos.site/feed.xml",
+	    "tags": ["programming", "traveling", "photography", "writing", "AI", "booknotes", "live and learn", "quotes"],
+	},
         {
             "name": "Chris Bergeron's Tech Blog",
             "url": "https://chrisbergeron.com",
