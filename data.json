@@ -4616,8 +4616,22 @@
             "hardware"
         ],
         "furl": ""
+      },
+      {
+        "name": "Redowan's Reflections",
+        "url": "https://rednafi.com",
+        "tags": [
+            "software",
+            "programming",
+            "go",
+            "python",
+            "unix",
+            "systems",
+            "backend",
+            "testing"
+        ],
+        "furl": "https://rednafi.com/index.xml"
       }
     ]
 }
-
 
