@@ -4616,6 +4616,21 @@
             "hardware"
         ],
         "furl": ""
+      },
+      {
+        "name": "情報の灯台 (Joho no Todai)",
+        "url": "https://joho-todai.com/",
+        "tags": [
+          "software",
+          "computers",
+          "linux",
+          "open-source",
+          "operating system",
+          "ai",
+          "security",
+          "japanese"
+        ],
+        "furl": "https://joho-todai.com/pinterest-rss/"
       }
     ]
 }
